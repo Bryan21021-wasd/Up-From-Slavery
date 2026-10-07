@@ -1,0 +1,6 @@
+1. Did a find for ^.+ and replaced with <line>\0</line>
+2. Did a select contents find for <line>(Chapter ([IVX+\..+])(.+))</line> and replaced with <title>\1</title>
+3. Did a find for <line>(Chapter ([I, V, X+\..+])(.+))</line>\n<line>(.+)</line> and replaced with <title>\1\3</title>
+4. Did a find for <line>Preface</line> and replaced with <preface>\1</preface>
+5. Did a find for <line>Introduction</line> and replaced with <introduction>Introduction</introduction>
+6. Manually wrapped contents with <contents></contents>, the title with <title></title>, and author with <author></author>
