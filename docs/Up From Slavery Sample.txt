@@ -1,0 +1,17 @@
+Up From Slavery Sample
+
+1. Delete not needed parts of file, Project Gutenberg introduction and end, other chapters, and contents. 
+
+2. Checking for &,<,>. None found.
+
+3. I searched for newlines and then replaced them with <p> tags. This was the only tagging I did using Regex, everything else I did manually.
+
+4. I searched for "mother", "sister" and "brother" since they appear multiple times throughout the chapter. I replaced them with <person relation="mother">\1</person>, <person relation="sister">\1</person>, and <person relation="brother">\1</person>.
+	4b. After learning the names of his sister and brother, Amanda and John, I tagged them the same way.
+
+5. I added a start tag, <book> and end tag.
+
+6. I tagged the title and chapter. I tagged the chapter as <chapter n="I"> and its title as <heading name="A_Slave_Among_Slaves".
+
+7. I tagged the rest of the document for significant places, and feelings.
+	7b. I tagged for tones, locations significant to life, time periods of life, and Historical References to events or people.
