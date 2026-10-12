@@ -1,0 +1,9 @@
+start = book
+book = element book {(title | author | contents | preface | introduction | line | text | chapter)+ }
+title = element title {text}
+author = element author {(line | text)+}
+contents = element contents {text}
+preface = element preface {(line | text)+}
+introduction = element introduction {(line | chapter)+}
+line = element line {(title | text | line)+}
+chapter = element chapter {(title, line, text)+}
