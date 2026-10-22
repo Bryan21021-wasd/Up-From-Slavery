@@ -1,3 +1,6 @@
 1. Find all "^.+", replace all with "<line>\0</line>".
 2. Find all "<line>(Chapter [IVX]+\.)</line>(\n)<line>(.+)</line>", replace all with "<title>\1\2\3</title>".
 3. Find all "<title>", replace all with "</chapter>\n<chapter>\0". Manually move the first </chapter> to the end of the last chapter.
+4. Find all "<line> \S.+</line>", replace all with "<chapList>\1</chapList>".
+5. Manual clean up. Find "<line>(Preface)</line>", replace with "<chapter>\1</chapter>". Find "<line>(Introduction)</line>", replace with "<chapter>\1</chapter>". FInd "<line>(UP FROM SLAVERY)</line>", replace with "<chapter>\1</chapter>". Delete all <line> tags and change it to one <dedication> tag for "This volume is dedicated to my Wife... at Tuskegee successful." Change the <line> tag to <author> tag for "By Booker T. Washington". Delete the very first <line> tag. Add a root element <book>.
+6. Edit: Find all "(<chapter)><title>(Chapter )([IVX]+)(\.\n)(.+)(</title>)", replace all with "\1 n="\3">\2\3\4<title titleName="\5">\5\6".

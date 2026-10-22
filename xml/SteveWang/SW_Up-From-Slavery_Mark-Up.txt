@@ -1,44 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
-<line>AN AUTOBIOGRAPHY</line>
-
-
-<line>By Booker T. Washington</line>
-
+<book>
+AN AUTOBIOGRAPHY
 
 
+<author>By Booker T. Washington</author>
 
-<line>This volume is dedicated to my Wife</line>
-<line>MRS. MARGARET JAMES WASHINGTON</line>
-<line>And to my Brother</line>
-<line>MR. JOHN H. WASHINGTON</line>
-<line>Whose patience, fidelity, and hard work have gone far</line>
-<line>to make the work at Tuskegee successful.</line>
+
+
+
+<dedication>This volume is dedicated to my Wife
+MRS. MARGARET JAMES WASHINGTON
+And to my Brother
+MR. JOHN H. WASHINGTON
+Whose patience, fidelity, and hard work have gone far
+to make the work at Tuskegee successful.</dedication>
 
 
 
 
 <line>CONTENTS</line>
 
-<line> Preface</line>
-<line> Introduction</line>
-<line> UP FROM SLAVERY</line>
-<line> Chapter I. A Slave Among Slaves</line>
-<line> Chapter II. Boyhood Days</line>
-<line> Chapter III. The Struggle For An Education</line>
-<line> Chapter IV. Helping Others</line>
-<line> Chapter V. The Reconstruction Period</line>
-<line> Chapter VI. Black Race And Red Race</line>
-<line> Chapter VII. Early Days At Tuskegee</line>
-<line> Chapter VIII. Teaching School In A Stable And A Hen-House</line>
-<line> Chapter IX. Anxious Days And Sleepless Nights</line>
-<line> Chapter X. A Harder Task Than Making Bricks Without Straw</line>
-<line> Chapter XI. Making Their Beds Before They Could Lie On Them</line>
-<line> Chapter XII. Raising Money</line>
-<line> Chapter XIII. Two Thousand Miles For A Five-Minute Speech</line>
-<line> Chapter XIV. The Atlanta Exposition Address</line>
-<line> Chapter XV. The Secret Of Success In Public Speaking</line>
-<line> Chapter XVI. Europe</line>
-<line> Chapter XVII. Last Words</line>
+<chapList> Preface</chapList>
+<chapList> Introduction</chapList>
+<chapList> UP FROM SLAVERY</chapList>
+<chapList> Chapter I. A Slave Among Slaves</chapList>
+<chapList> Chapter II. Boyhood Days</chapList>
+<chapList> Chapter III. The Struggle For An Education</chapList>
+<chapList> Chapter IV. Helping Others</chapList>
+<chapList> Chapter V. The Reconstruction Period</chapList>
+<chapList> Chapter VI. Black Race And Red Race</chapList>
+<chapList> Chapter VII. Early Days At Tuskegee</chapList>
+<chapList> Chapter VIII. Teaching School In A Stable And A Hen-House</chapList>
+<chapList> Chapter IX. Anxious Days And Sleepless Nights</chapList>
+<chapList> Chapter X. A Harder Task Than Making Bricks Without Straw</chapList>
+<chapList> Chapter XI. Making Their Beds Before They Could Lie On Them</chapList>
+<chapList> Chapter XII. Raising Money</chapList>
+<chapList> Chapter XIII. Two Thousand Miles For A Five-Minute Speech</chapList>
+<chapList> Chapter XIV. The Atlanta Exposition Address</chapList>
+<chapList> Chapter XV. The Secret Of Success In Public Speaking</chapList>
+<chapList> Chapter XVI. Europe</chapList>
+<chapList> Chapter XVII. Last Words</chapList>
 
 
 
@@ -48,7 +50,7 @@
 
 
 
-<line>Preface</line>
+<chapter>Preface</chapter>
 
 
 <line>This volume is the outgrowth of a series of articles, dealing with</line>
@@ -74,7 +76,7 @@
 
 
 
-<line>Introduction</line>
+<chapter>Introduction</chapter>
 
 
 <line>The details of Mr. Washington’s early life, as frankly set down in “Up</line>
@@ -345,14 +347,14 @@
 
 
 
-<line>UP FROM SLAVERY</line>
+<chapter>UP FROM SLAVERY</chapter>
 
 
 
 
 
-<chapter><title>Chapter I.
-A Slave Among Slaves</title>
+<chapter n="I">Chapter I.
+<title titleName="A Slave Among Slaves">A Slave Among Slaves</title>
 
 
 <line>I was born a slave on a plantation in Franklin County, Virginia. I am</line>
@@ -791,8 +793,8 @@ A Slave Among Slaves</title>
 
 
 </chapter>
-<chapter><title>Chapter II.
-Boyhood Days</title>
+<chapter n="II">Chapter II.
+<title titleName="Boyhood Days">Boyhood Days</title>
 
 
 <line>After the coming of freedom there were two points upon which</line>
@@ -1172,8 +1174,8 @@ Boyhood Days</title>
 
 
 </chapter>
-<chapter><title>Chapter III.
-The Struggle For An Education</title>
+<chapter n="III">Chapter III.
+<title titleName="The Struggle For An Education">The Struggle For An Education</title>
 
 
 <line>One day, while at work in the coal-mine, I happened to overhear two</line>
@@ -1613,8 +1615,8 @@ The Struggle For An Education</title>
 
 
 </chapter>
-<chapter><title>Chapter IV.
-Helping Others</title>
+<chapter n="IV">Chapter IV.
+<title titleName="Helping Others">Helping Others</title>
 
 
 <line>At the end of my first year at Hampton I was confronted with another</line>
@@ -1972,8 +1974,8 @@ Helping Others</title>
 
 
 </chapter>
-<chapter><title>Chapter V.
-The Reconstruction Period</title>
+<chapter n="V">Chapter V.
+<title titleName="The Reconstruction Period">The Reconstruction Period</title>
 
 
 <line>The years from 1867 to 1878 I think may be called the period of</line>
@@ -2214,8 +2216,8 @@ The Reconstruction Period</title>
 
 
 </chapter>
-<chapter><title>Chapter VI.
-Black Race And Red Race</title>
+<chapter n="VI">Chapter VI.
+<title titleName="Black Race And Red Race">Black Race And Red Race</title>
 
 
 <line>During the year that I spent in Washington, and for some little time</line>
@@ -2511,8 +2513,8 @@ Black Race And Red Race</title>
 
 
 </chapter>
-<chapter><title>Chapter VII.
-Early Days At Tuskegee</title>
+<chapter n="VII">Chapter VII.
+<title titleName="Early Days At Tuskegee">Early Days At Tuskegee</title>
 
 
 <line>During the time that I had charge of the Indians and the night-school</line>
@@ -2764,8 +2766,8 @@ Early Days At Tuskegee</title>
 
 
 </chapter>
-<chapter><title>Chapter VIII.
-Teaching School In A Stable And A Hen-House</title>
+<chapter n="VIII">Chapter VIII.
+<title titleName="Teaching School In A Stable And A Hen-House">Teaching School In A Stable And A Hen-House</title>
 
 
 <line>I confess that what I saw during my month of travel and investigation</line>
@@ -3093,8 +3095,8 @@ Teaching School In A Stable And A Hen-House</title>
 
 
 </chapter>
-<chapter><title>Chapter IX.
-Anxious Days And Sleepless Nights</title>
+<chapter n="IX">Chapter IX.
+<title titleName="Anxious Days And Sleepless Nights">Anxious Days And Sleepless Nights</title>
 
 
 <line>The coming of Christmas, that first year of our residence in Alabama,</line>
@@ -3405,8 +3407,8 @@ Anxious Days And Sleepless Nights</title>
 
 
 </chapter>
-<chapter><title>Chapter X.
-A Harder Task Than Making Bricks Without Straw</title>
+<chapter n="X">Chapter X.
+<title titleName="A Harder Task Than Making Bricks Without Straw">A Harder Task Than Making Bricks Without Straw</title>
 
 
 <line>From the very beginning, at Tuskegee, I was determined to have the</line>
@@ -3734,8 +3736,8 @@ A Harder Task Than Making Bricks Without Straw</title>
 
 
 </chapter>
-<chapter><title>Chapter XI.
-Making Their Beds Before They Could Lie On Them</title>
+<chapter n="XI">Chapter XI.
+<title titleName="Making Their Beds Before They Could Lie On Them">Making Their Beds Before They Could Lie On Them</title>
 
 
 <line>A little later in the history of the school we had a visit from General</line>
@@ -4019,8 +4021,8 @@ Making Their Beds Before They Could Lie On Them</title>
 
 
 </chapter>
-<chapter><title>Chapter XII.
-Raising Money</title>
+<chapter n="XII">Chapter XII.
+<title titleName="Raising Money">Raising Money</title>
 
 
 <line>When we opened our boarding department, we provided rooms in the attic</line>
@@ -4434,8 +4436,8 @@ Raising Money</title>
 
 
 </chapter>
-<chapter><title>Chapter XIII.
-Two Thousand Miles For A Five-Minute Speech</title>
+<chapter n="XIII">Chapter XIII.
+<title titleName="Two Thousand Miles For A Five-Minute Speech">Two Thousand Miles For A Five-Minute Speech</title>
 
 
 <line>Soon after the opening of our boarding department, quite a number of</line>
@@ -4874,8 +4876,8 @@ Two Thousand Miles For A Five-Minute Speech</title>
 
 
 </chapter>
-<chapter><title>Chapter XIV.
-The Atlanta Exposition Address</title>
+<chapter n="XIV">Chapter XIV.
+<title titleName="The Atlanta Exposition Address">The Atlanta Exposition Address</title>
 
 
 <line>The Atlanta Exposition, at which I had been asked to make an address as</line>
@@ -5336,8 +5338,8 @@ The Atlanta Exposition Address</title>
 
 
 </chapter>
-<chapter><title>Chapter XV.
-The Secret Of Success In Public Speaking</title>
+<chapter n="XV">Chapter XV.
+<title titleName="The Secret Of Success In Public Speaking">The Secret Of Success In Public Speaking</title>
 
 
 <line>As to how my address at Atlanta was received by the audience in the</line>
@@ -5982,8 +5984,8 @@ The Secret Of Success In Public Speaking</title>
 
 
 </chapter>
-<chapter><title>Chapter XVI.
-Europe</title>
+<chapter n="XVI">Chapter XVI.
+<title titleName="Europe">Europe</title>
 
 
 <line>In 1893 I was married to Miss Margaret James Murray, a native of</line>
@@ -6538,8 +6540,8 @@ Europe</title>
 
 
 </chapter>
-<chapter><title>Chapter XVII.
-Last Words</title>
+<chapter n="XVII">Chapter XVII.
+<title titleName="Last Words">Last Words</title>
 
 
 <line>Before going to Europe some events came into my life which were great</line>
@@ -7164,7 +7166,7 @@ Last Words</title>
 <line>heart I thanked both races for this welcome back to the state that gave</line>
 <line>me birth.</line>
 </chapter>
-
+</book>
 
 
 
