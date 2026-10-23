@@ -11,8 +11,8 @@ AN AUTOBIOGRAPHY
 
 <dedication>This volume is dedicated to my Wife
 MRS. MARGARET JAMES WASHINGTON
-And to my Brother
-MR. JOHN H. WASHINGTON
+And to my <person relation="brother">Brother</person>
+MR. <person relation="brother">JOHN</person> H. WASHINGTON
 Whose patience, fidelity, and hard work have gone far
 to make the work at Tuskegee successful.</dedication>
 
@@ -166,10 +166,10 @@ to make the work at Tuskegee successful.</dedication>
 <line>years behind their fellows in every other part of the world—in England,</line>
 <line>in Australia, and in the Northern and Western States; I was thinking of</line>
 <line>this dark shadow that had oppressed every large-minded statesman from</line>
-<line>Jefferson to Lincoln. These thousand young men and women about me were</line>
+<line>Jefferson to <HistRef person="Abraham_Lincoln">Lincoln</HistRef>. These thousand young men and women about me were</line>
 <line>victims of it. I, too, was an innocent victim of it. The whole Republic</line>
-<line>was a victim of that fundamental error of importing Africa into</line>
-<line>America. I held firmly to the first article of my faith that the</line>
+<line>was a victim of that fundamental error of importing <place country="Africa">Africa</place> into</line>
+<line><place country="America">America</place>. I held firmly to the first article of my faith that the</line>
 <line>Republic must stand fast by the principle of a fair ballot; but I</line>
 <line>recalled the wretched mess that Reconstruction had made of it; I</line>
 <line>recalled the low level of public life in all the “black” States. Every</line>
@@ -269,7 +269,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>kind of training. This change of view is a true measure of Mr.</line>
 <line>Washington’s work.</line>
 
-<line>The literature of the Negro in America is colossal, from political</line>
+<line>The literature of the Negro in <place country="America">America</place> is colossal, from political</line>
 <line>oratory through abolitionism to “Uncle Tom’s Cabin” and “Cotton is</line>
 <line>King”—a vast mass of books which many men have read to the waste of</line>
 <line>good years (and I among them); but the only books that I have read a</line>
@@ -357,35 +357,35 @@ to make the work at Tuskegee successful.</dedication>
 <title titleName="A Slave Among Slaves">A Slave Among Slaves</title>
 
 
-<line>I was born a slave on a plantation in Franklin County, Virginia. I am</line>
+<line><tone feeling="explanatory">I was born a slave on a plantation in <place state="Virginia">Franklin County, Virginia<place>. I am</line>
 <line>not quite sure of the exact place or exact date of my birth, but at any</line>
 <line>rate I suspect I must have been born somewhere and at some time. As</line>
 <line>nearly as I have been able to learn, I was born near a cross-roads</line>
-<line>post-office called Hale’s Ford, and the year was 1858 or 1859. I do not</line>
+<line>post-office called Hale’s Ford, and the year was <year n="1858">1858</year> or <year n="1859">1859</year>. I do not</line>
 <line>know the month or the day. The earliest impressions I can now recall</line>
 <line>are of the plantation and the slave quarters—the latter being the part</line>
-<line>of the plantation where the slaves had their cabins.</line>
+<line>of the plantation where the slaves had their cabins.</tone></line>
 
-<line>My life had its beginning in the midst of the most miserable, desolate,</line>
+<line><tone feeling="melancholy">My life had its beginning in the midst of the most miserable, desolate,</line>
 <line>and discouraging surroundings. This was so, however, not because my</line>
 <line>owners were especially cruel, for they were not, as compared with many</line>
 <line>others. I was born in a typical log cabin, about fourteen by sixteen</line>
-<line>feet square. In this cabin I lived with my mother and a brother and</line>
-<line>sister till after the Civil War, when we were all declared free.</line>
+<line>feet square. In this cabin I lived with my <person relation="mother">mother</person> and a <person relation="brother">brother</person> and</line>
+<line><person relation="sister">sister</person> till after the <HistRef event="Civil_War">Civil War</HistRef>, when we were all declared free.</tone></line>
 
 <line>Of my ancestry I know almost nothing. In the slave quarters, and even</line>
 <line>later, I heard whispered conversations among the coloured people of the</line>
 <line>tortures which the slaves, including, no doubt, my ancestors on my</line>
-<line>mother’s side, suffered in the middle passage of the slave ship while</line>
-<line>being conveyed from Africa to America. I have been unsuccessful in</line>
+<line><person relation="mother">mother</person>’s side, suffered in the middle passage of the slave ship while</line>
+<line>being conveyed from <place country="Africa">Africa</place> to <place country="America">America</place>. I have been unsuccessful in</line>
 <line>securing any information that would throw any accurate light upon the</line>
-<line>history of my family beyond my mother. She, I remember, had a</line>
-<line>half-brother and a half-sister. In the days of slavery not very much</line>
+<line>history of my family beyond my <person relation="mother">mother</person>. She, I remember, had a</line>
+<line>half-<person relation="brother">brother</person> and a half-<person relation="sister">sister</person>. In the days of slavery not very much</line>
 <line>attention was given to family history and family records—that is, black</line>
-<line>family records. My mother, I suppose, attracted the attention of a</line>
+<line>family records. My <person relation="mother">mother</person>, I suppose, attracted the attention of a</line>
 <line>purchaser who was afterward my owner and hers. Her addition to the</line>
 <line>slave family attracted about as much attention as the purchase of a new</line>
-<line>horse or cow. Of my father I know even less than of my mother. I do not</line>
+<line>horse or cow. Of my father I know even less than of my <person relation="mother">mother</person>. I do not</line>
 <line>even know his name. I have heard reports to the effect that he was a</line>
 <line>white man who lived on one of the near-by plantations. Whoever he was,</line>
 <line>I never heard of his taking the least interest in me or providing in</line>
@@ -393,8 +393,8 @@ to make the work at Tuskegee successful.</dedication>
 <line>was simply another unfortunate victim of the institution which the</line>
 <line>Nation unhappily had engrafted upon it at that time.</line>
 
-<line>The cabin was not only our living-place, but was also used as the</line>
-<line>kitchen for the plantation. My mother was the plantation cook. The</line>
+<line><tone feeling="nostalgic">The cabin was not only our living-place, but was also used as the</line>
+<line>kitchen for the plantation. My <person relation="mother">mother</person> was the plantation cook. <description>The</line>
 <line>cabin was without glass windows; it had only openings in the side which</line>
 <line>let in the light, and also the cold, chilly air of winter. There was a</line>
 <line>door to the cabin—that is, something that was called a door—but the</line>
@@ -417,31 +417,31 @@ to make the work at Tuskegee successful.</dedication>
 <line>potatoes in or taking them out I would often come into possession of</line>
 <line>one or two, which I roasted and thoroughly enjoyed. There was no</line>
 <line>cooking-stove on our plantation, and all the cooking for the whites and</line>
-<line>slaves my mother had to do over an open fireplace, mostly in pots and</line>
+<line>slaves my <person relation="mother">mother</person> had to do over an open fireplace, mostly in pots and</line>
 <line>“skillets.” While the poorly built cabin caused us to suffer with cold</line>
 <line>in the winter, the heat from the open fireplace in summer was equally</line>
-<line>trying.</line>
+<line>trying.</description></tone></line>
 
-<line>The early years of my life, which were spent in the little cabin, were</line>
-<line>not very different from those of thousands of other slaves. My mother,</line>
+<line><period time="Early_Life">The early years of my life, which were spent in the little cabin, were</line>
+<line>not very different from those of thousands of other slaves. My <person relation="mother">mother</person>,</line>
 <line>of course, had little time in which to give attention to the training</line>
 <line>of her children during the day. She snatched a few moments for our care</line>
 <line>in the early morning before her work began, and at night after the</line>
 <line>day’s work was done. One of my earliest recollections is that of my</line>
-<line>mother cooking a chicken late at night, and awakening her children for</line>
+<line><person relation="mother">mother</person> cooking a chicken late at night, and awakening her children for</line>
 <line>the purpose of feeding them. How or where she got it I do not know. I</line>
 <line>presume, however, it was procured from our owner’s farm. Some people</line>
-<line>may call this theft. If such a thing were to happen now, I should</line>
+<line>may call this theft</period>. If such a thing were to happen now, I should</line>
 <line>condemn it as theft myself. But taking place at the time it did, and</line>
 <line>for the reason that it did, no one could ever make me believe that my</line>
-<line>mother was guilty of thieving. She was simply a victim of the system of</line>
+<line><person relation="mother">mother</person> was guilty of thieving. She was simply a victim of the system of</line>
 <line>slavery. I cannot remember having slept in a bed until after our family</line>
-<line>was declared free by the Emancipation Proclamation. Three</line>
-<line>children—John, my older brother, Amanda, my sister, and myself—had a</line>
+<line>was declared free by the <HistRef event="Emancipation_Proclamation">Emancipation Proclamation</HistRef>. Three</line>
+<line>children—<person relation="brother">John</person>, my older <person relation="brother">brother</person>, <person relation="sister">Amanda</person>, my <person relation="sister">sister</person>, and myself—had a</line>
 <line>pallet on the dirt floor, or, to be more correct, we slept in and on a</line>
 <line>bundle of filthy rags laid upon the dirt floor.</line>
 
-<line>I was asked not long ago to tell something about the sports and</line>
+<line><tone feeling="meloncholy"><period time="Early_Life">I was asked not long ago to tell something about the sports and</line>
 <line>pastimes that I engaged in during my youth. Until that question was</line>
 <line>asked it had never occurred to me that there was no period of my life</line>
 <line>that was devoted to play. From the time that I can remember anything,</line>
@@ -467,7 +467,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>deserted from the army, and I had been told that the first thing a</line>
 <line>deserter did to a Negro boy when he found him alone was to cut off his</line>
 <line>ears. Besides, when I was late in getting home I knew I would always</line>
-<line>get a severe scolding or a flogging.</line>
+<line>get a severe scolding or a flogging.</tone></period></line>
 
 <line>I had no schooling whatever while I was a slave, though I remember on</line>
 <line>several occasions I went as far as the schoolhouse door with one of my</line>
@@ -476,34 +476,34 @@ to make the work at Tuskegee successful.</dedication>
 <line>me, and I had the feeling that to get into a schoolhouse and study in</line>
 <line>this way would be about the same as getting into paradise.</line>
 
-<line>So far as I can now recall, the first knowledge that I got of the fact</line>
+<line><tone feeling="reminiscent">So far as I can now recall, the first knowledge that I got of the fact</line>
 <line>that we were slaves, and that freedom of the slaves was being</line>
 <line>discussed, was early one morning before day, when I was awakened by my</line>
-<line>mother kneeling over her children and fervently praying that Lincoln</line>
+<line><person relation="mother">mother</person> kneeling over her children and fervently praying that <HistRef person="Abraham_Lincoln">Lincoln</HistRef></line>
 <line>and his armies might be successful, and that one day she and her</line>
 <line>children might be free. In this connection I have never been able to</line>
 <line>understand how the slaves throughout the South, completely ignorant as</line>
 <line>were the masses so far as books or newspapers were concerned, were able</line>
 <line>to keep themselves so accurately and completely informed about the</line>
 <line>great National questions that were agitating the country. From the time</line>
-<line>that Garrison, Lovejoy, and others began to agitate for freedom, the</line>
+<line>that <HistRef person="William_LLoyd_Garrison">Garrison<HistRef>, <HistRef person="Elijah_Parish_Lovejoy">Lovejoy</HistRef>, and others began to agitate for freedom, the</line>
 <line>slaves throughout the South kept in close touch with the progress of</line>
 <line>the movement. Though I was a mere child during the preparation for the</line>
-<line>Civil War and during the war itself, I now recall the many</line>
-<line>late-at-night whispered discussions that I heard my mother and the</line>
+<line><HistRef event="Civil_War">Civil War</HistRef> and during the <HistRef event="Civil_War">war</HistRef> itself, I now recall the many</line>
+<line>late-at-night whispered discussions that I heard my <person relation="mother">mother</person> and the</line>
 <line>other slaves on the plantation indulge in. These discussions showed</line>
 <line>that they understood the situation, and that they kept themselves</line>
-<line>informed of events by what was termed the “grape-vine” telegraph.</line>
+<line>informed of events by what was termed the “grape-vine” telegraph</tone>.</line>
 
-<line>During the campaign when Lincoln was first a candidate for the</line>
+<line>During the campaign when <HistRef person="Abraham_Lincoln">Lincoln</HistRef> was first a candidate for the</line>
 <line>Presidency, the slaves on our far-off plantation, miles from any</line>
 <line>railroad or large city or daily newspaper, knew what the issues</line>
-<line>involved were. When war was begun between the North and the South,</line>
+<line>involved were. When <HistRef event="Civil_War">war</HistRef> was begun between the North and the South,</line>
 <line>every slave on our plantation felt and knew that, though other issues</line>
 <line>were discussed, the primal one was that of slavery. Even the most</line>
 <line>ignorant members of my race on the remote plantations felt in their</line>
 <line>hearts, with a certainty that admitted of no doubt, that the freedom of</line>
-<line>the slaves would be the one great result of the war, if the Northern</line>
+<line>the slaves would be the one great result of the <HistRef event="Civil_War">war</HistRef>, if the Northern</line>
 <line>armies conquered. Every success of the Federal armies and every defeat</line>
 <line>of the Confederate forces was watched with the keenest and most intense</line>
 <line>interest. Often the slaves got knowledge of the results of great</line>
@@ -519,48 +519,48 @@ to make the work at Tuskegee successful.</dedication>
 <line>this way they often heard of important events before the white people</line>
 <line>at the “big house,” as the master’s house was called.</line>
 
-<line>I cannot remember a single instance during my childhood or early</line>
+<line><period time="Early_Life">I cannot remember a single instance during my childhood or early</line>
 <line>boyhood when our entire family sat down to the table together, and</line>
 <line>God’s blessing was asked, and the family ate a meal in a civilized</line>
-<line>manner. On the plantation in Virginia, and even later, meals were</line>
+<line>manner. On the plantation in <place state="Virginia">Virginia</place>, and even later, meals were</line>
 <line>gotten by the children very much as dumb animals get theirs. It was a</line>
 <line>piece of bread here and a scrap of meat there. It was a cup of milk at</line>
 <line>one time and some potatoes at another. Sometimes a portion of our</line>
 <line>family would eat out of the skillet or pot, while some one else would</line>
 <line>eat from a tin plate held on the knees, and often using nothing but the</line>
-<line>hands with which to hold the food. When I had grown to sufficient size,</line>
+<line>hands with which to hold the food</period>. When I had grown to sufficient size,</line>
 <line>I was required to go to the “big house” at meal-times to fan the flies</line>
 <line>from the table by means of a large set of paper fans operated by a</line>
 <line>pulley. Naturally much of the conversation of the white people turned</line>
-<line>upon the subject of freedom and the war, and I absorbed a good deal of</line>
-<line>it. I remember that at one time I saw two of my young mistresses and</line>
+<line>upon the subject of freedom and the <HistRef event="Civil_War">war</HistRef>, and I absorbed a good deal of</line>
+<line>it. <tone feeling="longing">I remember that at one time I saw two of my young mistresses and</line>
 <line>some lady visitors eating ginger-cakes, in the yard. At that time those</line>
 <line>cakes seemed to me to be absolutely the most tempting and desirable</line>
 <line>things that I had ever seen; and I then and there resolved that, if I</line>
 <line>ever got free, the height of my ambition would be reached if I could</line>
 <line>get to the point where I could secure and eat ginger-cakes in the way</line>
-<line>that I saw those ladies doing.</line>
+<line>that I saw those ladies doing.</tone></line>
 
-<line>Of course as the war was prolonged the white people, in many cases,</line>
+<line>Of course as the <HistRef event="Civil_War">war</HistRef> was prolonged the white people, in many cases,</line>
 <line>often found it difficult to secure food for themselves. I think the</line>
 <line>slaves felt the deprivation less than the whites, because the usual</line>
 <line>diet for slaves was corn bread and pork, and these could be raised on</line>
 <line>the plantation; but coffee, tea, sugar, and other articles which the</line>
 <line>whites had been accustomed to use could not be raised on the</line>
-<line>plantation, and the conditions brought about by the war frequently made</line>
+<line>plantation, and the conditions brought about by the <HistRef event="Civil_War">war</HistRef> frequently made</line>
 <line>it impossible to secure these things. The whites were often in great</line>
 <line>straits. Parched corn was used for coffee, and a kind of black molasses</line>
 <line>was used instead of sugar. Many times nothing was used to sweeten the</line>
 <line>so-called tea and coffee.</line>
 
-<line>The first pair of shoes that I recall wearing were wooden ones. They</line>
+<line><tone feeling="reminiscent">The first pair of shoes that I recall wearing were wooden ones. They</line>
 <line>had rough leather on the top, but the bottoms, which were about an inch</line>
 <line>thick, were of wood. When I walked they made a fearful noise, and</line>
 <line>besides this they were very inconvenient, since there was no yielding</line>
 <line>to the natural pressure of the foot. In wearing them one presented an</line>
 <line>exceedingly awkward appearance. The most trying ordeal that I was</line>
 <line>forced to endure as a slave boy, however, was the wearing of a flax</line>
-<line>shirt. In the portion of Virginia where I lived it was common to use</line>
+<line>shirt. In the portion of <place state="Virginia">Virginia</place> where I lived it was common to use</line>
 <line>flax as part of the clothing for the slaves. That part of the flax from</line>
 <line>which our clothing was made was largely the refuse, which of course was</line>
 <line>the cheapest and roughest part. I can scarcely imagine any torture,</line>
@@ -573,21 +573,21 @@ to make the work at Tuskegee successful.</dedication>
 <line>was soft and tender added to the pain. But I had no choice. I had to</line>
 <line>wear the flax shirt or none; and had it been left to me to choose, I</line>
 <line>should have chosen to wear no covering. In connection with the flax</line>
-<line>shirt, my brother John, who is several years older than I am, performed</line>
+<line>shirt, my <person relation="brother">brother</person> <person relation="brother">John</person>, who is several years older than I am, performed</line>
 <line>one of the most generous acts that I ever heard of one slave relative</line>
 <line>doing for another. On several occasions when I was being forced to wear</line>
 <line>a new flax shirt, he generously agreed to put it on in my stead and</line>
 <line>wear it for several days, till it was “broken in.” Until I had grown to</line>
-<line>be quite a youth this single garment was all that I wore.</line>
+<line>be quite a youth this single garment was all that I wore.</tone></line>
 
 <line>One may get the idea, from what I have said, that there was bitter</line>
 <line>feeling toward the white people on the part of my race, because of the</line>
-<line>fact that most of the white population was away fighting in a war which</line>
+<line>fact that most of the white population was away fighting in a <HistRef event="Civil_War">war</HistRef> which</line>
 <line>would result in keeping the Negro in slavery if the South was</line>
 <line>successful. In the case of the slaves on our place this was not true,</line>
 <line>and it was not true of any large portion of the slave population in the</line>
 <line>South where the Negro was treated with anything like decency. During</line>
-<line>the Civil War one of my young masters was killed, and two were severely</line>
+<line>the <HistRef event="Civil_War">Civil War</HistRef> one of my young masters was killed, and two were severely</line>
 <line>wounded. I recall the feeling of sorrow which existed among the slaves</line>
 <line>when they heard of the death of “Mars’ Billy.” It was no sham sorrow,</line>
 <line>but real. Some of the slaves had nursed “Mars’ Billy”; others had</line>
@@ -602,7 +602,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>sympathy on the part of those held in bondage was a result of their</line>
 <line>kindly and generous nature. In order to defend and protect the women</line>
 <line>and children who were left on the plantations when the white males went</line>
-<line>to war, the slaves would have laid down their lives. The slave who was</line>
+<line>to <HistRef event="Civil_War">war</HistRef>, the slaves would have laid down their lives. The slave who was</line>
 <line>selected to sleep in the “big house” during the absence of the males</line>
 <line>was considered to have the place of honour. Any one attempting to harm</line>
 <line>“young Mistress” or “old Mistress” during the night would have had to</line>
@@ -612,10 +612,10 @@ to make the work at Tuskegee successful.</dedication>
 <line>race has been known to betray a specific trust.</line>
 
 <line>As a rule, not only did the members of my race entertain no feelings of</line>
-<line>bitterness against the whites before and during the war, but there are</line>
+<line>bitterness against the whites before and during the <HistRef event="Civil_War">war</HistRef>, but there are</line>
 <line>many instances of Negroes tenderly caring for their former masters and</line>
 <line>mistresses who for some reason have become poor and dependent since the</line>
-<line>war. I know of instances where the former masters of slaves have for</line>
+<line><HistRef event="Civil_War">war</HistRef>. I know of instances where the former masters of slaves have for</line>
 <line>years been supplied with money by their former slaves to keep them from</line>
 <line>suffering. I have known of still other cases in which the former slaves</line>
 <line>have assisted in the education of the descendants of their former</line>
@@ -632,18 +632,18 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>I have said that there are few instances of a member of my race</line>
 <line>betraying a specific trust. One of the best illustrations of this which</line>
-<line>I know of is in the case of an ex-slave from Virginia whom I met not</line>
-<line>long ago in a little town in the state of Ohio. I found that this man</line>
+<line>I know of is in the case of an ex-slave from <place state="Virginia">Virginia</place> whom I met not</line>
+<line>long ago in a little town in the state of <place state="Ohio">Ohio</place>. I found that this man</line>
 <line>had made a contract with his master, two or three years previous to the</line>
-<line>Emancipation Proclamation, to the effect that the slave was to be</line>
+<line><HistRef event="Emancipation_Proclamation">Emancipation Proclamation</HistRef>, to the effect that the slave was to be</line>
 <line>permitted to buy himself, by paying so much per year for his body; and</line>
 <line>while he was paying for himself, he was to be permitted to labour where</line>
 <line>and for whom he pleased. Finding that he could secure better wages in</line>
 <line>Ohio, he went there. When freedom came, he was still in debt to his</line>
 <line>master some three hundred dollars. Notwithstanding that the</line>
-<line>Emancipation Proclamation freed him from any obligation to his master,</line>
+<line><HistRef event="Emancipation_Proclamation">Emancipation Proclamation</HistRef> freed him from any obligation to his master,</line>
 <line>this black man walked the greater portion of the distance back to where</line>
-<line>his old master lived in Virginia, and placed the last dollar, with</line>
+<line>his old master lived in <place state="Virginia">Virginia</place>, and placed the last dollar, with</line>
 <line>interest, in his hands. In talking to me about this, the man told me</line>
 <line>that he knew that he did not have to pay the debt, but that he had</line>
 <line>given his word to the master, and his word he had never broken. He felt</line>
@@ -653,7 +653,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>slaves did not want freedom. This is not true. I have never seen one</line>
 <line>who did not want to be free, or one who would return to slavery.</line>
 
-<line>I pity from the bottom of my heart any nation or body of people that is</line>
+<line><tone feeling="melancholy">I pity from the bottom of my heart any nation or body of people that is</line>
 <line>so unfortunate as to get entangled in the net of slavery. I have long</line>
 <line>since ceased to cherish any spirit of bitterness against the Southern</line>
 <line>white people on account of the enslavement of my race. No one section</line>
@@ -671,16 +671,16 @@ to make the work at Tuskegee successful.</dedication>
 <line>number of black people in any other portion of the globe. This is so to</line>
 <line>such an extent that Negroes in this country, who themselves or whose</line>
 <line>forefathers went through the school of slavery, are constantly</line>
-<line>returning to Africa as missionaries to enlighten those who remained in</line>
+<line>returning to <place country="Africa">Africa</place> as missionaries to enlighten those who remained in</line>
 <line>the fatherland. This I say, not to justify slavery—on the other hand, I</line>
-<line>condemn it as an institution, as we all know that in America it was</line>
+<line>condemn it as an institution, as we all know that in <place country="America">America</place> it was</line>
 <line>established for selfish and financial reasons, and not from a</line>
 <line>missionary motive—but to call attention to a fact, and to show how</line>
 <line>Providence so often uses men and institutions to accomplish a purpose.</line>
 <line>When persons ask me in these days how, in the midst of what sometimes</line>
 <line>seem hopelessly discouraging conditions, I can have such faith in the</line>
 <line>future of my race in this country, I remind them of the wilderness</line>
-<line>through which and out of which, a good Providence has already led us.</line>
+<line>through which and out of which, a good Providence has already led us.</tone></line>
 
 <line>Ever since I have been old enough to think for myself, I have</line>
 <line>entertained the idea that, notwithstanding the cruel wrongs inflicted</line>
@@ -714,7 +714,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>other hand, the slaves, in many cases, had mastered some handicraft,</line>
 <line>and none were ashamed, and few unwilling, to labour.</line>
 
-<line>Finally the war closed, and the day of freedom came. It was a momentous</line>
+<line>Finally the <HistRef event="Civil_War">war</HistRef> closed, and the day of freedom came. It was a momentous</line>
 <line>and eventful day to all upon our plantation. We had been expecting it.</line>
 <line>Freedom was in the air, and had been for months. Deserting soldiers</line>
 <line>returning to their homes were to be seen every day. Others who had been</line>
@@ -740,7 +740,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>at the “big house” the next morning. There was little, if any, sleep</line>
 <line>that night. All as excitement and expectancy. Early the next morning</line>
 <line>word was sent to all the slaves, old and young, to gather at the house.</line>
-<line>In company with my mother, brother, and sister, and a large number of</line>
+<line>In company with my <person relation="mother">mother</person>, <person relation="brother">brother</person>, and <person relation="sister">sister</person>, and a large number of</line>
 <line>other slaves, I went to the master’s house. All of our master’s family</line>
 <line>were either standing or seated on the veranda of the house, where they</line>
 <line>could see what was to take place and hear what was said. There was a</line>
@@ -751,9 +751,9 @@ to make the work at Tuskegee successful.</dedication>
 <line>in many ways very close to them. The most distinct thing that I now</line>
 <line>recall in connection with the scene was that some man who seemed to be</line>
 <line>a stranger (a United States officer, I presume) made a little speech</line>
-<line>and then read a rather long paper—the Emancipation Proclamation, I</line>
+<line>and then read a rather long paper—the <HistRef event="Emancipation_Proclamation">Emancipation Proclamation</HistRef>, I</line>
 <line>think. After the reading we were told that we were all free, and could</line>
-<line>go when and where we pleased. My mother, who was standing by my side,</line>
+<line>go when and where we pleased. My <person relation="mother">mother</person>, who was standing by my side,</line>
 <line>leaned over and kissed her children, while tears of joy ran down her</line>
 <line>cheeks. She explained to us what it all meant, that this was the day</line>
 <line>for which she had been so long praying, but fearing that she would</line>
@@ -808,13 +808,13 @@ to make the work at Tuskegee successful.</dedication>
 <line>from proper for them to bear the surname of their former owners, and a</line>
 <line>great many of them took other surnames. This was one of the first signs</line>
 <line>of freedom. When they were slaves, a coloured person was simply called</line>
-<line>“John” or “Susan.” There was seldom occasion for more than the use of</line>
-<line>the one name. If “John” or “Susan” belonged to a white man by the name</line>
-<line>of “Hatcher,” sometimes he was called “John Hatcher,” or as often</line>
-<line>“Hatcher’s John.” But there was a feeling that “John Hatcher” or</line>
-<line>“Hatcher’s John” was not the proper title by which to denote a freeman;</line>
-<line>and so in many cases “John Hatcher” was changed to “John S. Lincoln” or</line>
-<line>“John S. Sherman,” the initial “S” standing for no name, it being</line>
+<line>“<person relation="brother">John</person>” or “Susan.” There was seldom occasion for more than the use of</line>
+<line>the one name. If “<person relation="brother">John</person>” or “Susan” belonged to a white man by the name</line>
+<line>of “Hatcher,” sometimes he was called “<person relation="brother">John</person> Hatcher,” or as often</line>
+<line>“Hatcher’s <person relation="brother">John</person>.” But there was a feeling that “<person relation="brother">John</person> Hatcher” or</line>
+<line>“Hatcher’s <person relation="brother">John</person>” was not the proper title by which to denote a freeman;</line>
+<line>and so in many cases “<person relation="brother">John</person> Hatcher” was changed to “<person relation="brother">John</person> S. <HistRef person="Abraham_Lincoln">Lincoln</HistRef>” or</line>
+<line>“<person relation="brother">John</person> S. Sherman,” the initial “S” standing for no name, it being</line>
 <line>simply a part of what the coloured man proudly called his “entitles.”</line>
 
 <line>As I have stated, most of the coloured people left the old plantation</line>
@@ -824,13 +824,13 @@ to make the work at Tuskegee successful.</dedication>
 <line>returned to their old homes and made some kind of contract with their</line>
 <line>former owners by which they remained on the estate.</line>
 
-<line>My mother’s husband, who was the stepfather of my brother John and</line>
-<line>myself, did not belong to the same owners as did my mother. In fact, he</line>
+<line>My <person relation="mother">mother</person>’s husband, who was the stepfather of my <person relation="brother">brother</person> <person relation="brother">John</person> and</line>
+<line>myself, did not belong to the same owners as did my <person relation="mother">mother</person>. In fact, he</line>
 <line>seldom came to our plantation. I remember seeing him there perhaps once</line>
-<line>a year, that being about Christmas time. In some way, during the war,</line>
+<line>a year, that being about Christmas time. In some way, during the <HistRef event="Civil_War">war</HistRef>,</line>
 <line>by running away and following the Federal soldiers, it seems, he found</line>
 <line>his way into the new state of West Virginia. As soon as freedom was</line>
-<line>declared, he sent for my mother to come to the Kanawha Valley, in West</line>
+<line>declared, he sent for my <person relation="mother">mother</person> to come to the Kanawha Valley, in West</line>
 <line>Virginia. At that time a journey from Virginia over the mountains to</line>
 <line>West Virginia was rather a tedious and in some cases a painful</line>
 <line>undertaking. What little clothing and few household goods we had were</line>
@@ -846,7 +846,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>were the younger members. We were several weeks making the trip, and</line>
 <line>most of the time we slept in the open air and did our cooking over a</line>
 <line>log fire out-of-doors. One night I recall that we camped near an</line>
-<line>abandoned log cabin, and my mother decided to build a fire in that for</line>
+<line>abandoned log cabin, and my <person relation="mother">mother</person> decided to build a fire in that for</line>
 <line>cooking, and afterward to make a “pallet” on the floor for our</line>
 <line>sleeping. Just as the fire had gotten well started a large black snake</line>
 <line>fully a yard and a half long dropped down the chimney and ran out on</line>
@@ -869,7 +869,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>gambling, quarrels, fights, and shockingly immoral practices were</line>
 <line>frequent. All who lived in the little town were in one way or another</line>
 <line>connected with the salt business. Though I was a mere child, my</line>
-<line>stepfather put me and my brother at work in one of the furnaces. Often</line>
+<line>stepfather put me and my <person relation="brother">brother</person> at work in one of the furnaces. Often</line>
 <line>I began work as early as four o’clock in the morning.</line>
 
 <line>The first thing I ever learned in the way of book knowledge was while</line>
@@ -886,7 +886,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>when quite a small child, that, if I accomplished nothing else in life,</line>
 <line>I would in some way get enough education to enable me to read common</line>
 <line>books and newspapers. Soon after we got settled in some manner in our</line>
-<line>new cabin in West Virginia, I induced my mother to get hold of a book</line>
+<line>new cabin in West Virginia, I induced my <person relation="mother">mother</person> to get hold of a book</line>
 <line>for me. How or where she got it I do not know, but in some way she</line>
 <line>procured an old copy of Webster’s “blue-back” spelling-book, which</line>
 <line>contained the alphabet, followed by such meaningless words as “ab,”</line>
@@ -898,13 +898,13 @@ to make the work at Tuskegee successful.</dedication>
 <line>there was not a single member of my race anywhere near us who could</line>
 <line>read, and I was too timid to approach any of the white people. In some</line>
 <line>way, within a few weeks, I mastered the greater portion of the</line>
-<line>alphabet. In all my efforts to learn to read my mother shared fully my</line>
+<line>alphabet. In all my efforts to learn to read my <person relation="mother">mother</person> shared fully my</line>
 <line>ambition, and sympathized with me and aided me in every way that she</line>
 <line>could. Though she was totally ignorant, she had high ambitions for her</line>
 <line>children, and a large fund of good, hard, common sense, which seemed to</line>
 <line>enable her to meet and master every situation. If I have done anything</line>
 <line>in life worth attention, I feel sure that I inherited the disposition</line>
-<line>from my mother.</line>
+<line>from my <person relation="mother">mother</person>.</line>
 
 <line>In the midst of my struggles and longing for an education, a young</line>
 <line>coloured boy who had learned to read in the state of Ohio came to</line>
@@ -963,7 +963,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>greater earnestness than ever to the mastering of what was in the</line>
 <line>“blue-back” speller.</line>
 
-<line>My mother sympathized with me in my disappointment, and sought to</line>
+<line>My <person relation="mother">mother</person> sympathized with me in my disappointment, and sought to</line>
 <line>comfort me in all the ways she could, and to help me find a way to</line>
 <line>learn. After a while I succeeded in making arrangements with the</line>
 <line>teacher to give me some lessons at night, after the day’s work was</line>
@@ -1003,7 +1003,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>upon my head, nor do I recall that either I or anybody else had even</line>
 <line>thought anything about the need of covering for my head. But, of</line>
 <line>course, when I saw how all the other boys were dressed, I began to feel</line>
-<line>quite uncomfortable. As usual, I put the case before my mother, and she</line>
+<line>quite uncomfortable. As usual, I put the case before my <person relation="mother">mother</person>, and she</line>
 <line>explained to me that she had no money with which to buy a “store hat,”</line>
 <line>which was a rather new institution at that time among the members of my</line>
 <line>race and was considered quite the thing for young and old to own, but</line>
@@ -1011,9 +1011,9 @@ to make the work at Tuskegee successful.</dedication>
 <line>accordingly got two pieces of “homespun” (jeans) and sewed them</line>
 <line>together, and I was soon the proud possessor of my first cap.</line>
 
-<line>The lesson that my mother taught me in this has always remained with</line>
+<line>The lesson that my <person relation="mother">mother</person> taught me in this has always remained with</line>
 <line>me, and I have tried as best as I could to teach it to others. I have</line>
-<line>always felt proud, whenever I think of the incident, that my mother had</line>
+<line>always felt proud, whenever I think of the incident, that my <person relation="mother">mother</person> had</line>
 <line>strength of character enough not to be led into the temptation of</line>
 <line>seeming to be that which she was not—of trying to impress my</line>
 <line>schoolmates and others with the fact that she was able to buy me a</line>
@@ -1021,7 +1021,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>to go into debt for that which she did not have the money to pay for.</line>
 <line>Since that time I have owned many kinds of caps and hats, but never one</line>
 <line>of which I have felt so proud as of the cap made of the two pieces of</line>
-<line>cloth sewed together by my mother. I have noted the fact, but without</line>
+<line>cloth sewed together by my <person relation="mother">mother</person>. I have noted the fact, but without</line>
 <line>satisfaction, I need not add, that several of the boys who began their</line>
 <line>careers with “store hats” and who were my schoolmates and used to join</line>
 <line>in the sport that was made of me because I had only a “homespun” cap,</line>
@@ -1041,7 +1041,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>and so, when the teacher asked me what my full name was, I calmly told</line>
 <line>him “Booker Washington,” as if I had been called by that name all my</line>
 <line>life; and by that name I have since been known. Later in my life I</line>
-<line>found that my mother had given me the name of “Booker Taliaferro” soon</line>
+<line>found that my <person relation="mother">mother</person> had given me the name of “Booker Taliaferro” soon</line>
 <line>after I was born, but in some way that part of my name seemed to</line>
 <line>disappear and for a long while was forgotten, but as soon as I found</line>
 <line>out about it I revived it, and made my full name “Booker Taliaferro</line>
@@ -1074,7 +1074,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>and compare his advancement with that of white youths, do not consider</line>
 <line>the influence of the memories which cling about the old family</line>
 <line>homesteads. I have no idea, as I have stated elsewhere, who my</line>
-<line>grandmother was. I have, or have had, uncles and aunts and cousins, but</line>
+<line>grand<person relation="mother">mother</person> was. I have, or have had, uncles and aunts and cousins, but</line>
 <line>I have no knowledge as to where most of them are. My case will</line>
 <line>illustrate that of hundreds of thousands of black people in every part</line>
 <line>of our country. The very fact that the white boy is conscious that, if</line>
@@ -1098,7 +1098,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>the days might be, when one resolve did not continually remain with me,</line>
 <line>and that was a determination to secure an education at any cost.</line>
 
-<line>Soon after we moved to West Virginia, my mother adopted into our</line>
+<line>Soon after we moved to West Virginia, my <person relation="mother">mother</person> adopted into our</line>
 <line>family, notwithstanding our poverty, an orphan boy, to whom afterward</line>
 <line>we gave the name of James B. Washington. He has ever since remained a</line>
 <line>member of the family.</line>
@@ -1210,7 +1210,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>them remained with her more than two or three weeks. They all left with</line>
 <line>the same excuse: she was too strict. I decided, however, that I would</line>
 <line>rather try Mrs. Ruffner’s house than remain in the coal-mine, and so my</line>
-<line>mother applied to her for the vacant position. I was hired at a salary</line>
+<line><person relation="mother">mother</person> applied to her for the vacant position. I was hired at a salary</line>
 <line>of $5 per month.</line>
 
 <line>I had heard so much about Mrs. Ruffner’s severity that I was almost</line>
@@ -1253,13 +1253,13 @@ to make the work at Tuskegee successful.</dedication>
 <line>definite idea of the direction in which Hampton was, or of what it</line>
 <line>would cost to go there. I do not think that any one thoroughly</line>
 <line>sympathized with me in my ambition to go to Hampton unless it was my</line>
-<line>mother, and she was troubled with a grave fear that I was starting out</line>
+<line><person relation="mother">mother</person>, and she was troubled with a grave fear that I was starting out</line>
 <line>on a “wild-goose chase.” At any rate, I got only a half-hearted consent</line>
 <line>from her that I might start. The small amount of money that I had</line>
 <line>earned had been consumed by my stepfather and the remainder of the</line>
 <line>family, with the exception of a very few dollars, and so I had very</line>
 <line>little with which to buy clothes and pay my travelling expenses. My</line>
-<line>brother John helped me all that he could, but of course that was not a</line>
+<line><person relation="brother">brother</person> <person relation="brother">John</person> helped me all that he could, but of course that was not a</line>
 <line>great deal, for his work was in the coal-mine, where he did not earn</line>
 <line>much, and most of what he did earn went in the direction of paying the</line>
 <line>household expenses.</line>
@@ -1274,7 +1274,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>Finally the great day came, and I started for Hampton. I had only a</line>
 <line>small, cheap satchel that contained a few articles of clothing I could</line>
-<line>get. My mother at the time was rather weak and broken in health. I</line>
+<line>get. My <person relation="mother">mother</person> at the time was rather weak and broken in health. I</line>
 <line>hardly expected to see her again, and thus our parting was all the more</line>
 <line>sad. She, however, was very brave through it all. At that time there</line>
 <line>were no through trains connecting that part of West Virginia with</line>
@@ -1443,7 +1443,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>Armstrong.</line>
 
 <line>It has been my fortune to meet personally many of what are called great</line>
-<line>characters, both in Europe and America, but I do not hesitate to say</line>
+<line>characters, both in Europe and <place country="America">America</place>, but I do not hesitate to say</line>
 <line>that I never met any man who, in my estimation, was the equal of</line>
 <line>General Armstrong. Fresh from the degrading influences of the slave</line>
 <line>plantation and the coal-mines, it was a rare privilege for me to be</line>
@@ -1471,7 +1471,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>so completely lost sight of himself. I do not believe he ever had a</line>
 <line>selfish thought. He was just as happy in trying to assist some other</line>
 <line>institution in the South as he was when working for Hampton. Although</line>
-<line>he fought the Southern white man in the Civil War, I never heard him</line>
+<line>he fought the Southern white man in the <HistRef event="Civil_War">Civil War</HistRef>, I never heard him</line>
 <line>utter a bitter word against him afterward. On the other hand, he was</line>
 <line>constantly seeking to find ways by which he could be of service to the</line>
 <line>Southern whites.</line>
@@ -1509,7 +1509,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>I have spoken of my admiration for General Armstrong, and yet he was</line>
 <line>but a type of that Christlike body of men and women who went into the</line>
-<line>Negro schools at the close of the war by the hundreds to assist in</line>
+<line>Negro schools at the close of the <HistRef event="Civil_War">war</HistRef> by the hundreds to assist in</line>
 <line>lifting up my race. The history of the world fails to show a higher,</line>
 <line>purer, and more unselfish class of men and women than those who found</line>
 <line>their way into those Negro schools.</line>
@@ -1540,7 +1540,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>expected to pay a part of this in cash and to work out the remainder.</line>
 <line>To meet this cash payment, as I have stated, I had just fifty cents</line>
 <line>when I reached the institution. Aside from a very few dollars that my</line>
-<line>brother John was able to send me once in a while, I had no money with</line>
+<line><person relation="brother">brother</person> <person relation="brother">John</person> was able to send me once in a while, I had no money with</line>
 <line>which to pay my board. I was determined from the first to make my work</line>
 <line>as janitor so valuable that my services would be indispensable. This I</line>
 <line>succeeded in doing to such an extent that I was soon informed that I</line>
@@ -1606,7 +1606,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>day, in seasons and out of season. They seemed happy only when they</line>
 <line>were helping the students in some manner. Whenever it is written—and I</line>
 <line>hope it will be—the part that the Yankee teachers played in the</line>
-<line>education of the Negroes immediately after the war will make one of the</line>
+<line>education of the Negroes immediately after the <HistRef event="Civil_War">war</HistRef> will make one of the</line>
 <line>most thrilling parts of the history off this country. The time is not</line>
 <line>far distant when the whole South will appreciate this service in a way</line>
 <line>that it has not yet been able to do.</line>
@@ -1733,7 +1733,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>in this way.</line>
 
 <line>At the end of my second year at Hampton, by the help of some money sent</line>
-<line>me by my mother and brother John, supplemented by a small gift from one</line>
+<line>me by my <person relation="mother">mother</person> and <person relation="brother">brother</person> <person relation="brother">John</person>, supplemented by a small gift from one</line>
 <line>of the teachers at Hampton, I was enabled to return to my home in</line>
 <line>Malden, West Virginia, to spend my vacation. When I reached home I</line>
 <line>found that the salt-furnaces were not running, and that the coal-mine</line>
@@ -1749,7 +1749,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>agitators got control, the savings of even the more thrifty ones began</line>
 <line>disappearing.</line>
 
-<line>My mother and the other members of my family were, of course, much</line>
+<line>My <person relation="mother">mother</person> and the other members of my family were, of course, much</line>
 <line>rejoiced to see me and to note the improvement that I had made during</line>
 <line>my two years’ absence. The rejoicing on the part of all classes of the</line>
 <line>coloured people, and especially the older ones, over my return, was</line>
@@ -1769,22 +1769,22 @@ to make the work at Tuskegee successful.</dedication>
 <line>within a mile or so of my home I was so completely tired out that I</line>
 <line>could not walk any farther, and I went into an old, abandoned house to</line>
 <line>spend the remainder of the night. About three o’clock in the morning my</line>
-<line>brother John found me asleep in this house, and broke to me, as gently</line>
-<line>as he could, the sad news that our dear mother had died during the</line>
+<line><person relation="brother">brother</person> <person relation="brother">John</person> found me asleep in this house, and broke to me, as gently</line>
+<line>as he could, the sad news that our dear <person relation="mother">mother</person> had died during the</line>
 <line>night.</line>
 
 <line>This seemed to me the saddest and blankest moment in my life. For</line>
-<line>several years my mother had not been in good health, but I had no idea,</line>
+<line>several years my <person relation="mother">mother</person> had not been in good health, but I had no idea,</line>
 <line>when I parted from her the previous day, that I should never see her</line>
 <line>alive again. Besides that, I had always had an intense desire to be</line>
 <line>with her when she did pass away. One of the chief ambitions which</line>
 <line>spurred me on at Hampton was that I might be able to get to be in a</line>
-<line>position in which I could better make my mother comfortable and happy.</line>
+<line>position in which I could better make my <person relation="mother">mother</person> comfortable and happy.</line>
 <line>She had so often expressed the wish that she might be permitted to live</line>
 <line>to see her children educated and started out in the world.</line>
 
-<line>In a very short time after the death of my mother our little home was</line>
-<line>in confusion. My sister Amanda, although she tried to do the best she</line>
+<line>In a very short time after the death of my <person relation="mother">mother</person> our little home was</line>
+<line>in confusion. My <person relation="sister">sister</person> <person relation="sister">Amanda</person>, although she tried to do the best she</line>
 <line>could, was too young to know anything about keeping house, and my</line>
 <line>stepfather was not able to hire a housekeeper. Sometimes we had food</line>
 <line>cooked for us, and sometimes we did not. I remember that more than once</line>
@@ -1803,7 +1803,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>returning to Hampton, but my heart was so set on returning that I</line>
 <line>determined not to give up going back without a struggle. I was very</line>
 <line>anxious to secure some clothes for the winter, but in this I was</line>
-<line>disappointed, except for a few garments which my brother John secured</line>
+<line>disappointed, except for a few garments which my <person relation="brother">brother</person> <person relation="brother">John</person> secured</line>
 <line>for me. Notwithstanding my need of money and clothing, I was very happy</line>
 <line>in the fact that I had secured enough money to pay my travelling</line>
 <line>expenses back to Hampton. Once there, I knew that I could make myself</line>
@@ -1914,16 +1914,16 @@ to make the work at Tuskegee successful.</dedication>
 <line>however, a small salary from the public fund, for my work as a</line>
 <line>public-school teacher.</line>
 
-<line>During the time that I was a student at Hampton my older brother, John,</line>
+<line>During the time that I was a student at Hampton my older <person relation="brother">brother</person>, <person relation="brother">John</person>,</line>
 <line>not only assisted me all that he could, but worked all of the time in</line>
 <line>the coal-mines in order to support the family. He willingly neglected</line>
 <line>his own education that he might help me. It was my earnest wish to help</line>
 <line>him to prepare to enter Hampton, and to save money to assist him in his</line>
 <line>expenses there. Both of these objects I was successful in</line>
-<line>accomplishing. In three years my brother finished the course at</line>
+<line>accomplishing. In three years my <person relation="brother">brother</person> finished the course at</line>
 <line>Hampton, and he is now holding the important position of Superintendent</line>
 <line>of Industries at Tuskegee. When he returned from Hampton, we both</line>
-<line>combined our efforts and savings to send our adopted brother, James,</line>
+<line>combined our efforts and savings to send our adopted <person relation="brother">brother</person>, James,</line>
 <line>through the Hampton Institute. This we succeeded in doing, and he is</line>
 <line>now the postmaster at the Tuskegee Institute. The year 1877, which was</line>
 <line>my second year of teaching in Malden, I spent very much as I did the</line>
@@ -2049,7 +2049,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>During the whole of the Reconstruction period our people throughout the</line>
 <line>South looked to the Federal Government for everything, very much as a</line>
-<line>child looks to its mother. This was not unnatural. The central</line>
+<line>child looks to its <person relation="mother">mother</person>. This was not unnatural. The central</line>
 <line>government gave them freedom, and the whole Nation had been enriched</line>
 <line>for more than two centuries by the labour of the Negro. Even as a</line>
 <line>youth, and later in manhood, I had the feeling that it was cruelly</line>
@@ -2129,7 +2129,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>In the fall of 1878, after having taught school in Malden for two</line>
 <line>years, and after I had succeeded in preparing several of the young men</line>
-<line>and women, besides my two brothers, to enter the Hampton Institute, I</line>
+<line>and women, besides my two <person relation="brother">brother</person>s, to enter the Hampton Institute, I</line>
 <line>decided to spend some months in study at Washington, D.C. I remained</line>
 <line>there for eight months. I derived a great deal of benefit from the</line>
 <line>studies which I pursued, and I came into contact with some strong men</line>
@@ -2191,12 +2191,12 @@ to make the work at Tuskegee successful.</dedication>
 <line>I wished then, and have often wished since, that by some power of magic</line>
 <line>I might remove the great bulk of these people into the county districts</line>
 <line>and plant them upon the soil, upon the solid and never deceptive</line>
-<line>foundation of Mother Nature, where all nations and races that have ever</line>
+<line>foundation of <person relation="mother">Mother</person> Nature, where all nations and races that have ever</line>
 <line>succeeded have gotten their start,—a start that at first may be slow</line>
 <line>and toilsome, but one that nevertheless is real.</line>
 
-<line>In Washington I saw girls whose mothers were earning their living by</line>
-<line>laundrying. These girls were taught by their mothers, in rather a crude</line>
+<line>In Washington I saw girls whose <person relation="mother">mother</person>s were earning their living by</line>
+<line>laundrying. These girls were taught by their <person relation="mother">mother</person>s, in rather a crude</line>
 <line>way it is true, the industry of laundrying. Later, these girls entered</line>
 <line>the public schools and remained there perhaps six or eight years. When</line>
 <line>the public school course was finally finished, they wanted more costly</line>
@@ -2204,7 +2204,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>been increased, their ability to supply their wants had not been</line>
 <line>increased in the same degree. On the other hand, their six or eight</line>
 <line>years of book education had weaned them away from the occupation of</line>
-<line>their mothers. The result of this was in too many cases that the girls</line>
+<line>their <person relation="mother">mother</person>s. The result of this was in too many cases that the girls</line>
 <line>went to the bad. I often thought how much wiser it would have been to</line>
 <line>give these girls the same amount of maternal training—and I favour any</line>
 <line>kind of training, whether in the languages or mathematics, that gives</line>
@@ -2311,7 +2311,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>a teacher and partly to pursue some supplementary studies. This was in</line>
 <line>the summer of 1879. Soon after I began my first teaching in West</line>
 <line>Virginia I had picked out four of the brightest and most promising of</line>
-<line>my pupils, in addition to my two brothers, to whom I have already</line>
+<line>my pupils, in addition to my two <person relation="brother">brother</person>s, to whom I have already</line>
 <line>referred, and had given them special attention, with the view of having</line>
 <line>them go to Hampton. They had gone there, and in each case the teachers</line>
 <line>had found them so well prepared that they entered advanced classes.</line>
@@ -2427,7 +2427,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>to permit a poor, ignorant, coloured man to be more polite than I am?”</line>
 
 <line>While I was in charge of the Indian boys at Hampton, I had one or two</line>
-<line>experiences which illustrate the curious workings of caste in America.</line>
+<line>experiences which illustrate the curious workings of caste in <place country="America">America</place>.</line>
 <line>One of the Indian boys was taken ill, and it became my duty to take him</line>
 <line>to Washington, deliver him over to the Secretary of the Interior, and</line>
 <line>get a receipt for him, in order that he might be returned to his</line>
@@ -2564,7 +2564,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>country possessing this thick, dark, and naturally rich soil was, of</line>
 <line>course, the part of the South where the slaves were most profitable,</line>
 <line>and consequently they were taken there in the largest numbers. Later,</line>
-<line>and especially since the war, the term seems to be used wholly in a</line>
+<line>and especially since the <HistRef event="Civil_War">war</HistRef>, the term seems to be used wholly in a</line>
 <line>political sense—that is, to designate the counties where the black</line>
 <line>people outnumber the white.</line>
 
@@ -2695,7 +2695,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>in a “skillet,” as they called it. These utensils would be placed on</line>
 <line>the fire, and in ten or fifteen minutes breakfast would be ready.</line>
 <line>Frequently the husband would take his bread and meat in his hand and</line>
-<line>start for the field, eating as he walked. The mother would sit down in</line>
+<line>start for the field, eating as he walked. The <person relation="mother">mother</person> would sit down in</line>
 <line>a corner and eat her breakfast, perhaps from a plate and perhaps</line>
 <line>directly from the “skillet” or frying-pan, while the children would eat</line>
 <line>their portion of the bread and meat while running about the yard. At</line>
@@ -2707,7 +2707,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>house, the whole family would, as a general thing, proceed to the</line>
 <line>cotton-field. Every child that was large enough to carry a hoe was put</line>
 <line>to work, and the baby—for usually there was at least one baby—would be</line>
-<line>laid down at the end of the cotton row, so that its mother could give</line>
+<line>laid down at the end of the cotton row, so that its <person relation="mother">mother</person> could give</line>
 <line>it a certain amount of attention when she had finished chopping her</line>
 <line>row. The noon meal and the supper were taken in much the same way as</line>
 <line>the breakfast.</line>
@@ -2750,7 +2750,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>remember that I asked one coloured man, who was about sixty years old,</line>
 <line>to tell me something of his history. He said that he had been born in</line>
 <line>Virginia, and sold into Alabama in 1845. I asked him how many were sold</line>
-<line>at the same time. He said, “There were five of us; myself and brother</line>
+<line>at the same time. He said, “There were five of us; myself and <person relation="brother">brother</person></line>
 <line>and three mules.”</line>
 
 <line>In giving all these descriptions of what I saw during my month of</line>
@@ -2874,7 +2874,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>which they had lived had ever had a bank account. In registering the</line>
 <line>names of the students, I found that almost every one of them had one or</line>
 <line>more middle initials. When I asked what the “J” stood for, in the name</line>
-<line>of John J. Jones, it was explained to me that this was a part of his</line>
+<line>of <person relation="brother">John</person> J. Jones, it was explained to me that this was a part of his</line>
 <line>“entitles.” Most of the students wanted to get an education because</line>
 <line>they thought it would enable them to earn more money as</line>
 <line>school-teachers.</line>
@@ -4376,7 +4376,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>the patience and deep interest of the ministers, who are besieged on</line>
 <line>every hand and at all hours of the day for help. If no other</line>
 <line>consideration had convinced me of the value of the Christian life, the</line>
-<line>Christlike work which the Church of all denominations in America has</line>
+<line>Christlike work which the Church of all denominations in <place country="America">America</place> has</line>
 <line>done during the last thirty-five years for the elevation of the black</line>
 <line>man would have made me a Christian. In a large degree it has been the</line>
 <line>pennies, the nickels, and the dimes which have come from the</line>
@@ -4396,7 +4396,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>sum to four thousand five hundred dollars a year. The effort to secure</line>
 <line>this increase was led by the Hon. M.F. Foster, the member of the</line>
 <line>Legislature from Tuskegee. Second, we received one thousand dollars</line>
-<line>from the John F. Slater Fund. Our work seemed to please the trustees of</line>
+<line>from the <person relation="brother">John</person> F. Slater Fund. Our work seemed to please the trustees of</line>
 <line>this fund, as they soon began increasing their annual grant. This has</line>
 <line>been added to from time to time until at present we receive eleven</line>
 <line>thousand dollars annually from the Fund. The other help to which I have</line>
@@ -4610,7 +4610,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>across the track, as to try to stop the growth of the world in the</line>
 <line>direction of giving mankind more intelligence, more culture, more</line>
 <line>skill, more liberty, and in the direction of extending more sympathy</line>
-<line>and more brotherly kindness.</line>
+<line>and more <person relation="brother">brother</person>ly kindness.</line>
 
 <line>The address which I delivered at Madison, before the National</line>
 <line>Educational Association, gave me a rather wide introduction in the</line>
@@ -4696,7 +4696,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>granting the appropriation Congress could do something that would prove</line>
 <line>to be of real and lasting value to both races, and that it was the</line>
 <line>first great opportunity of the kind that had been presented since the</line>
-<line>close of the Civil War.</line>
+<line>close of the <HistRef event="Civil_War">Civil War</HistRef>.</line>
 
 <line>I spoke for fifteen or twenty minutes, and was surprised at the close</line>
 <line>of my address to receive the hearty congratulations of the Georgia</line>
@@ -4973,7 +4973,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>surrounded by the most patient, faithful, law-abiding, and unresentful</line>
 <line>people that the world has seen. As we have proved our loyalty to you in</line>
 <line>the past, nursing your children, watching by the sick-bed of your</line>
-<line>mothers and fathers, and often following them with tear-dimmed eyes to</line>
+<line><person relation="mother">mother</person>s and fathers, and often following them with tear-dimmed eyes to</line>
 <line>their graves, so in the future, in our humble way, we shall stand by</line>
 <line>you with a devotion that no foreigner can approach, ready to lay down</line>
 <line>our lives, if need be, in defence of yours, interlacing our industrial,</line>
@@ -5224,10 +5224,10 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>In the midst of the discussion which was going on concerning my Atlanta</line>
 <line>speech, I received the letter which I give below, from Dr. Gilman, the</line>
-<line>President of Johns Hopkins University, who had been made chairman of</line>
+<line>President of <person relation="brother">John</person>s Hopkins University, who had been made chairman of</line>
 <line>the judges of award in connection with the Atlanta Exposition:—</line>
 
-<line>Johns Hopkins University, Baltimore,</line>
+<line><person relation="brother">John</person>s Hopkins University, Baltimore,</line>
 
 <line>President’s Office, September 30, 1895.</line>
 
@@ -5344,7 +5344,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>As to how my address at Atlanta was received by the audience in the</line>
 <line>Exposition building, I think I prefer to let Mr. James Creelman, the</line>
-<line>noted war correspondent, tell. Mr. Creelman was present, and</line>
+<line>noted <HistRef event="Civil_War">war</HistRef> correspondent, tell. Mr. Creelman was present, and</line>
 <line>telegraphed the following account to the New York World:—</line>
 
 <line>Atlanta, September 18.</line>
@@ -5366,7 +5366,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>Auditorium, with the sun shining over the heads of his auditors into</line>
 <line>his eyes, and with his whole face lit up with the fire of prophecy,</line>
 <line>Clark Howell, the successor of Henry Grady, said to me, “That man’s</line>
-<line>speech is the beginning of a moral revolution in America.”</line>
+<line>speech is the beginning of a moral revolution in <place country="America">America</place>.”</line>
 
 <line>It is the first time that a Negro has made a speech in the South on any</line>
 <line>important occasion before an audience composed of white men and women.</line>
@@ -5377,7 +5377,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>tall tawny Negro sitting in the front row of the platform. It was</line>
 <line>Professor Booker T. Washington, President of the Tuskegee (Alabama)</line>
 <line>Normal and Industrial Institute, who must rank from this time forth as</line>
-<line>the foremost man of his race in America. Gilmore’s Band played the</line>
+<line>the foremost man of his race in <place country="America">America</place>. Gilmore’s Band played the</line>
 <line>“Star-Spangled Banner,” and the audience cheered. The tune changed to</line>
 <line>“Dixie” and the audience roared with shrill “hi-yis.” Again the music</line>
 <line>changed, this time to “Yankee Doodle,” and the clamour lessened.</line>
@@ -5524,7 +5524,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>and again go through the experience there—one that I shall never</line>
 <line>forget—of getting molasses to eat once a week from the “big house.” Our</line>
 <line>usual diet on the plantation was corn bread and pork, but on Sunday</line>
-<line>morning my mother was permitted to bring down a little molasses from</line>
+<line>morning my <person relation="mother">mother</person> was permitted to bring down a little molasses from</line>
 <line>the “big house” for her three children, and when it was received how I</line>
 <line>did wish that every day was Sunday! I would get my tin plate and hold</line>
 <line>it up for the sweet morsel, but I would always shut my eyes while the</line>
@@ -5566,7 +5566,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>Three years ago, at the suggestion of Mr. Morris K. Jessup, of New</line>
 <line>York, and Dr. J.L.M. Curry, the general agent of the fund, the trustees</line>
-<line>of the John F. Slater Fund voted a sum of money to be used in paying</line>
+<line>of the <person relation="brother">John</person> F. Slater Fund voted a sum of money to be used in paying</line>
 <line>the expenses of Mrs. Washington and myself while holding a series of</line>
 <line>meetings among the coloured people in the large centres of Negro</line>
 <line>population, especially in the large cities of the ex-slaveholding</line>
@@ -5629,7 +5629,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>better than any words of mine could do:—</line>
 
 <line>The core and kernel of yesterday’s great noon meeting, in honour of the</line>
-<line>Brotherhood of Man, in Music Hall, was the superb address of the Negro</line>
+<line><person relation="brother">Brother</person>hood of Man, in Music Hall, was the superb address of the Negro</line>
 <line>President of Tuskegee. “Booker T. Washington received his Harvard A.M.</line>
 <line>last June, the first of his race,” said Governor Wolcott, “to receive</line>
 <line>an honorary degree from the oldest university in the land, and this for</line>
@@ -5638,7 +5638,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>Music Hall, people felt keenly that here was the civic justification of</line>
 <line>the old abolition spirit of Massachusetts; in his person the proof of</line>
 <line>her ancient and indomitable faith; in his strong thought and rich</line>
-<line>oratory, the crown and glory of the old war days of suffering and</line>
+<line>oratory, the crown and glory of the old <HistRef event="Civil_War">war</HistRef> days of suffering and</line>
 <line>strife. The scene was full of historic beauty and deep significance.</line>
 <line>“Cold” Boston was alive with the fire that is always hot in her heart</line>
 <line>for righteousness and truth. Rows and rows of people who are seldom</line>
@@ -5654,7 +5654,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>staff, and the Negro soldiers of the Fifty-fourth Massachusetts as they</line>
 <line>came upon the platform or entered the hall. Colonel Henry Lee, of</line>
 <line>Governor Andrew’s old staff, had made a noble, simple presentation</line>
-<line>speech for the committee, paying tribute to Mr. John M. Forbes, in</line>
+<line>speech for the committee, paying tribute to Mr. <person relation="brother">John</person> M. Forbes, in</line>
 <line>whose stead he served. Governor Wolcott had made his short, memorable</line>
 <line>speech, saying, “Fort Wagner marked an epoch in the history of a race,</line>
 <line>and called it into manhood.” Mayor Quincy had received the monument for</line>
@@ -5702,7 +5702,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>itself.</line>
 
 <line>In the general rejoicing throughout the country which followed the</line>
-<line>close of the Spanish-American war, peace celebrations were arranged in</line>
+<line>close of the Spanish-American <HistRef event="Civil_War">war</HistRef>, peace celebrations were arranged in</line>
 <line>several of the large cities. I was asked by President William R.</line>
 <line>Harper, of the University of Chicago, who was chairman of the committee</line>
 <line>of invitations for the celebration to be held in the city of Chicago,</line>
@@ -5720,9 +5720,9 @@ to make the work at Tuskegee successful.</dedication>
 <line>without the aid of a policeman. President William McKinley attended</line>
 <line>this meeting, as did also the members of his Cabinet, many foreign</line>
 <line>ministers, and a large number of army and navy officers, many of whom</line>
-<line>had distinguished themselves in the war which had just closed. The</line>
+<line>had distinguished themselves in the <HistRef event="Civil_War">war</HistRef> which had just closed. The</line>
 <line>speakers, besides myself, on Sunday evening, were Rabbi Emil G. Hirsch,</line>
-<line>Father Thomas P. Hodnett, and Dr. John H. Barrows.</line>
+<line>Father Thomas P. Hodnett, and Dr. <person relation="brother">John</person> H. Barrows.</line>
 
 <line>The Chicago Times-Herald, in describing the meeting, said of my</line>
 <line>address:—</line>
@@ -5743,7 +5743,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>In all of these things, the speaker declared, his race had chosen the</line>
 <line>better part. And then he made his eloquent appeal to the consciences of</line>
 <line>the white Americans: “When you have gotten the full story of the heroic</line>
-<line>conduct of the Negro in the Spanish-American war, have heard it from</line>
+<line>conduct of the Negro in the Spanish-American <HistRef event="Civil_War">war</HistRef>, have heard it from</line>
 <line>the lips of Northern soldier and Southern soldier, from ex-abolitionist</line>
 <line>and ex-masters, then decide within yourselves whether a race that is</line>
 <line>thus willing to die for its country should not be given the highest</line>
@@ -5752,7 +5752,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>The part of the speech which seems to arouse the wildest and most</line>
 <line>sensational enthusiasm was that in which I thanked the President for</line>
 <line>his recognition of the Negro in his appointments during the</line>
-<line>Spanish-American war. The President was sitting in a box at the right</line>
+<line>Spanish-American <HistRef event="Civil_War">war</HistRef>. The President was sitting in a box at the right</line>
 <line>of the stage. When I addressed him I turned toward the box, and as I</line>
 <line>finished the sentence thanking him for his generosity, the whole</line>
 <line>audience rose and cheered again and again, waving handkerchiefs and</line>
@@ -5926,7 +5926,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>greatest fondness for is biography. I like to be sure that I am reading</line>
 <line>about a real man or a real thing. I think I do not go too far when I</line>
 <line>say that I have read nearly every book and magazine article that has</line>
-<line>been written about Abraham Lincoln. In literature he is my patron</line>
+<line>been written about <HistRef person="Abraham_Lincoln">Abraham Lincoln</HistRef>. In literature he is my patron</line>
 <line>saint.</line>
 
 <line>Out of the twelve months in a year I suppose that, on an average, I</line>
@@ -5995,10 +5995,10 @@ to make the work at Tuskegee successful.</dedication>
 <line>only is Mrs. Washington completely one with me in the work directly</line>
 <line>connected with the school, relieving me of many burdens and</line>
 <line>perplexities, but aside from her work on the school grounds, she</line>
-<line>carries on a mothers’ meeting in the town of Tuskegee, and a plantation</line>
+<line>carries on a <person relation="mother">mother</person>s’ meeting in the town of Tuskegee, and a plantation</line>
 <line>work among the women, children, and men who live in a settlement</line>
 <line>connected with a large plantation about eight miles from Tuskegee. Both</line>
-<line>the mothers’ meeting and the plantation work are carried on, not only</line>
+<line>the <person relation="mother">mother</person>s’ meeting and the plantation work are carried on, not only</line>
 <line>with a view to helping those who are directly reached, but also for the</line>
 <line>purpose of furnishing object-lessons in these two kinds of work that</line>
 <line>may be followed by our students when they go out into the world for</line>
@@ -6263,7 +6263,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>other Americans, were very kind to us.</line>
 
 <line>While in Paris we saw a good deal of the now famous American Negro</line>
-<line>painter, Mr. Henry O. Tanner, whom we had formerly known in America. It</line>
+<line>painter, Mr. Henry O. Tanner, whom we had formerly known in <place country="America">America</place>. It</line>
 <line>was very satisfactory to find how well known Mr. Tanner was in the</line>
 <line>field of art, and to note the high standing which all classes accorded</line>
 <line>to him. When we told some Americans that we were going to the</line>
@@ -6310,14 +6310,14 @@ to make the work at Tuskegee successful.</dedication>
 <line>possess the French people impressed itself upon me. I think they are</line>
 <line>more noted in this respect than is true of the people of my own race.</line>
 <line>In point of morality and moral earnestness I do not believe that the</line>
-<line>French are ahead of my own race in America. Severe competition and the</line>
+<line>French are ahead of my own race in <place country="America">America</place>. Severe competition and the</line>
 <line>great stress of life have led them to learn to do things more</line>
 <line>thoroughly and to exercise greater economy; but time, I think, will</line>
 <line>bring my race to the same point. In the matter of truth and high honour</line>
 <line>I do not believe that the average Frenchman is ahead of the American</line>
 <line>Negro; while so far as mercy and kindness to dumb animals go, I believe</line>
 <line>that my race is far ahead. In fact, when I left France, I had more</line>
-<line>faith in the future of the black man in America than I had ever</line>
+<line>faith in the future of the black man in <place country="America">America</place> than I had ever</line>
 <line>possessed.</line>
 
 <line>From Paris we went to London, and reached there early in July, just</line>
@@ -6348,7 +6348,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>We were the guests several times of Mrs. T. Fisher Unwin, the daughter</line>
 <line>of the English statesman, Richard Cobden. It seemed as if both Mr. and</line>
 <line>Mrs. Unwin could not do enough for our comfort and happiness. Later,</line>
-<line>for nearly a week, we were the guests of the daughter of John Bright,</line>
+<line>for nearly a week, we were the guests of the daughter of <person relation="brother">John</person> Bright,</line>
 <line>now Mrs. Clark, of Street, England. Both Mr. and Mrs. Clark, with their</line>
 <line>daughter, visited us at Tuskegee the next year. In Birmingham, England,</line>
 <line>we were the guests for several days of Mr. Joseph Sturge, whose father</line>
@@ -6379,10 +6379,10 @@ to make the work at Tuskegee successful.</dedication>
 <line>Queen Victoria.</line>
 
 <line>In the House of Commons, which we visited several times, we met Sir</line>
-<line>Henry M. Stanley. I talked with him about Africa and its relation to</line>
+<line>Henry M. Stanley. I talked with him about <place country="Africa">Africa</place> and its relation to</line>
 <line>the American Negro, and after my interview with him I became more</line>
 <line>convinced than ever that there was no hope of the American Negro’s</line>
-<line>improving his condition by emigrating to Africa.</line>
+<line>improving his condition by emigrating to <place country="Africa">Africa</place>.</line>
 
 <line>On various occasions Mrs. Washington and I were the guests of</line>
 <line>Englishmen in their country homes, where, I think, one sees the</line>
@@ -6392,9 +6392,9 @@ to make the work at Tuskegee successful.</dedication>
 <line>about as perfect as anything can be. Everything moves like clockwork. I</line>
 <line>was impressed, too, with the deference that the servants show to their</line>
 <line>“masters” and “mistresses,”—terms which I suppose would not be</line>
-<line>tolerated in America. The English servant expects, as a rule, to be</line>
+<line>tolerated in <place country="America">America</place>. The English servant expects, as a rule, to be</line>
 <line>nothing but a servant, and so he perfects himself in the art to a</line>
-<line>degree that no class of servants in America has yet reached. In our</line>
+<line>degree that no class of servants in <place country="America">America</place> has yet reached. In our</line>
 <line>country the servant expects to become, in a few years, a “master”</line>
 <line>himself. Which system is preferable? I will not venture an answer.</line>
 
@@ -6446,7 +6446,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>by a committee of ladies and gentlemen with the request that I deliver</line>
 <line>an address at a concert which was to begin the following evening. And</line>
 <line>yet there are people who are bold enough to say that race feeling in</line>
-<line>America is not growing less intense! At this concert the Hon. Benjamin</line>
+<line><place country="America">America</place> is not growing less intense! At this concert the Hon. Benjamin</line>
 <line>B. Odell, Jr., the present governor of New York, presided. I was never</line>
 <line>given a more cordial hearing anywhere. A large proportion of the</line>
 <line>passengers were Southern people. After the concert some of the</line>
@@ -6505,7 +6505,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>The Charleston Daily Gazette, The Daily Mail-Tribune; G.W. Atkinson,</line>
 <line>Governor; E.L. Boggs, Secretary to Governor; Wm. M.O. Dawson, Secretary</line>
 <line>of State; L.M. La Follette, Auditor; J.R. Trotter, Superintendent of</line>
-<line>Schools; E.W. Wilson, ex-Governor; W.A. MacCorkle, ex-Governor; John Q.</line>
+<line>Schools; E.W. Wilson, ex-Governor; W.A. MacCorkle, ex-Governor; <person relation="brother">John</person> Q.</line>
 <line>Dickinson, President Kanawha Valley Bank; L. Prichard, President</line>
 <line>Charleston National Bank; Geo. S. Couch, President Kanawha National</line>
 <line>Bank; Ed. Reid, Cashier Kanawha National Bank; Geo. S. Laidley,</line>
@@ -6616,7 +6616,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>This was a recognition that had never in the slightest manner entered</line>
 <line>into my mind, and it was hard for me to realize that I was to be</line>
 <line>honoured by a degree from the oldest and most renowned university in</line>
-<line>America. As I sat upon my veranda, with this letter in my hand, tears</line>
+<line><place country="America">America</place>. As I sat upon my veranda, with this letter in my hand, tears</line>
 <line>came into my eyes. My whole former life—my life as a slave on the</line>
 <line>plantation, my work in the coal-mine, the times when I was without food</line>
 <line>and clothing, when I made my bed under a sidewalk, my struggles for an</line>
@@ -6634,7 +6634,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>wealthy people, the more I believe that they are growing in the</line>
 <line>direction of looking upon their money simply as an instrument which God</line>
 <line>has placed in their hand for doing good with. I never go to the office</line>
-<line>of Mr. John D. Rockefeller, who more than once has been generous to</line>
+<line>of Mr. <person relation="brother">John</person> D. Rockefeller, who more than once has been generous to</line>
 <line>Tuskegee, without being reminded of this. The close, careful, and</line>
 <line>minute investigation that he always makes in order to be sure that</line>
 <line>every dollar that he gives will do the most good—an investigation that</line>
@@ -6778,7 +6778,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>In the fall of 1898 I heard that President McKinley was likely to visit</line>
 <line>Atlanta, Georgia, for the purpose of taking part in the Peace Jubilee</line>
 <line>exercises to be held there to commemorate the successful close of the</line>
-<line>Spanish-American war. At this time I had been hard at work, together</line>
+<line>Spanish-American <HistRef event="Civil_War">war</HistRef>. At this time I had been hard at work, together</line>
 <line>with our teachers, for eighteen years, trying to build up a school that</line>
 <line>we thought would be of service to the Nation, and I determined to make</line>
 <line>a direct effort to secure a visit from the President and his Cabinet. I</line>
@@ -6857,7 +6857,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>McKinley and all of the Cabinet officers but one; and most of them</line>
 <line>brought their wives or some members of their families. Several</line>
 <line>prominent generals came, including General Shafter and General Joseph</line>
-<line>Wheeler, who were recently returned from the Spanish-American war.</line>
+<line>Wheeler, who were recently returned from the Spanish-American <HistRef event="Civil_War">war</HistRef>.</line>
 <line>There was also a host of newspaper correspondents. The Alabama</line>
 <line>Legislature was in session in Montgomery at this time. This body passed</line>
 <line>a resolution to adjourn for the purpose of visiting Tuskegee. Just</line>
@@ -6904,7 +6904,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>leaders of his race, widely known and much respected at home and abroad</line>
 <line>as an accomplished educator, a great orator, and a true philanthropist.</line>
 
-<line>The Hon. John D. Long, the Secretary of the Navy, said in part:—</line>
+<line>The Hon. <person relation="brother">John</person> D. Long, the Secretary of the Navy, said in part:—</line>
 
 <line>I cannot make a speech to-day. My heart is too full—full of hope,</line>
 <line>admiration, and pride for my countrymen of both sections and both</line>
@@ -6914,7 +6914,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>The problem, I say, has been solved. A picture has been presented</line>
 <line>to-day which should be put upon canvas with the pictures of Washington</line>
-<line>and Lincoln, and transmitted to future time and generations—a picture</line>
+<line>and <HistRef person="Abraham_Lincoln">Lincoln</HistRef>, and transmitted to future time and generations—a picture</line>
 <line>which the press of the country should spread broadcast over the land, a</line>
 <line>most dramatic picture, and that picture is this: The President of the</line>
 <line>United States standing on this platform; on one side the Governor of</line>
@@ -6934,7 +6934,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>We have witnessed many spectacles within the last few days. We have</line>
 <line>seen the magnificent grandeur and the magnificent achievements of one</line>
 <line>of the great metropolitan cities of the South. We have seen heroes of</line>
-<line>the war pass by in procession. We have seen floral parades. But I am</line>
+<line>the <HistRef event="Civil_War">war</HistRef> pass by in procession. We have seen floral parades. But I am</line>
 <line>sure my colleagues will agree with me in saying that we have witnessed</line>
 <line>no spectacle more impressive and more encouraging, more inspiring for</line>
 <line>our future, than that which we have witnessed here this morning.</line>
@@ -6967,7 +6967,7 @@ to make the work at Tuskegee successful.</dedication>
 
 <line>Very sincerely yours,</line>
 
-<line>John Addison Porter,</line>
+<line><person relation="brother">John</person> Addison Porter,</line>
 
 <line>Secretary to the President.</line>
 
@@ -7032,7 +7032,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>have the control of the institution.</line>
 
 <line>From thirty students the number has grown to fourteen hundred, coming</line>
-<line>from twenty-seven states and territories, from Africa, Cuba, Porto</line>
+<line>from twenty-seven states and territories, from <place country="Africa">Africa</place>, Cuba, Porto</line>
 <line>Rico, Jamaica, and other foreign countries. In our departments there</line>
 <line>are one hundred and ten officers and instructors; and if we add the</line>
 <line>families of our instructors, we have a constant population upon our</line>
@@ -7068,7 +7068,7 @@ to make the work at Tuskegee successful.</dedication>
 <line>self-control which is causing better relations to exist between the</line>
 <line>races, and is causing the Southern white man to learn to believe in the</line>
 <line>value of educating the men and women of my race. Aside from this, there</line>
-<line>is the influence that is constantly being exerted through the mothers’</line>
+<line>is the influence that is constantly being exerted through the <person relation="mother">mother</person>s’</line>
 <line>meeting and the plantation work conducted by Mrs. Washington.</line>
 
 <line>Wherever our graduates go, the changes which soon begin to appear in</line>
