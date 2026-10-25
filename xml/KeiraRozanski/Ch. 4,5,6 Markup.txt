@@ -1,0 +1,7 @@
+Ch. 4,5,6 Markup
+
+1. I marked paragraphs using regex.
+
+2. I manually marked chapters as <chapter n="">. I also marked the chapter headings as <chapter_title> manually.
+
+3. The next part of the markup is broken into two tags,<education> and <inequality>. When Washington mentions his time as a student or something gained from his education, I marked it as <education>. When he mentions any inequality he faced or the consequences of it, it was marked as <inequality>.
