@@ -152,7 +152,7 @@ of English men in the Southern States as to hold them back a hundred
 years behind their fellows in every other part of the world—in England,
 in Australia, and in the Northern and Western States; I was thinking of
 this dark shadow that had oppressed every large-minded statesman from
-Jefferson to <HistRef person="Abraham_Lincoln">Lincoln</HistRef>. These thousand young men and women about me were
+Jefferson to <HistRef name="/1">Lincoln</HistRef>. These thousand young men and women about me were
 victims of it. I, too, was an innocent victim of it. The whole Republic
 was a victim of that fundamental error of importing <place country="Africa">Africa</place> into
 <place country="America">America</place>. I held firmly to the first article of my faith that the
@@ -345,26 +345,26 @@ know the month or the day. The earliest impressions I can now recall
 are of the plantation and the slave quarters—the latter being the part
 of the plantation where the slaves had their cabins.</tone></p>
 
-<p><tone feeling="melancholy"><inequality>My life had its beginning in the midst of the most miserable, desolate,
-            and discouraging surroundings.</inequality> This was so, however, not because my
+<p><tone feeling="melancholy"><project theme="inequality">My life had its beginning in the midst of the most miserable, desolate,
+            and discouraging surroundings.</project> This was so, however, not because my
 owners were especially cruel, for they were not, as compared with many
 others. I was born in a typical log cabin, about fourteen by sixteen
 feet square. In this cabin I lived with my <person relation="mother">mother</person> and a <person relation="brother">brother</person> and
 <person relation="sister">sister</person> till after the <HistRef event="Civil_War">Civil War</HistRef>, when we were all declared free.</tone></p>
 
 <p>Of my ancestry I know almost nothing. In the slave quarters, and even
-later, <inequality>I heard whispered conversations among the coloured people of the
+later, <project theme="inequality">I heard whispered conversations among the coloured people of the
 tortures which the slaves, including, no doubt, my ancestors on my
 <person relation="mother">mother</person>’s side, suffered in the middle passage of the slave ship while
-    being conveyed from <place country="Africa">Africa</place> to <place country="America">America</place>.</inequality> I have been unsuccessful in
+    being conveyed from <place country="Africa">Africa</place> to <place country="America">America</place>.</project> I have been unsuccessful in
 securing any information that would throw any accurate light upon the
 history of my family beyond my <person relation="mother">mother</person>. She, I remember, had a
-half-<person relation="brother">brother</person> and a half-<person relation="sister">sister</person>. <inequality>In the days of slavery not very much
+half-<person relation="brother">brother</person> and a half-<person relation="sister">sister</person>. <project theme="inequality">In the days of slavery not very much
 attention was given to family history and family records—that is, black
-family records.</inequality> My <person relation="mother">mother</person>, I suppose, attracted the attention of a
-purchaser who was afterward my owner and hers. <inequality>Her addition to the
+family records.</project> My <person relation="mother">mother</person>, I suppose, attracted the attention of a
+purchaser who was afterward my owner and hers. <project theme="inequality">Her addition to the
 slave family attracted about as much attention as the purchase of a new
-horse or cow.</inequality> Of my father I know even less than of my <person relation="mother">mother</person>. I do not
+horse or cow.</project> Of my father I know even less than of my <person relation="mother">mother</person>. I do not
 even know his name. I have heard reports to the effect that he was a
 white man who lived on one of the near-by plantations. Whoever he was,
 I never heard of his taking the least interest in me or providing in
@@ -387,7 +387,7 @@ eight inches, provided for the purpose of letting the cat pass in and
 out of the house at will during the night. In the case of our
 particular cabin I could never understand the necessity for this
 convenience, since there were at least a half-dozen other places in the
-cabin that would have accommodated the cats. <inequality>There was no wooden floor
+cabin that would have accommodated the cats. <project theme="inequality">There was no wooden floor
 in our cabin, the naked earth being used as a floor. In the centre of
 the earthen floor there was a large, deep opening covered with boards,
 which was used as a place in which to store sweet potatoes during the
@@ -399,7 +399,7 @@ cooking-stove on our plantation, and all the cooking for the whites and
 slaves my <person relation="mother">mother</person> had to do over an open fireplace, mostly in pots and
 “skillets.” While the poorly built cabin caused us to suffer with cold
 in the winter, the heat from the open fireplace in summer was equally
-trying.</inequality></description></tone></p>
+trying.</project></description></tone></p>
 
 <p><period time="Early_Life">The early years of my life, which were spent in the little cabin, were
 not very different from those of thousands of other slaves. My <person relation="mother">mother</person>,
@@ -458,14 +458,14 @@ this way would be about the same as getting into paradise.</project></p>
 <p><tone feeling="reminiscent">So far as I can now recall, the first knowledge that I got of the fact
 that we were slaves, and that freedom of the slaves was being
 discussed, was early one morning before day, when I was awakened by my
-<person relation="mother">mother</person> kneeling over her children and fervently praying that <HistRef person="Abraham_Lincoln">Lincoln</HistRef>
+<person relation="mother">mother</person> kneeling over her children and fervently praying that <HistRef name="/1">Lincoln</HistRef>
 and his armies might be successful, and that one day she and her
 children might be free. In this connection <project theme="education">I have never been able to
 understand how the slaves throughout the South, completely ignorant as
 were the masses so far as books or newspapers were concerned, were able
 to keep themselves so accurately and completely informed about the
 great National questions that were agitating the country.</project> From the time
-that <HistRef person="William_LLoyd_Garrison">Garrison</HistRef>, <HistRef person="Elijah_Parish_Lovejoy">Lovejoy</HistRef>, and others began to agitate for freedom, the
+that <HistRef name="/1">Lovejoy</HistRef>, and others began to agitate for freedom, the
 slaves throughout the South kept in close touch with the progress of
 the movement. Though I was a mere child during the preparation for the
 <HistRef event="Civil_War">Civil War</HistRef> and during the <HistRef event="Civil_War">war</HistRef> itself, I now recall the many
@@ -474,7 +474,7 @@ other slaves on the plantation indulge in. These discussions showed
 that they understood the situation, and that they kept themselves
 informed of events by what was termed the “grape-vine” telegraph</tone>.</p>
 
-<p>During the campaign when <HistRef person="Abraham_Lincoln">Lincoln</HistRef> was first a candidate for the
+<p>During the campaign when <HistRef name="/1">Lincoln</HistRef> was first a candidate for the
 Presidency, the slaves on our far-off plantation, miles from any
 railroad or large city or daily newspaper, knew what the issues
 involved were. When <HistRef event="Civil_War">war</HistRef> was begun between the North and the South,
@@ -498,11 +498,11 @@ naturally retail the news that he had secured among the slaves, and in
 this way they often heard of important events before the white people
 at the “big house,” as the master’s house was called.</p>
 
-<p><period time="Early_Life"><inequality>I cannot remember a single instance during my childhood or early
+<p><period time="Early_Life"><project theme="inequality">I cannot remember a single instance during my childhood or early
 boyhood when our entire family sat down to the table together, and
 God’s blessing was asked, and the family ate a meal in a civilized
 manner. On the plantation in <place state="Virginia">Virginia</place>, and even later, meals were
-            gotten by the children very much as dumb animals get theirs.</inequality> It was a
+            gotten by the children very much as dumb animals get theirs.</project> It was a
 piece of bread here and a scrap of meat there. It was a cup of milk at
 one time and some potatoes at another. Sometimes a portion of our
 family would eat out of the skillet or pot, while some one else would
@@ -537,14 +537,14 @@ had rough leather on the top, but the bottoms, which were about an inch
 thick, were of wood. When I walked they made a fearful noise, and
 besides this they were very inconvenient, since there was no yielding
 to the natural pressure of the foot. In wearing them one presented an
-exceedingly awkward appearance. <inequality>The most trying ordeal that I was
+exceedingly awkward appearance. <project theme="inequality">The most trying ordeal that I was
 forced to endure as a slave boy, however, was the wearing of a flax
 shirt. In the portion of <place state="Virginia">Virginia</place> where I lived it was common to use
 flax as part of the clothing for the slaves. That part of the flax from
 which our clothing was made was largely the refuse, which of course was
 the cheapest and roughest part. I can scarcely imagine any torture,
 except, perhaps, the pulling of a tooth, that is equal to that caused
-by putting on a new flax shirt for the first time.</inequality> It is almost equal
+by putting on a new flax shirt for the first time.</project> It is almost equal
 to the feeling that one would experience if he had a dozen or more
 chestnut burrs, or a hundred small pin-points, in contact with his
 flesh. Even to this day I can recall accurately the tortures that I
@@ -590,8 +590,8 @@ noticed it, but I think that it will be found to be true that there are
 few instances, either in slavery or freedom, in which a member of my
 race has been known to betray a specific trust.</p>
 
-<p><inequality>As a rule, not only did the members of my race entertain no feelings of
-        bitterness against the whites before and during the <HistRef event="Civil_War">war</HistRef></inequality>, but there are
+<p><project theme="inequality">As a rule, not only did the members of my race entertain no feelings of
+        bitterness against the whites before and during the <HistRef event="Civil_War">war</HistRef></project>, but there are
 many instances of Negroes tenderly caring for their former masters and
 mistresses who for some reason have become poor and dependent since the
 <HistRef event="Civil_War">war</HistRef>. I know of instances where the former masters of slaves have for
@@ -629,8 +629,8 @@ given his word to the master, and his word he had never broken. He felt
 that he could not enjoy his freedom till he had fulfilled his promise.</p>
 
 <p>From some things that I have said one may get the idea that some of the
-slaves did not want freedom. This is not true. <inequality>I have never seen one
-    who did not want to be free, or one who would return to slavery.</inequality></p>
+slaves did not want freedom. This is not true. <project theme="inequality">I have never seen one
+    who did not want to be free, or one who would return to slavery.</project></p>
 
 <p><tone feeling="melancholy">I pity from the bottom of my heart any nation or body of people that is
 so unfortunate as to get entangled in the net of slavery. I have long
@@ -789,7 +789,7 @@ the one name. If “<person relation="brother">John</person>” or “Susan” b
 of “Hatcher,” sometimes he was called “<person relation="brother">John</person> Hatcher,” or as often
 “Hatcher’s <person relation="brother">John</person>.” But there was a feeling that “<person relation="brother">John</person> Hatcher” or
 “Hatcher’s <person relation="brother">John</person>” was not the proper title by which to denote a freeman;
-and so in many cases “<person relation="brother">John</person> Hatcher” was changed to “<person relation="brother">John</person> S. <HistRef person="Abraham_Lincoln">Lincoln</HistRef>” or
+and so in many cases “<person relation="brother">John</person> Hatcher” was changed to “<person relation="brother">John</person> S. <HistRef name="/1">Lincoln</HistRef>” or
 “<person relation="brother">John</person> S. Sherman,” the initial “S” standing for no name, it being
 simply a part of what the coloured man proudly called his “entitles.”</p>
 
@@ -5863,7 +5863,7 @@ novel that is on every one’s lips. The kind of reading that I have the
 greatest fondness for is biography. I like to be sure that I am reading
 about a real man or a real thing. I think I do not go too far when I
 say that I have read nearly every book and magazine article that has
-been written about <HistRef person="Abraham_Lincoln">Abraham Lincoln</HistRef>. In literature he is my patron
+been written about <HistRef name="/1">Abraham Lincoln</HistRef>. In literature he is my patron
 saint.</p>
 
 <p>Out of the twelve months in a year I suppose that, on an average, I
@@ -6846,7 +6846,7 @@ progress and in the solution of the problem in which you are engaged.</p>
 
 <p>The problem, I say, has been solved. A picture has been presented
 to-day which should be put upon canvas with the pictures of Washington
-and <HistRef person="Abraham_Lincoln">Lincoln</HistRef>, and transmitted to future time and generations—a picture
+and <HistRef name="/1">Lincoln</HistRef>, and transmitted to future time and generations—a picture
 which the press of the country should spread broadcast over the land, a
 most dramatic picture, and that picture is this: The President of the
 United States standing on this platform; on one side the Governor of
