@@ -1,0 +1,9 @@
+Things Made:
+•	Chapter – Self-explanatory – Useful for formatting
+•	Chapter Title – Goes with Chapter – Could be useful when talking about the themes of chapters and how something is expressed
+•	Paragraph – Self-explanatory – Useful for formatting
+•	Education – Themes of the project
+•	Inequality – Theme of the project
+•	How were the themes of Inequality and Education expressed and changed over time? – Research Question
+•	BC creating documentation page
+Jillian works on Schema; Keira and Doris on mark-up in XML, Steve fulfilling various decisions, and I'm working on the HTML parts of the 4th checkpoint
