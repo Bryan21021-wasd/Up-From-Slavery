@@ -6,16 +6,17 @@
     version="3.0">
     <xsl:output method="xhtml" encoding="utf-8" doctype-system="about:legacy-compat" omit-xml-declaration="yes"/>
     <xsl:variable name="UFS" select="document('../../xml/JillianGrgic/JG_Up-From-Slavery_Mark-Up.xml')"/>
-    <!--To output the document beginning at the first chapter and going through the document to the last one-->
+    <!--To output the document beginning at the first chapter and going through the document to the last one. I am unsure, with the structuring of this xml document, how to make sure the original paragraph tags stay-->
     <xsl:template match="$UFS">
         <xsl:result-document method="xhtml" indent="yes" href="exercise-e-output-JLG.html">
             <html>
                 <head><title>Up From Slavery</title>
                     <link rel="stylesheet" type="text/css" href="exercise-e-JLG.css"/></head>
                 <body>
-                    <xsl:for-each select=".//chapter">
-                        <xsl:if test="chapter">
-                            <h2><xsl:apply-templates/></h2>
+                    <xsl:for-each select=".//book">
+                        <xsl:if test=".//chapter">
+                            <p><xsl:apply-templates/>
+                            </p>
                         </xsl:if>
                         <xsl:if test="/p">
                             <p><xsl:apply-templates/></p>
