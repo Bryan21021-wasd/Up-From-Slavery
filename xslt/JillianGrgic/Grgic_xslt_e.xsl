@@ -13,11 +13,18 @@
                 <head><title>Up From Slavery</title>
                     <link rel="stylesheet" type="text/css" href="exercise-e-JLG.css"/></head>
                 <body>
-                        <p><xsl:apply-templates select=".//chapter"/></p>
+                        <xsl:apply-templates select=".//chapter"/>
+                    <xsl:apply-templates select=".//p"/>
                 </body>
             </html>
         </xsl:result-document>
-</xsl:template>
+    </xsl:template>
+    <xsl:template match="chapter">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
+    <xsl:template match="p">
+        <p><xsl:apply-templates/></p>
+    </xsl:template>
     <!--To connect the css to the html and let the properties show up.-->
     <xsl:template match="person">
         <span class="person"><xsl:apply-templates/></span>
