@@ -30,8 +30,11 @@
                             <th>
                                 Person Frequency
                             </th>
+                            <th>
+                                Person Reference
+                            </th>
                         </tr>
-                        <xsl:for-each-group select="//person" group-by="@relation"> <!-->Find all person elements that have the attribute relation.<-->
+                        <xsl:for-each-group select="//person" group-by="@relation"> <!--Find all person elements that have the attribute relation.-->
                             <xsl:sort select="count(current-group())" order="descending"/> <!--Count the number for each relation and list it from high to low.-->
                                 <tr>
                                     <td>
@@ -39,6 +42,9 @@
                                     </td>
                                     <td>
                                         <xsl:value-of select="count(current-group())"/>
+                                    </td>
+                                    <td>
+                                        <xsl:apply-templates select="current-group()/text()=>distinct-values()=>string-join(', ')"/> <!--Make a list of the references of the persons when they show up in text.-->
                                     </td>
                                 </tr>
                         </xsl:for-each-group>
