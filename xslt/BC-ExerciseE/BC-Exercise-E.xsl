@@ -18,12 +18,17 @@
                     <h2>Chapter List</h2>
                     </head>
                     <body>
+                       <ol>
                         <xsl:for-each select="//chapter"> <!-- BC - This function creates the list of chapter titles from the chapter list -->
-                                <xsl:if test="@n"><ol>Chapter <xsl:value-of select="@n"/></ol></xsl:if> <!-- BC - This tests to make sure that it's listing the chapter numbers, as I can't do an apply templates blindly using Chapter. -->
-                            <xsl:if test="descendant::HistRef">
-                                 <xsl:apply-templates select="./p/HistRef"/> 
-                            </xsl:if>
+                            <xsl:if test="@n"><li>Chapter <xsl:value-of select="@n"/></li></xsl:if> 
+                            <ul>
+                            <xsl:for-each select="descendant::HistRef">
+                                <li><xsl:apply-templates/></li> 
+                            </xsl:for-each> <!-- BC - This tests to make sure that it's listing the chapter numbers, as I can't do an apply templates blindly using Chapter. -->
+                            </ul>
+
                         </xsl:for-each>
+                       </ol>
                     </body>
             </html>
           </xsl:result-document>
