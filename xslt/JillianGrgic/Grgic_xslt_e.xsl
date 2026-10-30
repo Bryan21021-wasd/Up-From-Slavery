@@ -12,11 +12,9 @@
             <html>
                 <head><title>Up From Slavery</title>
                     <link rel="stylesheet" type="text/css" href="exercise-e-JLG.css"/></head>
-                <template match="chapter">
                 <body>
-                        <p><xsl:apply-templates/></p>
+                        <p><xsl:apply-templates select=".//chapter"/></p>
                 </body>
-                </template>
             </html>
         </xsl:result-document>
 </xsl:template>
