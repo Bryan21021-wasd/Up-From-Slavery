@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
+  <!--took out mistaken tei line-->
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml"
@@ -25,10 +25,10 @@
                 </xsl:for-each>
             </body>
         </html>
-       
+       <!--i'm not sure why this is giving me a red square???-->
 </xsl:template>
     <!--used xsl for each, and used span-->
     <xsl:template match="projecttheme">
         <span class="projecttheme"><xsl:apply-templates/></span>
     </xsl:template> </xsl:result-document>
-</xsl:stylesheet><!--i'm not sure why this is giving me a red square???-->
+</xsl:stylesheet>
