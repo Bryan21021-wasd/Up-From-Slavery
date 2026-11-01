@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
-  <!--took out mistaken tei line-->
+  
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     xmlns="http://www.w3.org/1999/xhtml"
@@ -30,5 +30,5 @@
     <!--used xsl for each, and used span-->
     <xsl:template match="projecttheme">
         <span class="projecttheme"><xsl:apply-templates/></span>
-    </xsl:template> </xsl:result-document>
+    </xsl:template>
 </xsl:stylesheet>
