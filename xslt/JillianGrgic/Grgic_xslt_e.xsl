@@ -25,6 +25,9 @@
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
+    <xsl:template match="title">
+        <h2><xsl:apply-templates/></h2>
+    </xsl:template>
     <!--To connect the css to the html and let the properties show up.-->
     <xsl:template match="person">
         <span class="person"><xsl:apply-templates/></span>
