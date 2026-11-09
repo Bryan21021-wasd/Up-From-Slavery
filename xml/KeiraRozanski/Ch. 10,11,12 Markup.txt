@@ -1,0 +1,9 @@
+Ch. 10,11,12 Markup
+
+1. First I searched for newlines and then replaced them to mark for paragraphs.
+2. Next, I marked each chapter title as the chapter number and marked each chapter title as the chapter title.
+3. Now I began the manual markup. When I came across a person's name, I searched for other occurrences of the name and replaced them with the correct tags. I marked names, places, themes, and feelings. 
+	a.)Names and relations are tagged based on the information given. If it is a re-occurring person I tagged it with relations previously mentioned. If the name was mentioned once or just in a small section relation was tagged based on relevance to the story. For example, in chapters 11 and 12, multiple people are mentioned for making donations to the school. I marked their relations as "donors" since they do not seem to have any other form of relationship.
+	b.) Places are marked based on the schema, with state or country attributes.
+	c.) The project themes are marked based on the schema as either education or inequality. I left several comments clarifying my choices in marking passages as such. For the majority of the chapter education themes relate to Washington being a teacher. I marked passages that explicitly talk about what he is doing as an educator. Since the majority of these chapters talk about Washington seeking funding for the school I did not mark that as education. I marked inequality as examples of inequality for Washington or the school. I also marked and made comments toward passages that talk about the reverse effects of inequality. I think it would be important to compare situations of inequality and equality Washington faces throughout his life.
+	d.)I marked feelings based on strong tones on specific passages. When a section had a strong underlying tone I marked it.
