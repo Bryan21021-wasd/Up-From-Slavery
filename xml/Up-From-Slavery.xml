@@ -3365,7 +3365,7 @@ opportunity of seeing what the school was designed to be.</p>
 <title titleName="A Harder Task Than Making Bricks Without Straw">A Harder Task Than Making Bricks Without Straw</title>
 
 <p>
-From the very beginning, at Tuskegee, I was determined to have the
+<project theme="education" type="vocational">From the very beginning, at Tuskegee, I was determined to have the
 students do not only the agricultural and domestic work, but to have
 them erect their own buildings. My plan was to have them, while
 performing this service, taught the latest and best methods of labour,
@@ -3375,16 +3375,16 @@ labour, but beauty and dignity; would be taught, in fact, how to lift
 labour up from mere drudgery and toil, and would learn to love work for
 its own sake. My plan was not to teach them to work in the old way, but
 to show them how to make the forces of nature—air, water, steam,
-electricity, horse-power—assist them in their labour.</p>
+electricity, horse-power—assist them in their labour.</project></p>
 
 <p>At first many advised against the experiment of having the buildings
 erected by the labour of the students, but I was determined to stick to
-it. I told those who doubted the wisdom of the plan that I knew that
+it. <project theme="education">I told those who doubted the wisdom of the plan that I knew that
 our first buildings would not be so comfortable or so complete in their
 finish as buildings erected by the experienced hands of outside
 workmen, but that in the teaching of civilization, self-help, and
 self-reliance, the erection of buildings by the students themselves
-would more than compensate for any lack of comfort or fine finish.</p>
+would more than compensate for any lack of comfort or fine finish.</project></p>
 
 <p>I further told those who doubted the wisdom of this plan, that the
 majority of our students came to us in poverty, from the cabins of the
@@ -3395,7 +3395,7 @@ natural process of development to teach them how to construct their own
 buildings. Mistakes I knew would be made, but these mistakes would
 teach us valuable lessons for the future.</p>
 
-<p>During the now nineteen years’ existence of the Tuskegee school, the
+    <p>During the now nineteen years’ existence of the <place state="Alabama">Tuskegee school</place>, the
 plan of having the buildings erected by student labour has been adhered
 to. In this time forty buildings, counting small and large, have been
 built, and all except four are almost wholly the product of student
@@ -3454,7 +3454,7 @@ the kiln fell. For the third time we had failed.</p>
 which to make another experiment. Most of the teachers advised the
 abandoning of the effort to make bricks. In the midst of my troubles I
 thought of a watch which had come into my possession years before. I
-took the watch to the city of Montgomery, which was not far distant,
+took the watch to the city of <place state="Alabama">Montgomery</place>, which was not far distant,
 and placed it in a pawn-shop. I secured cash upon it to the amount of
 fifteen dollars, with which to renew the brickmaking experiment. I
 returned to Tuskegee, and, with the help of the fifteen dollars,
@@ -3471,7 +3471,7 @@ Aside from this, scores of young men have mastered the brickmaking
 trade—both the making of bricks by hand and by machinery—and are now
 engaged in this industry in many parts of the South.</p>
 
-<p>The making of these bricks taught me an important lesson in regard to
+<p><project theme="inequality">The making of these bricks taught me an important lesson in regard to
 the relations of the two races in the South. Many white people who had
 had no contact with the school, and perhaps no sympathy with it, came
 to us to buy bricks because they found out that ours were good bricks.
@@ -3479,14 +3479,14 @@ They discovered that we were supplying a real want in the community.
 The making of these bricks caused many of the white residents of the
 neighbourhood to begin to feel that the education of the Negro was not
 making him worthless, but that in educating our students we were adding
-something to the wealth and comfort of the community. As the people of
+something to the wealth and comfort of the community.</project> <tone feeling="hopeful">As the people of
 the neighbourhood came to us to buy bricks, we got acquainted with
 them; they traded with us and we with them. Our business interests
 became intermingled. We had something which they wanted; they had
 something which we wanted. This, in a large measure, helped to lay the
 foundation for the pleasant relations that have continued to exist
 between us and the white people in that section, and which now extend
-throughout the South.</p>
+throughout the South.</tone></p>
 
 <p>Wherever one of our brickmakers has gone in the South, we find that he
 has something to contribute to the well-being of the community into
@@ -3495,10 +3495,10 @@ a degree, it is indebted to him, and perhaps, to a certain extent,
 dependent upon him. In this way pleasant relations between the races
 have been stimulated.</p>
 
-<p>My experience is that there is something in human nature which always
+<p><project theme="inequality">My experience is that there is something in human nature which always
 makes an individual recognize and reward merit, no matter under what
 colour of skin merit is found. I have found, too, that it is the
-visible, the tangible, that goes a long ways in softening prejudices.
+visible, the tangible, that goes a long ways in softening prejudices.</project>
 The actual sight of a first-class house that a Negro has built is ten
 times more potent than pages of discussion about a house that he ought
 to build, or perhaps could build.</p>
@@ -3509,7 +3509,7 @@ own and use on our farm and about the school dozens of these vehicles,
 and every one of them has been built by the hands of the students.
 Aside from this, we help supply the local market with these vehicles.
 The supplying of them to the people in the community has had the same
-effect as the supplying of bricks, and the man who learns at Tuskegee
+effect as the supplying of bricks, and the man who learns at <place state="Alabama">Tuskegee</place>
 to build and repair wagons and carts is regarded as a benefactor by
 both races in the community where he goes. The people with whom he
 lives and works are going to think twice before they part with such a
@@ -3545,12 +3545,12 @@ education. Besides, I talked to the students constantly on the subject.
 Notwithstanding the unpopularity of industrial work, the school
 continued to increase in numbers to such an extent that by the middle
 of the second year there was an attendance of about one hundred and
-fifty, representing almost all parts of the state of Alabama, and
+fifty, representing almost all parts of the state of <place state="Alabama">Alabama</place>, and
 including a few from other states.</p>
 
-<p>In the summer of 1882 Miss Davidson and I both went North and engaged
+    <p>In the summer of 1882 <person relation="teacher">Miss Davidson</person> and I both went North and engaged
 in the work of raising funds for the completion of our new building. On
-my way North I stopped in New York to try to get a letter of
+my way North I stopped in <place state="New_York">New York</place> to try to get a letter of
 recommendation from an officer of a missionary organization who had
 become somewhat acquainted with me a few years previous. This man not
 only refused to give me the letter, but advised me most earnestly to go
@@ -3558,11 +3558,11 @@ back home at once, and not make any attempt to get money, for he was
 quite sure that I would never get more than enough to pay my travelling
 expenses. I thanked him for his advice, and proceeded on my journey.</p>
 
-<p>The first place I went to in the North, was Northampton, Mass., where I
+    <p>The first place I went to in the North, was <place state="Massachusetts">Northampton, Mass.</place>, where I
 spent nearly a half-day in looking for a coloured family with whom I
-could board, never dreaming that any hotel would admit me. I was
+could board, never dreaming that any hotel would admit me. <tone feeling="surprised">I was
 greatly surprised when I found that I would have no trouble in being
-accommodated at a hotel.</p>
+accommodated at a hotel.</tone></p>
 
 <p>We were successful in getting money enough so that on Thanksgiving Day
 of that year we held our first service in the chapel of Porter Hall,
@@ -3570,17 +3570,17 @@ although the building was not completed.</p>
 
 <p>In looking about for some one to preach the Thanksgiving sermon, I
 found one of the rarest men that it has ever been my privilege to know.
-This was the Rev. Robert C. Bedford, a white man from Wisconsin, who
+This was the <person relation="Reverend">Rev. Robert C. Bedford</person>, a white man from <place state="Wisconsin">Wisconsin</place>, who
 was then pastor of a little coloured Congregational church in
-Montgomery, Ala. Before going to Montgomery to look for some one to
-preach this sermon I had never heard of Mr. Bedford. He had never heard
+    <place state="Alabama" city="Montgomery">Montgomery, Ala.</place> Before going to <place state="Alabama" city="Montgomery">Montgomery</place> to look for some one to
+    preach this sermon I had never heard of <person relation="Reverend">Mr. Bedford</person>. He had never heard
 of me. He gladly consented to come to Tuskegee and hold the
-Thanksgiving service. It was the first service of the kind that the
+Thanksgiving service. <project theme="inequality">It was the first service of the kind that the
 coloured people there had ever observed, and what a deep interest they
-manifested in it! The sight of the new building made it a day of
+manifested in it!</project> The sight of the new building made it a day of
 Thanksgiving for them never to be forgotten.</p>
 
-<p>Mr. Bedford consented to become one of the trustees of the school, and
+    <p><person relation="Reverend">Mr. Bedford</person> consented to become one of the trustees of the school, and
 in that capacity, and as a worker for it, he has been connected with it
 for eighteen years. During this time he has borne the school upon his
 heart night and day, and is never so happy as when he is performing
@@ -3592,8 +3592,8 @@ to the spirit of the Master as almost any man I ever met.</p>
 
 <p>A little later there came into the service of the school another man,
 quite young at the time, and fresh from Hampton, without whose service
-the school never could have become what it is. This was Mr. Warren
-Logan, who now for seventeen years has been the treasurer of the
+the school never could have become what it is. This was <person relation="principal">Mr. Warren
+    Logan</person>, who now for seventeen years has been the treasurer of the
 Institute, and the acting principal during my absence. He has always
 shown a degree of unselfishness and an amount of business tact, coupled
 with a clear judgment, that has kept the school in good condition no
@@ -3608,7 +3608,7 @@ coming from quite a distance, and in such increasing numbers that we
 felt more and more that we were merely skimming over the surface, in
 that we were not getting hold of the students in their home life.</p>
 
-<p>We had nothing but the students and their appetites with which to begin
+<p><project theme="education" type="educator">We had nothing but the students and their appetites with which to begin
 a boarding department. No provision had been made in the new building
 for a kitchen and dining room; but we discovered that by digging out a
 large amount of earth from under the building we could make a partially
@@ -3617,7 +3617,7 @@ Again I called on the students to volunteer for work, this time to
 assist in digging out the basement. This they did, and in a few weeks
 we had a place to cook and eat in, although it was very rough and
 uncomfortable. Any one seeing the place now would never believe that it
-was once used for a dining room.</p>
+was once used for a dining room.</project></p>
 
 <p>The most serious problem, though, was to get the boarding department
 started off in running order, with nothing to do with in the way of
@@ -3641,7 +3641,7 @@ something was wrong at every meal. Either the meat was not done or had
 been burnt, or the salt had been left out of the bread, or the tea had
 been forgotten.</p>
 
-<p>Early one morning I was standing near the dining-room door listening to
+<p><tone feeling="discouraged">Early one morning I was standing near the dining-room door listening to
 the complaints of the students. The complaints that morning were
 especially emphatic and numerous, because the whole breakfast had been
 a failure. One of the girls who had failed to get any breakfast came
@@ -3651,9 +3651,9 @@ the well, she found that the rope was broken and that she could get no
 water. She turned from the well and said, in the most discouraged tone,
 not knowing that I was where I could hear her, “We can’t even get water
 to drink at this school.” I think no one remark ever came so near
-discouraging me as that one.</p>
+discouraging me as that one.</tone></p>
 
-<p>At another time, when Mr. Bedford—whom I have already spoken of as one
+    <p>At another time, when <person relation="Reverend">Mr. Bedford</person>—whom I have already spoken of as one
 of our trustees, and a devoted friend of the institution—was visiting
 the school, he was given a bedroom immediately over the dining room.
 Early in the morning he was awakened by a rather animated discussion
@@ -3662,20 +3662,20 @@ question as to whose turn it was to use the coffee-cup that morning.
 One boy won the case by proving that for three mornings he had not had
 an opportunity to use the cup at all.</p>
 
-<p>But gradually, with patience and hard work, we brought order out of
+<p><tone feeling="hopeful">But gradually, with patience and hard work, we brought order out of
 chaos, just as will be true of any problem if we stick to it with
-patience and wisdom and earnest effort.</p>
+patience and wisdom and earnest effort.</tone></p>
 
-<p>As I look back now over that part of our struggle, I am glad to see
+<p><tone feeling="grateful">As I look back now over that part of our struggle, I am glad to see
 that we had it. I am glad that we endured all those discomforts and
 inconveniences. I am glad that our students had to dig out the place
 for their kitchen and dining room. I am glad that our first
 boarding-place was in the dismal, ill-lighted, and damp basement. Had
 we started in a fine, attractive, convenient room, I fear we would have
 “lost our heads” and become “stuck up.” It means a great deal, I think,
-to start off on a foundation which one has made for one’s self.</p>
+to start off on a foundation which one has made for one’s self.</tone></p>
 
-<p>When our old students return to Tuskegee now, as they often do, and go
+    <p>When our old students return to <place state="Alabama">Tuskegee</place> now, as they often do, and go
 into our large, beautiful, well-ventilated, and well-lighted dining
 room, and see tempting, well-cooked food—largely grown by the students
 themselves—and see tables, neat tablecloths and napkins, and vases of
@@ -3691,27 +3691,27 @@ process of growth.</p>
 <title titleName="Making Their Beds Before They Could Lie On Them">Making Their Beds Before They Could Lie On Them</title>
 
 <p>
-A little later in the history of the school we had a visit from General
-J.F.B. Marshall, the Treasurer of the Hampton Institute, who had had
+A little later in the history of the school we had a visit from <person relation="Treasurer">General
+    J.F.B. Marshall</person>, the Treasurer of the <place state="Virginia" school="Hampton_Institute">Hampton Institute</place>, who had had
 faith enough to lend us the first two hundred and fifty dollars with
 which to make a payment down on the farm. He remained with us a week,
 and made a careful inspection of everything. He seemed well pleased
 with our progress, and wrote back interesting and encouraging reports
-to Hampton. A little later Miss Mary F. Mackie, the teacher who had
-given me the “sweeping” examination when I entered Hampton, came to see
-us, and still later General Armstrong himself came.</p>
+to Hampton. A little later <person relation="teacher">Miss Mary F. Mackie</person>, the teacher who had
+    given me the “sweeping” examination when I entered <place state="Virginia" school="Hampton_Institue">Hampton</place>, came to see
+    us, and still later <person relation="friend">General Armstrong</person> himself came.</p>
 
 <p>At the time of the visits of these Hampton friends the number of
-teachers at Tuskegee had increased considerably, and the most of the
+    teachers at <place state="Alabama" school="Tuskegee">Tuskegee</place> had increased considerably, and the most of the
 new teachers were graduates of the Hampton Institute. We gave our
-Hampton friends, especially General Armstrong, a cordial welcome. They
+    <place state="Virginia" school="Hampton_Institute">Hampton</place> friends, especially <person relation="friend">General Armstrong</person>, a cordial welcome. They
 were all surprised and pleased at the rapid progress that the school
 had made within so short a time. The coloured people from miles around
 came to the school to get a look at General Armstrong, about whom they
 had heard so much. The General was not only welcomed by the members of
 my own race, but by the Southern white people as well.</p>
 
-<p>This first visit which General Armstrong made to Tuskegee gave me an
+    <p>This first visit which <person relation="friend">General Armstrong</person> made to <place state="Alabama" school="Tuskegee">Tuskegee</place> gave me an
 opportunity to get an insight into his character such as I had not
 before had. I refer to his interest in the Southern white people.
 Before this I had had the thought that General Armstrong, having fought
@@ -3725,23 +3725,23 @@ as the black. He cherished no bitterness against the South, and was
 happy when an opportunity offered for manifesting his sympathy. In all
 my acquaintance with General Armstrong I never heard him speak, in
 public or in private, a single bitter word against the white man in the
-South. From his example in this respect I learned the lesson that great
+South. <tone feeling="acceptance">From his example in this respect I learned the lesson that great
 men cultivate love, and that only little men cherish a spirit of
 hatred. I learned that assistance given to the weak makes the one who
-gives it strong; and that oppression of the unfortunate makes one weak.</p>
+gives it strong; and that oppression of the unfortunate makes one weak.</tone></p>
 
-<p>It is now long ago that I learned this lesson from General Armstrong,
+    <p>It is now long ago that I learned this lesson from <person relation="friend">General Armstrong</person>,
 and resolved that I would permit no man, no matter what his colour
-might be, to narrow and degrade my soul by making me hate him. With
+might be, to narrow and degrade my soul by making me hate him. <project theme="inequality">With
 God’s help, I believe that I have completely rid myself of any ill
 feeling toward the Southern white man for any wrong that he may have
 inflicted upon my race. I am made to feel just as happy now when I am
 rendering service to Southern white men as when the service is rendered
 to a member of my own race. I pity from the bottom of my heart any
 individual who is so unfortunate as to get into the habit of holding
-race prejudice.</p>
+race prejudice.</project></p>
 
-<p>The more I consider the subject, the more strongly I am convinced that
+<p><project theme="inequality">The more I consider the subject, the more strongly I am convinced that
 the most harmful effect of the practice to which the people in certain
 sections of the South have felt themselves compelled to resort, in
 order to get rid of the force of the Negroes’ ballot, is not wholly in
@@ -3756,16 +3756,16 @@ who begins by cheating a Negro usually ends by cheating a white man.
 The white man who begins to break the law by lynching a Negro soon
 yields to the temptation to lynch a white man. All this, it seems to
 me, makes it important that the whole Nation lend a hand in trying to
-lift the burden of ignorance from the South.</p>
+lift the burden of ignorance from the South.</project></p>
 
-<p>Another thing that is becoming more apparent each year in the
+<p><project theme="education">Another thing that is becoming more apparent each year in the
 development of education in the South is the influence of General
 Armstrong’s idea of education; and this not upon the blacks alone, but
 upon the whites also. At the present time there is almost no Southern
 state that is not putting forth efforts in the direction of securing
 industrial education for its white boys and girls, and in most cases it
 is easy to trace the history of these efforts back to General
-Armstrong.</p>
+Armstrong.</project></p>
 
 <p>Soon after the opening of our humble boarding department students began
 coming to us in still larger numbers. For weeks we not only had to
@@ -3796,20 +3796,20 @@ During the whole night some of them did not attempt to lie down. One
 morning, when the night previous had been unusually cold, I asked those
 of the students in the chapel who thought that they had been
 frostbitten during the night to raise their hands. Three hands went up.
-Notwithstanding these experiences, there was almost no complaining on
+<tone feeling="understanding">Notwithstanding these experiences, there was almost no complaining on
 the part of the students. They knew that we were doing the best that we
 could for them. They were happy in the privilege of being permitted to
 enjoy any kind of opportunity that would enable them to improve their
 condition. They were constantly asking what they might do to lighten
-the burdens of the teachers.</p>
+the burdens of the teachers.</tone></p>
 
-<p>I have heard it stated more than once, both in the North and in the
+<p><project theme="inequality">I have heard it stated more than once, both in the North and in the
 South, that coloured people would not obey and respect each other when
 one member of the race is placed in a position of authority over
 others. In regard to this general belief and these statements, I can
-say that during the nineteen years of my experience at Tuskegee I
+say that during the nineteen years of my experience at <place state="Alabama" school="Tuskegee">Tuskegee</place> I
 never, either by word or act, have been treated with disrespect by any
-student or officer connected with the institution. On the other hand, I
+student or officer connected with the institution.</project> On the other hand, I
 am constantly embarrassed by the many acts of thoughtful kindness. The
 students do not seem to want to see me carry a large book or a satchel
 or any kind of a burden through the grounds. In such cases more than
@@ -3817,21 +3817,21 @@ one always offers to relieve me. I almost never go out of my office
 when the rain is falling that some student does not come to my side
 with an umbrella and ask to be allowed to hold it over me.</p>
 
-<p>While writing upon this subject, it is a pleasure for me to add that in
+<p><project theme="inequality">While writing upon this subject, it is a pleasure for me to add that in
 all my contact with the white people of the South I have never received
-a single personal insult. The white people in and near Tuskegee, to an
+a single personal insult. The white people in and near <place state="Alabama" school="Tuskegee">Tuskegee</place>, to an
 especial degree, seem to count it as a privilege to show me all the
-respect within their power, and often go out of their way to do this.</p>
+respect within their power, and often go out of their way to do this.</project></p>
 
-<p>Not very long ago I was making a journey between Dallas (Texas) and
-Houston. In some way it became known in advance that I was on the
+    <p>Not very long ago I was making a journey between <place state="Texas" city="Dallas">Dallas (Texas)</place> and
+        <place state="Texas" city="Houston">Houston</place>. In some way it became known in advance that I was on the
 train. At nearly every station at which the train stopped, numbers of
 white people, including in most cases of the officials of the town,
 came aboard and introduced themselves and thanked me heartily for the
 work that I was trying to do for the South.</p>
 
-<p>On another occasion, when I was making a trip from Augusta, Georgia, to
-Atlanta, being rather tired from much travel, I rode in a Pullman
+    <p>On another occasion, when I was making a trip from <place state="Georgia" city="Augusta">Augusta, Georgia</place>, to
+        <place state="Georgia" city="Atlanta">Atlanta</place>, being rather tired from much travel, I rode in a Pullman
 sleeper. When I went into the car, I found there two ladies from Boston
 whom I knew well. These good ladies were perfectly ignorant, it seems,
 of the customs of the South, and in the goodness of their hearts
@@ -3845,7 +3845,7 @@ permit me to leave the section, but the ladies insisted that I must eat
 with them. I finally settled back in my seat with a sigh, and said to
 myself, “I am in for it now, sure.”</p>
 
-<p>To add further to the embarrassment of the situation, soon after the
+<p><tone feeling="embarassed">To add further to the embarrassment of the situation, soon after the
 supper was placed on the table one of the ladies remembered that she
 had in her satchel a special kind of tea which she wished served, and
 as she said she felt quite sure the porter did not know how to brew it
@@ -3856,16 +3856,16 @@ the embarrassing situation and go to the smoking-room, where most of
 the men were by that time, to see how the land lay. In the meantime,
 however, it had become known in some way throughout the car who I was.
 When I went into the smoking-room I was never more surprised in my life
-than when each man, nearly every one of them a citizen of Georgia, came
+than when each man, nearly every one of them a citizen of <place state="Georgia">Georgia</place>, came
 up and introduced himself to me and thanked me earnestly for the work
 that I was trying to do for the whole South. This was not flattery,
 because each one of these individuals knew that he had nothing to gain
-by trying to flatter me.</p>
+by trying to flatter me.</tone></p>
 
 <p>From the first I have sought to impress the students with the idea that
-Tuskegee is not my institution, or that of the officers, but that it is
+    <place state="Alabama" school="Tuskegee">Tuskegee</place> is not my institution, or that of the officers, but that it is
 their institution, and that they have as much interest in it as any of
-the trustees or instructors. I have further sought to have them feel
+the trustees or instructors. <project theme="education">I have further sought to have them feel
 that I am at the institution as their friend and adviser, and not as
 their overseer. It has been my aim to have them speak with directness
 and frankness about anything that concerns the life of the school. Two
@@ -3876,7 +3876,7 @@ me in the chapel for a heart-to-heart talk about the conduct of the
 school. There are no meetings with our students that I enjoy more than
 these, and none are more helpful to me in planning for the future.
 These meetings, it seems to me, enable me to get at the very heart of
-all that concerns the school. Few things help an individual more than
+all that concerns the school.</project> Few things help an individual more than
 to place responsibility upon him, and to let him know that you trust
 him. When I have read of labour troubles between employers and
 employees, I have often thought that many strikes and similar
@@ -3888,7 +3888,7 @@ true of any race than of the Negroes. Let them once understand that you
 are unselfishly interested in them, and you can lead them to any
 extent.</p>
 
-<p>It was my aim from the first at Tuskegee to not only have the buildings
+    <p>It was my aim from the first at <place state="Alabama" school="Tuskegee">Tuskegee</place> to not only have the buildings
 erected by the students themselves, but to have them make their own
 furniture as far as was possible. I now marvel at the patience of the
 students while sleeping upon the floor while waiting for some kind of a
@@ -3909,7 +3909,7 @@ glad to say that the industry of mattress-making has grown steadily
 since then, and has been improved to such an extent that at the present
 time it is an important branch of the work which is taught
 systematically to a number of our girls, and that the mattresses that
-now come out of the mattress-shop at Tuskegee are about as good as
+now come out of the mattress-shop at <place state="Alabama" school="Tuskegee">Tuskegee</place> are about as good as
 those bought in the average store. For some time after the opening of
 the boarding department we had no chairs in the students’ bedrooms or
 in the dining rooms. Instead of chairs we used stools which the
@@ -3920,15 +3920,15 @@ table made by the students. The plan of having the students make the
 furniture is still followed, but the number of pieces in a room has
 been increased, and the workmanship has so improved that little fault
 can be found with the articles now. One thing that I have always
-insisted upon at Tuskegee is that everywhere there should be absolute
+insisted upon at <place state="Alabama" school="Tuskegee">Tuskegee</place> is that everywhere there should be absolute
 cleanliness. Over and over again the students were reminded in those
 first years—and are reminded now—that people would excuse us for our
 poverty, for our lack of comforts and conveniences, but that they would
 not excuse us for dirt.</p>
 
 <p>Another thing that has been insisted upon at the school is the use of
-the tooth-brush. “The gospel of the tooth-brush,” as General Armstrong
-used to call it, is part of our creed at Tuskegee. No student is
+    the tooth-brush. “The gospel of the tooth-brush,” as <person relation="friend">General Armstrong</person>
+    used to call it, is part of our creed at <place state="Alabama" school="Tuskegee">Tuskegee</place>. No student is
 permitted to retain who does not keep and use a tooth-brush. Several
 times, in recent years, students have come to us who brought with them
 almost no other article except a tooth-brush. They had heard from the
@@ -3942,7 +3942,7 @@ girls replied, pointing to a brush: “Yes, sir. That is our brush. We
 bought it together, yesterday.” It did not take them long to learn a
 different lesson.</p>
 
-<p>It has been interesting to note the effect that the use of the
+<p><project theme="inequality">It has been interesting to note the effect that the use of the
 tooth-brush has had in bringing about a higher degree of civilization
 among the students. With few exceptions, I have noticed that, if we can
 get a student to the point where, when the first or second tooth-brush
@@ -3957,11 +3957,11 @@ sheets—after we got to the point where we could provide them two
 sheets—or under both of them. Naturally I found it difficult to teach
 them to sleep between two sheets when we were able to supply but one.
 The importance of the use of the night-gown received the same
-attention.</p>
+attention.</project></p>
 
-<p>For a long time one of the most difficult tasks was to teach the
+<p><project theme="inequality">For a long time one of the most difficult tasks was to teach the
 students that all the buttons were to be kept on their clothes, and
-that there must be no torn places or grease-spots. This lesson, I am
+that there must be no torn places or grease-spots.</project> This lesson, I am
 pleased to be able to say, has been so thoroughly learned and so
 faithfully handed down from year to year by one set of students to
 another that often at the present time, when the students march out of
@@ -3990,26 +3990,26 @@ whatever with which to begin; still we decided to give the needed
 building a name. We knew we could name it, even though we were in doubt
 about our ability to secure the means for its construction. We decided
 to call the proposed building Alabama Hall, in honour of the state in
-which we were labouring. Again Miss Davidson began making efforts to
+which we were labouring. Again <person relation="teacher">Miss Davidson</person> began making efforts to
 enlist the interest and help of the coloured and white people in and
-near Tuskegee. They responded willingly, in proportion to their means.
+near <place state="Alabama" school="Tuskegee">Tuskegee</place>. They responded willingly, in proportion to their means.
 The students, as in the case of our first building, Porter Hall, began
 digging out the dirt in order to allow the laying of the foundations.</p>
 
 <p>When we seemed at the end of our resources, so far as securing money
-was concerned, something occurred which showed the greatness of General
-Armstrong—something which proved how far he was above the ordinary
+was concerned, something occurred which showed the greatness of <person relation="friend">General
+    Armstrong</person>—something which proved how far he was above the ordinary
 individual. When we were in the midst of great anxiety as to where and
 how we were to get funds for the new building, I received a telegram
-from General Armstrong asking me if I could spend a month travelling
+from <person relation="friend">General Armstrong</person> asking me if I could spend a month travelling
 with him through the North, and asking me, if I could do so, to come to
-Hampton at once. Of course I accepted General Armstrong’s invitation,
-and went to Hampton immediately. On arriving there I found that the
-General had decided to take a quartette of singers through the North,
+Hampton at once. Of course I accepted <person relation="friend">General Armstrong</person>’s invitation,
+    and went to <place state="Virginia" school="Hampton Institute">Hampton</place> immediately. On arriving there I found that the
+    <person relation="friend">General</person> had decided to take a quartette of singers through the North,
 and hold meetings for a month in important cities, at which meetings he
-and I were to speak. Imagine my surprise when the General told me,
+and I were to speak. Imagine my surprise when the <person relation="friend">General</person> told me,
 further, that these meetings were to be held, not in the interests of
-Hampton, but in the interests of Tuskegee, and that the Hampton
+Hampton, but in the interests of <place state="Alabama" school="Tuskegee">Tuskegee</place>, and that the Hampton
 Institute was to be responsible for all the expenses.</p>
 
 <p>Although he never told me so in so many words, I found that General
