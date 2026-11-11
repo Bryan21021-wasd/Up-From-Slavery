@@ -13,7 +13,6 @@
     <xsl:variable name="UFSmarkup" select="document('../../xml/JG_Up-From-Slavery_Mark-Up.xml')"/>
     <xsl:template match="$UFSmarkup">
        
-       
          
                <xsl:result-document method="xhtml" indent="yes" href="rozanski-xslte.html">
             
@@ -38,15 +37,12 @@
                 <li><a href="#{count(preceding::chapter)+1}"><xsl:apply-templates select="title" mode="toc"/></a></li>
             </xsl:template> <!-- This is meant to list the chapter title with the corresponding chapters in the list -->
             
-               <xsl:template match="title">
+               <xsl:template match="title"><xsl:text>Chapter </xsl:text>
+                   <xsl:apply-templates select="../@n"/>
                    <xsl:apply-templates/><br/> <!-- attempt to create a link that brings you to the text of each chapter -->
                </xsl:template>
                <xsl:template match="title" mode="toc">
                    <xsl:apply-templates/>
                </xsl:template>
                
-            
-       
-        
-    
     </xsl:stylesheet>
