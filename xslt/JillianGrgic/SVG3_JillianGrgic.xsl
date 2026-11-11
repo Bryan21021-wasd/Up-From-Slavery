@@ -24,7 +24,7 @@
                             
                             <xsl:for-each-group select=".//p/tone" group-by="@feeling">
                                 
-                                <xsl:variable name="tone-count" select="count(tone)"/>
+                                <xsl:variable name="tone-count" select="count(current-group())"/>
                                 <xsl:variable name="tone-sequence" select="position()"/>
                                 
                                 <line x1="0" x2="{$xspacer*$tone-count}" y1="{$yspacer*$tone-sequence}" y2="{$yspacer*$tone-sequence}" stroke-width="10" stroke="red"/>
