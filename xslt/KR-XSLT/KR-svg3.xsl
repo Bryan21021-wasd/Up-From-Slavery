@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://www.w3.org/1999/xhtml"
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     version="3.0">
@@ -14,7 +15,7 @@
     <xsl:variable name="yspacer" select="30"/>
     
     <xsl:template match="$UFS">
-        <xsl:result-document method="xml" indent="yes" href="KR-svg3-output.html"><!--whc: should be xhtml, not xml-->
+        <xsl:result-document method="xhtml" indent="yes" href="KR-svg3-output.html"><!--whc: should be xhtml, not xml-->
             
             <html>
                 <head><title>Project Themes</title></head>
@@ -33,7 +34,7 @@
                                 <!-- KR this is making the bars of the graph -->
                                 <line x1="0" x2="{$xspacer*$project-occurrence-count}"
                                     y1="{$yspacer*$theme-sequence}" y2="{$yspacer*$theme-sequence}"
-                                    stroke-width="10" stroke="purple"/>
+                                    stroke-width="10" stroke="purple"/>   <!-- KR not sure if this is the correct format -->
                                 <line x1="0" x2="{$xspacer*$project-occurrence-count}"
                                     y1="{$yspacer*$theme-sequence}" y2="{$yspacer*$theme-sequence}"
                                     stroke-width="10" stroke="yellow"/>
