@@ -4,6 +4,8 @@
     xmlns:math="http://www.w3.org/2005/xpath-functions/math"
     exclude-result-prefixes="xs math"
     version="3.0">
+    <!--whc: above you are missing this line:
+            xmlns="http://www.w3.org/1999/xhtml"  -->
     
     <xsl:output method="html" encoding="utf-8" doctype-system="about:legacy-compact" omit-xml-declaration="yes"/>
     <xsl:variable name="UFS" select="document('../../xml/Up-From-Slavery.xml')"/>
@@ -12,14 +14,14 @@
     <xsl:variable name="yspacer" select="30"/>
     
     <xsl:template match="$UFS">
-        <xsl:result-document method="xml" indent="yes" href="KR-svg3-output.html">
+        <xsl:result-document method="xml" indent="yes" href="KR-svg3-output.html"><!--whc: should be xhtml, not xml-->
             
             <html>
                 <head><title>Project Themes</title></head>
                 <body>
                     <h1>Project Themes Mentioned in Each Chapter</h1> <!-- KR goal is to create a bar graph that lists theme occurances in each chapter -->
                     <svg viewBox="0 0 1000 650">
-                        <g transform="translate(250,10">
+                        <g transform="translate(250,10"><!--whc: missing close paren-->
                             <xsl:for-each-group select="//chapter/project" group-by="@theme">
                                 <xsl:sort select="count(current-group())" order="descending"/>
                                 
