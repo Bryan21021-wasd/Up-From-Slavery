@@ -28,6 +28,7 @@
                         <xsl:if test="@event='Civil_War'"> <!-- BC - These if statements should, in theory, create different ways to create the lines. However, there seems to only be one way to use the historical name references as all of them are marked with /1. I am currently experiencing an error with the svg at the moment, unfortuantely. -->
                             <!-- BC - I'm not sure what to di with this if, but am keeping it for future reference. -->
                         </xsl:if>
+                        <line x1="0" x2="0" y1="0" y2="400" stroke="blue" stroke-width="1"/>
                     </xsl:for-each>
                 </g>
             </svg>
