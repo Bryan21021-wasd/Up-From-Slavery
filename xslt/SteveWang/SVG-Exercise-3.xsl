@@ -25,9 +25,11 @@
                         <g transform="translate(50,50)">
                             <xsl:for-each select=".//chapter">
                                 <xsl:variable name="pers-relation" select=".//person/@relation"/>
+                                <xsl:variable name="chapter" select="@n"/>
+                                <xsl:variable name="chapNum" select="count(preceding::chapter)+1"/>
                                 <xsl:for-each-group select=".//person" group-by="@relation">
                                     <xsl:variable name="pers-frequency" select="count(current-group())"/>
-                                    <circle cx="{2*$xspacer}" cy="{$pers-frequency*$yspacer}" r="5" fill="red"/>
+                                    <circle cx="{$chapNum*$xspacer}" cy="{$pers-frequency*$yspacer}" r="5" fill="red"/>
                                     <text x="{-1*$xspacer}" y="{$pers-frequency*$yspacer}"><xsl:apply-templates select="$pers-frequency"/></text>
                                 </xsl:for-each-group>
                             </xsl:for-each>

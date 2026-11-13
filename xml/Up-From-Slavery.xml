@@ -3,7 +3,7 @@
 
 
 
-<!--<?xml-model href="Schema/Up-From-Slavery-schema.rnc" type="application/relax-ng-compact-syntax"?>-->
+<?xml-model href="Schema/Up-From-Slavery-schema.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
 AN AUTOBIOGRAPHY
 
@@ -5766,7 +5766,7 @@ clockwork. <project theme="education">Most of our teachers have been connected w
 institutions for a number of years, and are as much interested in it as
 I am.</project> <tone feeling="admiring">In my absence, <person relation="treasurer">Mr. Warren Logan</person>, the treasurer, who has been at
 the school seventeen years, is the executive. He is efficiently
-supported by <person relation="wife">Mrs. Washington</person>, and by my faithful secretary, <person realtion="secretary">Mr. Emmett
+supported by <person relation="wife">Mrs. Washington</person>, and by my faithful secretary, <person relation="secretary">Mr. Emmett
     J. Scott</person>, who handles the bulk of my correspondence and keeps me in
 daily touch with the life of the school, and who also keeps me informed
 of whatever takes place in the South that concerns the race.</tone> <tone feeling="grateful">I owe more
@@ -6077,7 +6077,7 @@ race which were being agitated at that time, and this made it all the
 harder for us to decide to go. We finally gave our Boston friends our
 promise that we would go, and then they insisted that the date of our
 departure be set as soon as possible. So we decided upon May 10. My
-good friend <person realation="friend">Mr. Garrison</person> kindly took charge of all the details
+good friend <person relation="friend">Mr. Garrison</person> kindly took charge of all the details
 necessary for the success of the trip, and he, as well as other
 friends, gave us a great number of letters of introduction to people in
 France and England, and made other arrangements for our comfort and
