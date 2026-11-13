@@ -1,7 +1,7 @@
 start = book
 book = element book {(author | dedication | chapList | chapter | p | text )+ }
 author = element author {text}
-dedication = element dedication {(text | person)+}
+dedication = element dedication {(text | person | place)+}
 chapList = element chapList {text}
 chapter = element chapter {(n | text | title | p | tone1 | tone2 | letter)+}
 p = element p {(text | HistRef | place | project1 | project2 | tone1 | tone2 | person | period | description)+}
