@@ -22,18 +22,18 @@
                     <svg viewbox="0 0 1000 650">
                         <g transform="(250,10)">
                             
-                            <xsl:for-each-group select=".//p/tone" group-by="@feeling">
+                            <xsl:for-each-group select="//p//tone" group-by="@feeling">
                                 
-                                <xsl:variable name="tone-count" select="count(current-group())"/>
-                                <xsl:variable name="tone-sequence" select="position()"/>
+                                <xsl:variable name="toneCount" select="count(current-group())"/>
+                                <xsl:variable name="toneSequence" select="position()"/>
                                 
-                                <line x1="0" x2="{$xspacer*$tone-count}" y1="{$yspacer*$tone-sequence}" y2="{$yspacer*$tone-sequence}" stroke-width="10" stroke="red"/>
+                                <line x1="0" x2="{$xspacer*$toneCount}" y1="{$yspacer*$toneSequence}" y2="{$yspacer*$toneSequence}" stroke-width="10" stroke="red"/>
                                 <!--JLG: creates each bar in the bar graph-->
                                 
-                                <text x="-10" y="{$yspacer*$tone-sequence}" text-anchor="end"><xsl:value-of select="$tone-sequence"/><xsl:text>: </xsl:text> <xsl:apply-templates select="string()[1]"/></text>
+                                <text x="-10" y="{$yspacer*$toneSequence}" text-anchor="end"><xsl:value-of select="$toneSequence"/><xsl:text>: </xsl:text> <xsl:apply-templates select="string()[1]"/></text>
                                 <!--JLG: labels each bar with the index number and the name of each person-->
                                 
-                                <text x="{$xspacer*$tone-count + 10}" y="{$yspacer*$tone-sequence}" text-anchor="right"><xsl:value-of select="$tone-count"/></text>
+                                <text x="{$xspacer*$toneCount + 10}" y="{$yspacer*$toneSequence}" text-anchor="right"><xsl:value-of select="$toneCount"/></text>
                                 <!--JLG: adds the count number at the end of each bar-->
                                 
                             </xsl:for-each-group>

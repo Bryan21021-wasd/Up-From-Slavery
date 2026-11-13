@@ -3,7 +3,7 @@
 
 
 
-<?xml-model href="Schema/Up-From-Slavery-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<!--<?xml-model href="Schema/Up-From-Slavery-schema.rnc" type="application/relax-ng-compact-syntax"?>-->
 <book>
 AN AUTOBIOGRAPHY
 
@@ -4894,7 +4894,7 @@ superficial and the substantial, the ornamental gewgaws of life and the
 useful. No race can prosper till it learns that there is as much
 dignity in tilling a field as in writing a poem.</project> It is at the bottom of
 life we must begin, and not at the top. Nor should we permit our
-grievances to overshadow our opportunities.<</project>/p>
+grievances to overshadow our opportunities.</tone></p>
 
 <p>To those of the white race who look to the incoming of those of foreign
 birth and strange tongue and habits of the prosperity of the South,
@@ -5099,7 +5099,7 @@ for—and dying for, if need be—is the opportunity of making some one
 else more happy and more useful.</project></tone></p>
 
 <p>The coloured people and the coloured newspapers at first seemed to be
-    greatly pleased with the character of my <place state="Georgia" state="Atlanta">Atlanta</place> address, as well as
+    greatly pleased with the character of my <place state="Georgia" city="Atlanta">Atlanta</place> address, as well as
 with its reception. But after the first burst of enthusiasm began to
 die away, and the coloured people began reading the speech in cold
 type, some of them seemed to feel that they had been hypnotized. <project theme="inequality">They
@@ -5267,14 +5267,14 @@ serious crime. <project theme="inequality">In my opinion, the time will come whe
 encourage all of its citizens to vote. It will see that it pays better,
 from every standpoint, to have healthy, vigorous life than to have that
 political stagnation which always results when one-half of the
-population has no share and no interest in the Government.</p>
+population has no share and no interest in the Government.</project></p>
 
 <p>As a rule, I believe in universal, free suffrage, but I believe that in
 the South we are confronted with peculiar conditions that justify the
 protection of the ballot in many of the states, for a while at least,
 either by an education test, a property test, or by both combined; but
 whatever tests are required, they should be made to apply with equal
-and exact justice to both races.</project></p>
+and exact justice to both races.</p>
 
 </chapter>
 <chapter n="XV">Chapter XV.
@@ -5641,7 +5641,7 @@ number of minutes the audience seemed to entirely lose control of
 itself.</tone></p>
 
 <p><tone feeling="informative">In the general rejoicing throughout the country which followed the
-    close of the <HistRef event="SpanAm">Spanish-American war, peace celebrations were arranged in
+    close of the <HistRef event="SpanAm">Spanish-American war</HistRef>, peace celebrations were arranged in
 several of the large cities. I was asked by President William R.
 Harper, of the <place state="Illinois" school="UChic">University of Chicago</place>, who was chairman of the committee
 of invitations for the celebration to be held in the city of <place state="illinois" city="Chicago">Chicago</place>,
@@ -5950,7 +5950,7 @@ National Federation of Coloured Women’s Clubs.</tone></p>
 
     <p><tone feeling="proud"><person relation="daughter">Portia</person>, the oldest of my three children, has learned dressmaking. She
 has unusual ability in instrumental music. Aside from her studies at
-        <place state="Alabama" school="Tuskegee">Tuskegee</place>, she has already begun to teach there.</p>
+        <place state="Alabama" school="Tuskegee">Tuskegee</place>, she has already begun to teach there.</tone></p>
 
     <p><person relation="son">Booker Taliaferro</person> is my next oldest child. Young as he is, he has
 already nearly mastered the brickmason’s trade. He began working at
@@ -5979,7 +5979,7 @@ another school I shall have money to pay my expenses.</p>
 be a physician. In addition to going to school, where he studies books
 and has manual training, he regularly spends a portion of his time in
 the office of our resident physician, and has already learned to do
-many of the duties which pertain to a doctor’s office.</tone></p>
+many of the duties which pertain to a doctor’s office.</p>
 
 <p><tone feeling="melancholy">The thing in my life which brings me the keenest regret is that my work
 in connection with public affairs keeps me for so much of the time away
@@ -5988,7 +5988,7 @@ always envy the individual whose life-work is so laid that he can spend
 his evenings at home. I have sometimes thought that people who have
 this rare privilege do not appreciate it as they should. It is such a
 rest and relief to get away from crowds of people, and handshaking, and
-travelling, to get home, even if it be for but a very brief while.</p>
+travelling, to get home, even if it be for but a very brief while.</tone></p>
 
     <p><project theme="education">Another thing at <place state="Alabama" school="Tuskegee">Tuskegee</place> out of which I get a great deal of pleasure
 and satisfaction is in the meeting with our students, and teachers, and
@@ -6040,7 +6040,7 @@ that Mr. Henry L. Higginson, and some other good friends who I know do
 not want their names made public, were then raising a sum of money
 which would be sufficient to keep the school in operation while I was
 away. At this point I was compelled to surrender. Every avenue of
-escape had been closed.</tone></p>
+escape had been closed.</p>
 
 <p><tone feeling="reflective">Deep down in my heart the whole thing seemed more like a dream than
 like reality, and for a long time it was difficult for me to make
@@ -6149,7 +6149,7 @@ the main public square, and the sights there—the people coming in from
 the country with all kinds of beautiful flowers to sell, the women
 coming in with their dogs drawing large, brightly polished cans filled
 with milk, the people streaming into the cathedral—filled me with a
-sense of newness that I had never before experienced.</p>
+sense of newness that I had never before experienced.</tone></p>
 
     <p>After spending some time in <place country="Belgium" city="Antwerp">Antwerp</place>, we were invited to go with a part
         of a half-dozen persons on a trip through <place country="Netherlands" region="Holland">Holland</place>. This party included
@@ -6161,7 +6161,7 @@ canal-boats. This gave us an opportunity of seeing and studying the
 real life of the people in the country districts. We went in this way
 as far as Rotterdam, and later went to The Hague, where the Peace
 Conference was then in session, and where we were kindly received by
-the American representatives.</tone></p>
+the American representatives.</p>
 
     <p><tone feeling="impressed">The thing that impressed itself most on me in <place country="Netherlands" region="Holland">Holland</place> was the
 thoroughness of the agriculture and the excellence of the Holstein
@@ -6231,7 +6231,7 @@ potatoes, or to produce butter, or to build a house, or to be able to
 practise medicine, as well or better than some one else, they will be
 rewarded regardless of race or colour. In the long run, the world is
 going to have the best, and any difference in race, religion, or
-previous history will not long keep the world from what it wants.</p>
+previous history will not long keep the world from what it wants.</tone></p>
 
 <p>I think that the whole future of my race hinges on the question as to
 whether or not it can make itself of such indispensable value that the
@@ -6240,12 +6240,12 @@ presence is necessary to the happiness and well-being of the community.
 No man who continues to add something to the material, intellectual,
 and moral well-being of the place in which he lives is long left
 without proper reward. This is a great human law which cannot be
-permanently nullified.</tone></p>
+permanently nullified.</p>
 
 <p><tone feeling="impressed">The love of pleasure and excitement which seems in a large measure to
 possess the French people impressed itself upon me. I think they are
 more noted in this respect than is true of the people of my own race.</tone>
-<tone feeling="patriotic"In point of morality and moral earnestness I do not believe that the
+<tone feeling="patriotic">In point of morality and moral earnestness I do not believe that the
     French are ahead of my own race in <place country="America">America</place>.</tone> Severe competition and the
 great stress of life have led them to learn to do things more
 thoroughly and to exercise greater economy; but time, I think, will
@@ -6480,19 +6480,19 @@ not able to accept.</p>
 <p>
 Before going to Europe some events came into my life which were great
 surprises to me. In fact, my whole life has largely been one of
-surprises. I believe that any man’s life will be filled with constant,
+surprises. <tone feeling="encouraging">I believe that any man’s life will be filled with constant,
 unexpected encouragements of this kind if he makes up his mind to do
 his level best each day of his life—that is, tries to make each day
 reach as nearly as possible the high-water mark of pure, unselfish,
-useful living. I pity the man, black or white, who has never
+useful living.</tone> <tone feeling="impassioned">I pity the man, black or white, who has never
 experienced the joy and satisfaction that come to one by reason of an
-effort to assist in making some one else more useful and more happy.</p>
+effort to assist in making some one else more useful and more happy.</tone></p>
 
-<p>Six months before he died, and nearly a year after he had been stricken
+<p><tone feeling="respectful">Six months before he died, and nearly a year after he had been stricken
 with paralysis, General Armstrong expressed a wish to visit Tuskegee
 again before he passed away. Notwithstanding the fact that he had lost
 the use of his limbs to such an extent that he was practically
-helpless, his wish was gratified, and he was brought to Tuskegee. The
+helpless, his wish was gratified, and he was brought to <place state="Alabama" school="Tuskegee">Tuskegee</place>.</tone> The
 owners of the Tuskegee Railroad, white men living in the town, offered
 to run a special train, without cost, out of the main station—Chehaw,
 five miles away—to meet him. He arrived on the school grounds about
@@ -6500,7 +6500,7 @@ nine o’clock in the evening. Some one had suggested that we give the
 General a “pine-knot torchlight reception.” This plan was carried out,
 and the moment that his carriage entered the school grounds he began
 passing between two lines of lighted and waving “fat pine” wood knots
-held by over a thousand students and teachers. The whole thing was so
+held by over a thousand students and teachers. <tone feeling="emotional">The whole thing was so
 novel and surprising that the General was completely overcome with
 happiness. He remained a guest in my home for nearly two months, and,
 although almost wholly without the use of voice or limb, he spent
@@ -6511,18 +6511,18 @@ but the poor white man as well. At the end of his visit I resolved anew
 to devote myself more earnestly than ever to the cause which was so
 near his heart. I said that if a man in his condition was willing to
 think, work, and act, I should not be wanting in furthering in every
-possible way the wish of his heart.</p>
+possible way the wish of his heart.</tone></p>
 
-<p>The death of General Armstrong, a few weeks later, gave me the
+    <p><tone feeling="admiring">The death of <person relation="friend">General Armstrong</person>, a few weeks later, gave me the
 privilege of getting acquainted with one of the finest, most unselfish,
 and most attractive men that I have ever come in contact with. I refer
-to the Rev. Dr. Hollis B. Frissell, now the Principal of the Hampton
-Institute, and General Armstrong’s successor. Under the clear, strong,
+to the <person relation="HampPrinc">Rev. Dr. Hollis B. Frissell</person>, now the Principal of the Hampton
+Institute, and <person relation="friend">General Armstrong</person>’s successor. Under the clear, strong,
 and almost perfect leadership of Dr. Frissell, Hampton has had a career
 of prosperity and usefulness that is all that the General could have
 wished for. It seems to be the constant effort of Dr. Frissell to hide
 his own great personality behind that of General Armstrong—to make
-himself of “no reputation” for the sake of the cause.</p>
+himself of “no reputation” for the sake of the cause.</tone></p>
 
 <p>More than once I have been asked what was the greatest surprise that
 ever came to me. I have little hesitation in answering that question.
