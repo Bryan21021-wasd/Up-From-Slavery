@@ -1385,7 +1385,7 @@ institution.”</p>
 
 <p>I was one of the happiest souls on Earth. <project theme="education">The sweeping of that room was
 my college examination, and never did any youth pass an examination for
-entrance into Harvard or Yale that gave him more genuine satisfaction.
+entrance into <place state="Massachusetts" school="Harvard">Harvard</place> or <place state="Connecticut" school="Yale">Yale</place> that gave him more genuine satisfaction.
 I have passed several examinations since then, but I have always felt
 that this was the best one I ever passed.</project></p>
 
@@ -4062,7 +4062,7 @@ work. After considerable experience in coming into contact with wealthy
 and noted men, I have observed that those who have accomplished the
 greatest results are those who “keep under the body”; are those who
 never grow excited or lose self-control, but are always calm,
-self-possessed, patient, and polite. I think that <person relation="president">President William
+self-possessed, patient, and polite. I think that <person relation="potus">President William
     McKinley</person> is the best example of a man of this class that I have ever
 seen.</project></p>
 
@@ -5056,13 +5056,13 @@ strange indeed.</p>
 
 <p>Yours very truly,</p>
 
-    <p><person relation="president">Grover Cleveland</person>.</p></letter>
+    <p><person relation="potus">Grover Cleveland</person>.</p></letter>
 
-        <p><tone feeling="remembering">Later I met <person relation="president">Mr. Cleveland</person>, for the first time, when, as President, he
+        <p><tone feeling="remembering">Later I met <person relation="potus">Mr. Cleveland</person>, for the first time, when, as President, he
 visited the Atlanta Exposition. At the request of myself and others he
 consented to spend an hour in the Negro Building, for the purpose of
 inspecting the Negro exhibit and of giving the coloured people in
-attendance an opportunity to shake hands with him. As soon as I met <person relation="president">Mr.
+attendance an opportunity to shake hands with him. As soon as I met <person relation="potus">Mr.
     Cleveland</person> I became impressed with his simplicity, greatness, and rugged
 honesty. I have met him many times since then, both at public functions
 and at his private residence in Princeton, and the more I see of him
@@ -5076,11 +5076,11 @@ name in a book or on a slip of paper. He was as careful and patient in
 doing this as if he were putting his signature to some great state
 document.</tone></p>
 
-        <p><tone feeling="grateful"><person relation="president">Mr. Cleveland</person> has not only shown his friendship for me in many personal
+        <p><tone feeling="grateful"><person relation="potus">Mr. Cleveland</person> has not only shown his friendship for me in many personal
 ways, but has always consented to do anything I have asked of him for
 our school. This he has done, whether it was to make a personal
 donation or to use his influence in securing the donations of others.
-<project theme="inequality">Judging from my personal acquaintance with <person relation="president">Mr. Cleveland</person>, I do not
+<project theme="inequality">Judging from my personal acquaintance with <person relation="potus">Mr. Cleveland</person>, I do not
 believe that he is conscious of possessing any colour prejudice. He is
 too great for that. In my contact with people I find that, as a rule,
 it is only the little, narrow people who live for themselves, who never
@@ -5288,7 +5288,7 @@ telegraphed the following account to the New York World:—</p>
 
     <p><place state="Georgia" city="Atlanta">Atlanta</place>, September 18.</p>
 
-    <p>While <person relation="president">President Cleveland</person> was waiting at Gray Gables to-day, to send
+    <p>While <person relation="potus">President Cleveland</person> was waiting at Gray Gables to-day, to send
 the electric spark that started the machinery of the Atlanta
 Exposition, a Negro Moses stood before a great audience of white people
 and delivered an oration that marks a new epoch in the history of the
@@ -5488,7 +5488,7 @@ enthusiasm and responsiveness are a constant delight. The “amens” and
 are calculated to spur any speaker on to his best efforts. I think that
 next in order of preference I would place a college audience.</tone> <tone feeling="grateful">It has
 been my privilege to deliver addresses at many of our leading colleges
-including Harvard, Yale, Williams, Amherst, Fisk University, the
+including <place state="Massachusetts" school="Harvard">Harvard</place>, <place state="Connecticut" school="Yale">Yale</place>, Williams, Amherst, Fisk University, the
 University of Pennsylvania, Wellesley, the University of Michigan,
 Trinity College in North Carolina, and many others.</tone></p>
 
@@ -5569,7 +5569,7 @@ better than any words of mine could do:—</p>
 
 <p>The core and kernel of yesterday’s great noon meeting, in honour of the
 Brotherhood of Man, in Music Hall, was the superb address of the Negro
-President of <place state="Alabama" school="Tuskegee">Tuskegee</place>. <project theme="education">“Booker T. Washington received his Harvard A.M.
+President of <place state="Alabama" school="Tuskegee">Tuskegee</place>. <project theme="education">“Booker T. Washington received his <place state="Massachusetss" school="Harvard">Harvard</place> A.M.
 last June, the first of his race,” said Governor Wolcott, “to receive
 an honorary degree from the oldest university in the land, and this for
 the wise leadership of his people.”</project> When Mr. Washington rose in the
@@ -6178,10 +6178,10 @@ Theodore Stanton, the son of Mrs. Elizabeth Cady Stanton, had kindly
 provided accommodations for us. We had barely got settled in Paris
 before an invitation came to me from the University Club of Paris to be
 its guest at a banquet which was soon to be given. The other guests
-were <person relation="president">ex-President Benjamin Harrison</person> and Archbishop Ireland, who were in
+were <person relation="potus">ex-President Benjamin Harrison</person> and Archbishop Ireland, who were in
 Paris at the time. The American Ambassador, <person relation="ambass">General Horace Porter</person>,
 presided at the banquet. <tone feeling="grateful">My address on this occasion seemed to give
-satisfaction to those who heard it. <person relation="president">General Harrison</person> kindly devoted a
+satisfaction to those who heard it. <person relation="potus">General Harrison</person> kindly devoted a
 large portion of his remarks at dinner to myself and to the influence
 of the work at <place state="Alabama" school="Tuskegee">Tuskegee</place> on the American race question.</tone> After my address
 at this banquet other invitations came to me, but I declined the most
@@ -6530,11 +6530,11 @@ It was the following letter, which came to me one Sunday morning when I
 was sitting on the veranda of my home at Tuskegee, surrounded by my
 wife and three children:—</p>
 
-<p>Harvard University, Cambridge, May 28, 1896.</p>
+<letter><p><place state="Massachusetts" school="Harvard">Harvard University</place>, Cambridge, May 28, 1896.</p>
 
 <p>President Booker T. Washington,</p>
 
-<p>My Dear Sir: Harvard University desired to confer on you at the
+<p>My Dear Sir: <place state="Massachusetts" school="Harvard">Harvard University</place> desired to confer on you at the
 approaching Commencement an honorary degree; but it is our custom to
 confer degrees only on gentlemen who are present. Our Commencement
 occurs this year on June 24, and your presence would be desirable from
@@ -6545,21 +6545,21 @@ possible for you to be in Cambridge on that day?</p>
 
 <p>Very truly yours,</p>
 
-<p>Charles W. Eliot.</p>
+    <p>Charles W. Eliot.</p></letter>
 
-<p>This was a recognition that had never in the slightest manner entered
+<p><tone feeling="humble">This was a recognition that had never in the slightest manner entered
 into my mind, and it was hard for me to realize that I was to be
 honoured by a degree from the oldest and most renowned university in
-<place country="America">America</place>. As I sat upon my veranda, with this letter in my hand, tears
+        <place country="America">America</place>.</tone> <tone feeling="emotional">As I sat upon my veranda, with this letter in my hand, tears
 came into my eyes. My whole former life—my life as a slave on the
 plantation, my work in the coal-mine, the times when I was without food
 and clothing, when I made my bed under a sidewalk, my struggles for an
 education, the trying days I had had at Tuskegee, days when I did not
 know where to turn for a dollar to continue the work there, the
 ostracism and sometimes oppression of my race,—all this passed before
-me and nearly overcame me.</p>
+me and nearly overcame me.</tone></p>
 
-<p>I had never sought or cared for what the world calls fame. I have
+<p><tone feeling="reflective">I had never sought or cared for what the world calls fame. I have
 always looked upon fame as something to be used in accomplishing good.
 I have often said to my friends that if I can use whatever prominence
 may have come to me as an instrument with which to do good, I am
@@ -6568,16 +6568,16 @@ good, just as wealth may be used. The more I come into contact with
 wealthy people, the more I believe that they are growing in the
 direction of looking upon their money simply as an instrument which God
 has placed in their hand for doing good with. I never go to the office
-of Mr. <person relation="brother">John</person> D. Rockefeller, who more than once has been generous to
-Tuskegee, without being reminded of this. The close, careful, and
+of <person relation="donor">Mr. John D. Rockefeller</person>, who more than once has been generous to
+        <place state="Alabama" school="Tuskegee">Tuskegee</place>, without being reminded of this. The close, careful, and
 minute investigation that he always makes in order to be sure that
 every dollar that he gives will do the most good—an investigation that
 is just as searching as if he were investing money in a business
 enterprise—convinces me that the growth in this direction is most
-encouraging.</p>
+encouraging.</tone></p>
 
-<p>At nine o’clock, on the morning of June 24, I met President Eliot, the
-Board of Overseers of Harvard University, and the other guests, at the
+<p><tone feeling="informative">At nine o’clock, on the morning of June 24, I met President Eliot, the
+Board of Overseers of <place state="Massachusetts" school="Harvard">Harvard University</place>, and the other guests, at the
 designated place on the university grounds, for the purpose of being
 escorted to Sanders Theatre, where the Commencement exercises were to
 be held and degrees conferred. Among others invited to be present for
@@ -6591,11 +6591,11 @@ line there were also various other officers and professors, clad in cap
 and gown. In this order we marched to Sanders Theatre, where, after the
 usual Commencement exercises, came the conferring of the honorary
 degrees. This, it seems, is always considered the most interesting
-feature at Harvard. It is not known, until the individuals appear, upon
+feature at <place state="Massachusetts" school="Harvard">Harvard</place>. It is not known, until the individuals appear, upon
 whom the honorary degrees are to be conferred, and those receiving
 these honours are cheered by the students and others in proportion to
 their popularity. During the conferring of the degrees excitement and
-enthusiasm are at the highest pitch.</p>
+enthusiasm are at the highest pitch.</tone></p>
 
 <p>When my name was called, I rose, and President Eliot, in beautiful and
 strong English, conferred upon me the degree of Master of Arts. After
@@ -6604,18 +6604,18 @@ invited to lunch with the President. After the lunch we were formed in
 line again, and were escorted by the Marshal of the day, who that year
 happened to be Bishop William Lawrence, through the grounds, where, at
 different points, those who had been honoured were called by name and
-received the Harvard yell. This march ended at Memorial Hall, where the
+received the <place state="Massachusetts" school="Harvard">Harvard</place> yell. This march ended at Memorial Hall, where the
 alumni dinner was served. To see over a thousand strong men,
 representing all that is best in State, Church, business, and
 education, with the glow and enthusiasm of college loyalty and college
-pride,—which has, I think, a peculiar Harvard flavour,—is a sight that
+pride,—which has, I think, a peculiar <place state="Massachusetts" school="Harvard">Harvard</place> flavour,—is a sight that
 does not easily fade from memory.</p>
 
 <p>Among the speakers after dinner were President Eliot, Governor Roger
 Wolcott, General Miles, Dr. Minot J. Savage, the Hon. Henry Cabot
 Lodge, and myself. When I was called upon, I said, among other things:—</p>
 
-<p>It would in some measure relieve my embarrassment if I could, even in a
+<p><tone feeling="humble">It would in some measure relieve my embarrassment if I could, even in a
 slight degree, feel myself worthy of the great honour which you do me
 to-day. Why you have called me from the Black Belt of the South, from
 among my humble people, to share in the honours of this occasion, is
@@ -6627,11 +6627,11 @@ humblest, and at the same time make one appreciate the vitalizing,
 strengthening influence of the other. How shall we make the mansion on
 yon Beacon Street feel and see the need of the spirits in the lowliest
 cabin in Alabama cotton-fields or Louisiana sugar-bottoms? This problem
-Harvard University is solving, not by bringing itself down, but by
-bringing the masses up.</p>
+<place state="Massachusetts" school="Harvard">Harvard University</place> is solving, not by bringing itself down, but by
+        bringing the masses up.</tone></p>
 
 <p>
-If my life in the past has meant anything in the lifting up of my
+<tone feeling="impassioned">If my life in the past has meant anything in the lifting up of my
 people and the bringing about of better relations between your race and
 mine, I assure you from this day it will mean doubly more. In the
 economy of God there is but one standard by which an individual can
@@ -6645,11 +6645,11 @@ endure wrong, to withstand temptations, to economize, to acquire and
 use skill; in our ability to compete, to succeed in commerce, to
 disregard the superficial for the real, the appearance for the
 substance, to be great and yet small, learned and yet simple, high and
-yet the servant of all.</p>
+yet the servant of all.</tone></p>
 
-<p>As this was the first time that a New England university had conferred
+<p><project theme="inequality">As this was the first time that a New England university had conferred
 an honorary degree upon a Negro, it was the occasion of much newspaper
-comment throughout the country. A correspondent of a New York paper
+comment throughout the country.</project> A correspondent of a New York paper
 said:—</p>
 
 <p>When the name of Booker T. Washington was called, and he arose to
@@ -6664,7 +6664,7 @@ ex-slave and the work he has accomplished for his race.</p>
 <p>A Boston paper said, editorially:—</p>
 
 <p>In conferring the honorary degree of Master of Arts upon the Principal
-of Tuskegee Institute, Harvard University has honoured itself as well
+of Tuskegee Institute, <place state="Massachusetts" school="Harvard">Harvard University</place> has honoured itself as well
 as the object of this distinction. The work which Professor Booker T.
 Washington has accomplished for the education, good citizenship, and
 popular enlightenment in his chosen field of labour in the South
@@ -6672,8 +6672,8 @@ entitles him to rank with our national benefactors. The university
 which can claim him on its list of sons, whether in regular course or
 honoris causa, may be proud.</p>
 
-<p>It has been mentioned that Mr. Washington is the first of his race to
-receive an honorary degree from a New England university. This, in
+<p>It has been mentioned that <project theme="inequality">Mr. Washington is the first of his race to
+        receive an honorary degree from a New England university.</project> This, in
 itself, is a distinction. But the degree was not conferred because Mr.
 Washington is a coloured man, or because he was born in slavery, but
 because he has shown, by his work for the elevation of the people of
@@ -6682,10 +6682,10 @@ for greatness in any man, whether his skin be white or black.</p>
 
 <p>Another Boston paper said:—</p>
 
-<p>It is Harvard which, first among New England colleges, confers an
-honorary degree upon a black man. No one who has followed the history
+    <p><project theme="inequality">It is <place state="Massachusetts" school="Harvard">Harvard</place> which, first among New England colleges, confers an
+            honorary degree upon a black man.</project> No one who has followed the history
 of Tuskegee and its work can fail to admire the courage, persistence,
-and splendid common sense of Booker T. Washington. Well may Harvard
+and splendid common sense of Booker T. Washington. Well may <place state="Massachusetts" school="Harvard">Harvard</place>
 honour the ex-slave, the value of whose services, alike to his race and
 country, only the future can estimate.</p>
 
@@ -6695,24 +6695,24 @@ country, only the future can estimate.</p>
 carried off the oratorical honours, and the applause which broke out
 when he had finished was vociferous and long-continued.</p>
 
-<p>Soon after I began work at Tuskegee I formed a resolution, in the
+<p><project theme="inequality">Soon after I began work at Tuskegee I formed a resolution, in the
 secret of my heart, that I would try to build up a school that would be
 of so much service to the country that the President of the United
 States would one day come to see it. This was, I confess, rather a bold
 resolution, and for a number of years I kept it hidden in my own
-thoughts, not daring to share it with any one.</p>
+thoughts, not daring to share it with any one.</project></p>
 
 <p>In November, 1897, I made the first move in this direction, and that
-was in securing a visit from a member of President McKinley’s Cabinet,
+    was in securing a visit from a member of <person relation="potus">President McKinley</person>’s Cabinet,
 the Hon. James Wilson, Secretary of Agriculture. He came to deliver an
 address at the formal opening of the Slater-Armstrong Agricultural
 Building, our first large building to be used for the purpose of giving
 training to our students in agriculture and kindred branches.</p>
 
-<p>In the fall of 1898 I heard that President McKinley was likely to visit
-Atlanta, Georgia, for the purpose of taking part in the Peace Jubilee
+    <p>In the fall of 1898 I heard that <person relation="potus">President McKinley</person> was likely to visit
+        <place state="Georgia" city="Atlanta">Atlanta, Georgia</place>, for the purpose of taking part in the Peace Jubilee
 exercises to be held there to commemorate the successful close of the
-Spanish-American <HistRef event="Civil_War">war</HistRef>. At this time I had been hard at work, together
+    <HistRef event="SpanAm">Spanish-American war</HistRef>. At this time I had been hard at work, together
 with our teachers, for eighteen years, trying to build up a school that
 we thought would be of service to the Nation, and I determined to make
 a direct effort to secure a visit from the President and his Cabinet. I
@@ -6725,31 +6725,31 @@ to the President, and explained to him my mission. Mr. Porter kindly
 sent my card directly to the President, and in a few minutes word came
 from Mr. McKinley that he would see me.</p>
 
-<p>How any man can see so many people of all kinds, with all kinds of
+<p><tone feeling="admiring">How any man can see so many people of all kinds, with all kinds of
 errands, and do so much hard work, and still keep himself calm,
 patient, and fresh for each visitor in the way that President McKinley
 does, I cannot understand. When I saw the President he kindly thanked
 me for the work which we were doing at Tuskegee for the interests of
-the country. I then told him, briefly, the object of my visit. I
+the country.</tone> I then told him, briefly, the object of my visit. I
 impressed upon him the fact that a visit from the Chief Executive of
 the Nation would not only encourage our students and teachers, but
 would help the entire race. He seemed interested, but did not make a
-promise to go to Tuskegee, for the reason that his plans about going to
-Atlanta were not then fully made; but he asked me to call the matter to
+promise to go to <place state="Alabama" school="Tuskegee">Tuskegee</place>, for the reason that his plans about going to
+    <place state="Georgia" city="Atlanta">Atlanta</place> were not then fully made; but he asked me to call the matter to
 his attention a few weeks later.</p>
 
 <p>By the middle of the following month the President had definitely
-decided to attend the Peace Jubilee at Atlanta. I went to Washington
+    decided to attend the Peace Jubilee at <place state="Georgia" city="Atlanta">Atlanta</place>. I went to <place city="dc">Washington</place>
 again and saw him, with a view of getting him to extend his trip to
-Tuskegee. On this second visit Mr. Charles W. Hare, a prominent white
-citizen of Tuskegee, kindly volunteered to accompany me, to reenforce
-my invitation with one from the white people of Tuskegee and the
+    <place state="Alabama" city="Tuskegee">Tuskegee</place>. On this second visit Mr. Charles W. Hare, a prominent white
+    citizen of <place state="Alabama" city="Tuskegee">Tuskegee</place>, kindly volunteered to accompany me, to reenforce
+    my invitation with one from the white people of <place state="Alabama" city="Tuskegee">Tuskegee</place> and the
 vicinity.</p>
 
-<p>Just previous to my going to Washington the second time, the country
+    <p><project theme="inequality">Just previous to my going to <place city="dc">Washington</place> the second time, the country
 had been excited, and the coloured people greatly depressed, because of
 several severe race riots which had occurred at different points in the
-South. As soon as I saw the President, I perceived that his heart was
+South.</project> As soon as I saw the President, I perceived that his heart was
 greatly burdened by reason of these race disturbances. Although there
 were many people waiting to see him, he detained me for some time,
 discussing the condition and prospects of the race. He remarked several
@@ -6769,8 +6769,8 @@ This opinion was reenforced by that friend of the race, Dr. J.L.M.
 Curry. The President promised that he would visit our school on the
 16th of December.</p>
 
-<p>When it became known that the President was going to visit our school,
-the white citizens of the town of Tuskegee—a mile distant from the
+<p><tone feeling="appreciative">When it became known that the President was going to visit our school,
+        the white citizens of the town of <place state="Alabama" city="Tuskegee">Tuskegee</place>—a mile distant from the
 school—were as much pleased as were our students and teachers. The
 white people of this town, including both men and women, began
 arranging to decorate the town, and to form themselves into committees
@@ -6784,17 +6784,17 @@ prominence, if there was anything they could do to help, or to relieve
 me personally, I had but to intimate it and they would be only too glad
 to assist. In fact, the thing that touched me almost as deeply as the
 visit of the President itself was the deep pride which all classes of
-citizens in Alabama seemed to take in our work.</p>
+citizens in Alabama seemed to take in our work.</tone></p>
 
-<p>The morning of December 16th brought to the little city of Tuskegee
-such a crowd as it had never seen before. With the President came Mrs.
-McKinley and all of the Cabinet officers but one; and most of them
+    <p>The morning of December 16th brought to the little city of <place state="Alabama" city="Tuskegee">Tuskegee</place>
+such a crowd as it had never seen before. With the President came <person relation="flotus">Mrs.
+    McKinley</person> and all of the Cabinet officers but one; and most of them
 brought their wives or some members of their families. Several
 prominent generals came, including General Shafter and General Joseph
-Wheeler, who were recently returned from the Spanish-American <HistRef event="Civil_War">war</HistRef>.
+Wheeler, who were recently returned from the <HistRef event="SpanAm">Spanish-American war</HistRef>.
 There was also a host of newspaper correspondents. The Alabama
-Legislature was in session in Montgomery at this time. This body passed
-a resolution to adjourn for the purpose of visiting Tuskegee. Just
+Legislature was in session in <place state="Alabama" city="Montgomery">Montgomery</place> at this time. This body passed
+        a resolution to adjourn for the purpose of visiting <place state="Alabama" city="Tuskegee">Tuskegee</place>. Just
 before the arrival of the President’s party the Legislature arrived,
 headed by the governor and other state officials.</p>
 
@@ -6829,7 +6829,7 @@ this unique educational experiment, which has attracted the attention
 and won the support even of conservative philanthropists in all
 sections of the country.</p>
 
-<p>To speak of Tuskegee without paying special tribute to Booker T.
+    <p>To speak of <place state="Alabama" school="Tuskegee">Tuskegee</place> without paying special tribute to Booker T.
 Washington’s genius and perseverance would be impossible. The inception
 of this noble enterprise was his, and he deserves high credit for it.
 His was the enthusiasm and enterprise which made its steady progress
@@ -6838,7 +6838,7 @@ of accomplishment. He has won a worthy reputation as one of the great
 leaders of his race, widely known and much respected at home and abroad
 as an accomplished educator, a great orator, and a true philanthropist.</p>
 
-<p>The Hon. <person relation="brother">John</person> D. Long, the Secretary of the Navy, said in part:—</p>
+<p>The Hon. John D. Long, the Secretary of the Navy, said in part:—</p>
 
 <p>I cannot make a speech to-day. My heart is too full—full of hope,
 admiration, and pride for my countrymen of both sections and both
@@ -6876,7 +6876,7 @@ our future, than that which we have witnessed here this morning.</p>
 <p>Some days after the President returned to Washington I received the
 letter which follows:—</p>
 
-<p>Executive Mansion, Washington, Dec. 23, 1899.</p>
+<letter><p>Executive Mansion, Washington, Dec. 23, 1899.</p>
 
 <p>Dear Sir: By this mail I take pleasure in sending you engrossed copies
 of the souvenir of the visit of the President to your institution.
@@ -6901,14 +6901,14 @@ the season, believe me, always,</p>
 
 <p>Very sincerely yours,</p>
 
-<p><person relation="brother">John</person> Addison Porter,</p>
+<p>John Addison Porter,</p>
 
 <p>Secretary to the President.</p>
 
-<p>To President Booker T. Washington, Tuskegee Normal and Industrial
-Institute, Tuskegee, Ala.</p>
+<p>To President Booker T. Washington, <place state="Alabama" school="Tuskegee">Tuskegee Normal and Industrial
+        Institute</place>, <place state="Alabama" city="Tuskegee">Tuskegee, Ala.</place></p></letter>
 
-<p>Twenty years have now passed since I made the first humble effort at
+<p><tone feeling="emotional">Twenty years have now passed since I made the first humble effort at
 Tuskegee, in a broken-down shanty and an old hen-house, without owning
 a dollar’s worth of property, and with but one teacher and thirty
 students. At the present time the institution owns twenty-three hundred
@@ -6918,12 +6918,12 @@ large and small, sixty-six buildings; and all except four of these have
 been almost wholly erected by the labour of our students. While the
 students are at work upon the land and in erecting buildings, they are
 taught, by competent instructors, the latest methods of agriculture and
-the trades connected with building.</p>
+the trades connected with building.</tone></p>
 
-<p>There are in constant operation at the school, in connection with
+<p><project theme="education">There are in constant operation at the school, in connection with
 thorough academic and religious training, thirty industrial
 departments. All of these teach industries at which our men and women
-can find immediate employment as soon as they leave the institution.
+can find immediate employment as soon as they leave the institution.</project>
 The only difficulty now is that the demand for our graduates from both
 white and black people in the South is so great that we cannot supply
 more than one-half the persons for whom applications come to us.
@@ -6931,7 +6931,7 @@ Neither have we the buildings nor the money for current expenses to
 enable us to admit to the school more than one-half the young men and
 women who apply to us for admission.</p>
 
-<p>In our industrial teaching we keep three things in mind: first, that
+<p><project theme="education" type="agriculture">In our industrial teaching we keep three things in mind: first, that
 the student shall be so educated that he shall be enabled to meet
 conditions as they exist now, in the part of the South where he
 lives—in a word, to be able to do the thing which the world wants done;
@@ -6944,16 +6944,16 @@ In addition to the agricultural training which we give to young men,
 and the training given to our girls in all the usual domestic
 employments, we now train a number of girls in agriculture each year.
 These girls are taught gardening, fruit-growing, dairying, bee-culture,
-and poultry-raising.</p>
+and poultry-raising.</project></p>
 
-<p>While the institution is in no sense denominational, we have a
+<p><project theme="education">While the institution is in no sense denominational, we have a
 department known as the Phelps Hall Bible Training School, in which a
 number of students are prepared for the ministry and other forms of
 Christian work, especially work in the country districts. What is
 equally important, each one of the students works half of each day at
 some industry, in order to get skill and the love of work, so that when
 he goes out from the institution he is prepared to set the people with
-whom he goes to labour a proper example in the matter of industry.</p>
+whom he goes to labour a proper example in the matter of industry.</project></p>
 
 <p>The value of our property is now over $700,000. If we add to this our
 endowment fund, which at present is $1,000,000, the value of the total
@@ -6965,18 +6965,18 @@ door to door and from house to house. All of our property is free from
 mortgage, and is deeded to an undenominational board of trustees who
 have the control of the institution.</p>
 
-<p>From thirty students the number has grown to fourteen hundred, coming
-from twenty-seven states and territories, from <place country="Africa">Africa</place>, Cuba, Porto
-Rico, Jamaica, and other foreign countries. In our departments there
+<p><project theme="education">From thirty students the number has grown to fourteen hundred, coming
+        from twenty-seven states and territories, from <place country="Africa">Africa</place>, <place country="Cuba">Cuba</place>, <place country="PortoRico">Porto
+            Rico</place>, <place country="Jamaica">Jamaica</place>, and other foreign countries. In our departments there
 are one hundred and ten officers and instructors; and if we add the
 families of our instructors, we have a constant population upon our
-grounds of not far from seventeen hundred people.</p>
+grounds of not far from seventeen hundred people.</project></p>
 
-<p>I have often been asked how we keep so large a body of people together,
+<p><project theme="education">I have often been asked how we keep so large a body of people together,
 and at the same time keep them out of mischief. There are two answers:
 that the men and women who come to us for an education are in earnest;
 and that everybody is kept busy. The following outline of our daily
-work will testify to this:—</p>
+work will testify to this:—</project></p>
 
 <p>5 a.m., rising bell; 5.50 a.m., warning breakfast bell; 6 a.m.,
 breakfast bell; 6.20 a.m., breakfast over; 6.20 to 6.50 a.m., rooms are
@@ -6990,7 +6990,7 @@ class work ends; 5.30 p.m., bell to “knock off” work; 6 p.m., supper;
 evening study hour closes; 9.20 p.m., warning retiring bell; 9.30 p.m.,
 retiring bell.</p>
 
-<p>We try to keep constantly in mind the fact that the worth of the school
+<p><project theme="education">We try to keep constantly in mind the fact that the worth of the school
 is to be judged by its graduates. Counting those who have finished the
 full course, together with those who have taken enough training to
 enable them to do reasonably good work, we can safely say that at least
@@ -7002,15 +7002,15 @@ important, they are exhibiting a degree of common sense and
 self-control which is causing better relations to exist between the
 races, and is causing the Southern white man to learn to believe in the
 value of educating the men and women of my race. Aside from this, there
-is the influence that is constantly being exerted through the <person relation="mother">mother</person>s’
-meeting and the plantation work conducted by Mrs. Washington.</p>
+is the influence that is constantly being exerted through the mothers’
+meeting and the plantation work conducted by <person relation="wife">Mrs. Washington</person>.</project></p>
 
 <p>Wherever our graduates go, the changes which soon begin to appear in
 the buying of land, improving homes, saving money, in education, and in
 high moral characters are remarkable. Whole communities are fast being
 revolutionized through the instrumentality of these men and women.</p>
 
-<p>Ten years ago I organized at Tuskegee the first Negro Conference. This
+<p><tone feeling="proud">Ten years ago I organized at Tuskegee the first Negro Conference. This
 is an annual gathering which now brings to the school eight or nine
 hundred representative men and women of the race, who come to spend a
 day in finding out what the actual industrial, mental, and moral
@@ -7024,16 +7024,16 @@ there is the “Workers’ Conference.” This is composed of officers and
 teachers who are engaged in educational work in the larger institutions
 in the South. The Negro Conference furnishes a rare opportunity for
 these workers to study the real condition of the rank and file of the
-people.</p>
+people.</tone></p>
 
-<p>In the summer of 1900, with the assistance of such prominent coloured
+<p><tone feeling="appreciative">In the summer of 1900, with the assistance of such prominent coloured
 men as Mr. T. Thomas Fortune, who has always upheld my hands in every
 effort, I organized the National Negro Business League, which held its
 first meeting in Boston, and brought together for the first time a
 large number of the coloured men who are engaged in various lines of
 trade or business in different parts of the United States. Thirty
 states were represented at our first meeting. Out of this national
-meeting grew state and local business leagues.</p>
+meeting grew state and local business leagues.</tone></p>
 
 <p>In addition to looking after the executive side of the work at
 Tuskegee, and raising the greater part of the money for the support of
@@ -7059,17 +7059,17 @@ Washington was taken in charge by a delegation of coloured citizens,
 headed by the Rev. Mr. Watkins, and hustled off to a small informal
 reception, arranged in honour of the visitor by the people of his race.</p>
 
-<p>Nor can I, in addition to making these addresses, escape the duty of
+<p><project theme="inequality">Nor can I, in addition to making these addresses, escape the duty of
 calling the attention of the South and of the country in general,
 through the medium of the press, to matters that pertain to the
 interests of both races. This, for example, I have done in regard to
 the evil habit of lynching. When the Louisiana State Constitutional
 Convention was in session, I wrote an open letter to that body pleading
-for justice for the race. In all such efforts I have received warm and
+for justice for the race.</project> In all such efforts I have received warm and
 hearty support from the Southern newspapers, as well as from those in
 all other parts of the country.</p>
 
-<p>Despite superficial and temporary signs which might lead one to
+<p><tone feeling="hopeful">Despite superficial and temporary signs which might lead one to
 entertain a contrary opinion, there was never a time when I felt more
 hopeful for the race than I do at the present. The great human law that
 in the end recognizes and rewards merit is everlasting and universal.
@@ -7078,15 +7078,15 @@ struggle that is constantly going on in the hearts of both the Southern
 white people and their former slaves to free themselves from racial
 prejudice; and while both races are thus struggling they should have
 the sympathy, the support, and the forbearance of the rest of the
-world.</p>
+world.</tone></p>
 
-<p>As I write the closing words of this autobiography I find myself—not by
-design—in the city of Richmond, Virginia: the city which only a few
+<p><tone feeling="emotional">As I write the closing words of this autobiography I find myself—not by
+        design—in the city of <place state="Virginia" city="Richmond">Richmond, Virginia</place>: the city which only a few
 decades ago was the capital of the Southern Confederacy, and where,
 about twenty-five years ago, because of my poverty I slept night after
-night under a sidewalk.</p>
+night under a sidewalk.</tone></p>
 
-<p>This time I am in Richmond as the guest of the coloured people of the
+    <p><tone feeling="triumphant">This time I am in <place state="Virginia" city="Richmond">Richmond</place> as the guest of the coloured people of the
 city; and came at their request to deliver an address last night to
 both races in the Academy of Music, the largest and finest audience
 room in the city. This was the first time that the coloured people had
@@ -7098,6 +7098,6 @@ hundreds of coloured people, many distinguished white citizens, the
 City Council, the state Legislature, and state officials, I delivered
 my message, which was one of hope and cheer; and from the bottom of my
 heart I thanked both races for this welcome back to the state that gave
-me birth.</p>
+me birth.</tone></p>
 </chapter>
 </book>
