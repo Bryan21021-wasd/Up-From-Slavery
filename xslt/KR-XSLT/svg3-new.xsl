@@ -14,14 +14,14 @@
     <xsl:variable name="yspacer" select="30"/>
     
     <xsl:template match="$UFS">
-        <xsl:result-document method="xhtml" indent="yes" href="KR-svg3-output.html"><!--whc: should be xhtml, not xml-->
+        <xsl:result-document method="xhtml" indent="yes" href="KR-svg3-output.html">
             
             <html>
                 <head><title>Project Themes</title></head>
                 <body>
                     <h1>Project Themes Mentioned in Each Chapter</h1> <!-- KR goal is to create a bar graph that lists theme occurances in each chapter -->
                     <svg viewBox="0 0 1000 650">
-                        <g transform="translate(250,10)"><!--whc: missing close paren-->
+                        <g transform="translate(250,10)">
                             <xsl:for-each select=".//chapter">
                                 <xsl:variable name="chapnum" select="count(preceding::chapter)+1"/>
                             <xsl:for-each-group select=".//project" group-by="@theme">
@@ -37,7 +37,7 @@
                                     y1="{$yspacer*$theme-sequence}" y2="{$yspacer*$theme-sequence}"
                                     stroke-width="10" stroke="purple"/>   <!-- KR not sure if this is the correct format -->
                                 <line x1="0" x2="{$xspacer*$theme-occurrence-count}"
-                                    y1="{$yspacer*$theme-sequence}" y2="{$yspacer*$theme-sequence}"
+                                    y1="{$yspacer*$theme-sequence+15}" y2="{$yspacer*$theme-sequence+15}"
                                     stroke-width="10" stroke="yellow"/>
                                 
                                 <!--Kr this will label each bar with name and attribute-->
@@ -50,7 +50,8 @@
                                     <xsl:value-of select="$theme-occurrence-count"/></text>
                             </xsl:for-each-group>
                             </xsl:for-each>
-                            <line x1="0" y1="0" x2="0" y2="{count(.//chapter)*$yspacer}" stroke="blue" stroke-width="5"/>
+                            <line x1="0" y1="0" x2="0" y2="{count(.//chapter)*$yspacer}" stroke="black" stroke-width="3"/>
+                            <text x1="0" y1="0" x2="0" y2="{count(.//chapter*$yspacer)}"> </text>
                         </g>
                     </svg>
                     
