@@ -14,7 +14,7 @@
         <xsl:result-document method="xml" indent="yes" href="./Results/BC-SVG-3-results.svg">
             <svg viewBox="0 0 1000 1000"> <!-- BC - Makes the svg viewable on most screens fully, and will be scrollable if necessary. -->
                 <g transform="translate(50,50)">
-                    <xsl:for-each select="//HistRef">
+                    <xsl:for-each-group select="//HistRef" group-by="@event">
                         <xsl:variable name="HistRef_Count" select=".=>count()"/>
                         <xsl:if test="@event='Civil_War'">
                             <line x1="200" x2="0" y1="100" y2="300"/>
@@ -25,11 +25,11 @@
                         <xsl:if test="@name='/1'">
                             <line x1="400" x2="200" y1="500" y2="600"/>
                         </xsl:if>
-                        <xsl:if test="@event='Civil_War'"> <!-- BC - These if statements should, in theory, create different ways to create the lines. However, there seems to only be one way to use the historical name references as all of them are marked with /1. I am currently experiencing an error with the svg at the moment, unfortuantely. -->
-                            <!-- BC - I'm not sure what to di with this if, but am keeping it for future reference. -->
+                        <xsl:if test="@event='Civil_War'"> <!-- BC - These if statements should, in theory, create different ways to create the lines. However, there seems to only be one way to use the historical name references as all of them are marked with /1. I am currently experiencing an error with the svg at the moment, unfortunately. -->
+                            <!-- BC - I'm not sure what to do with this if, but am keeping it for future reference. -->
                         </xsl:if>
                         <line x1="0" x2="0" y1="0" y2="400" stroke="blue" stroke-width="1"/>
-                    </xsl:for-each>
+                    </xsl:for-each-group>
                 </g>
             </svg>
         </xsl:result-document>
