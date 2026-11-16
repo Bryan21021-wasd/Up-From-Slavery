@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+   <g transform="translate(50,50)">
+      <line x1="0"
+            x2="70"
+            y1="70"
+            y2="70"
+            stroke-width="10"
+            stroke="blue"/>
+      <text x="-25" y="200" text-anchor="right">20</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="400"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="240"
+            y1="240"
+            y2="240"
+            stroke-width="10"
+            stroke="red"/>
+      <text x="-25" y="200" text-anchor="right">20</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="400"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="40"
+            y1="40"
+            y2="40"
+            stroke-width="10"
+            stroke="red"/>
+      <text x="-25" y="200" text-anchor="right">20</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="400"
+            stroke="black"
+            stroke-width="1"/>
+      <line x1="0"
+            x2="40"
+            y1="40"
+            y2="40"
+            stroke-width="10"
+            stroke="red"/>
+      <text x="-25" y="200" text-anchor="right">20</text>
+      <line x1="0"
+            x2="0"
+            y1="0"
+            y2="400"
+            stroke="black"
+            stroke-width="1"/>
+   </g>
+</svg>
