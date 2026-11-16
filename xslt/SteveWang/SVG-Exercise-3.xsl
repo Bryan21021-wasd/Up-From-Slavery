@@ -30,11 +30,11 @@
                                 <xsl:for-each-group select=".//person" group-by="@relation">
                                     <xsl:variable name="pers-frequency" select="count(current-group())"/>
                                     <circle cx="{$chapNum*$xspacer}" cy="{$pers-frequency*$yspacer}" r="5" fill="red"/>
-                                    <text x="{-1*$xspacer}" y="{$pers-frequency*$yspacer}"><xsl:apply-templates select="$pers-frequency"/></text>
+                                    <text x="{$chapNum*$xspacer}" y="320"><xsl:apply-templates select="$chapter"/></text>
                                 </xsl:for-each-group>
                             </xsl:for-each>
                             <line x1="40" y1="300" x2="40" y2="0" stroke="blue" stroke-width="1"/>
-                            <line x1="40" y1="300" x2="300" y2="300" stroke="blue" stroke-width="1"/>
+                            <line x1="40" y1="300" x2="800" y2="300" stroke="blue" stroke-width="1"/>
                         </g>
                     </svg>
                 </body>
