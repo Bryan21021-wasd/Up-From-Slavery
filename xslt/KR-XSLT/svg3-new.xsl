@@ -24,33 +24,35 @@
                         <g transform="translate(250,10)">
                             <xsl:for-each select=".//chapter">
                                 <xsl:variable name="chapnum" select="count(preceding::chapter)+1"/>
-                            <xsl:for-each-group select=".//project" group-by="@theme">
-                                <xsl:sort select="count(current-group())"/>
-                                
-                                
+                            
                                 <!-- local variables=only operating in current group -->
-                                <xsl:variable name="theme-occurrence-count" select="count(current-group())"/>
-                                <xsl:variable name="theme-sequence" select="position()"/>
+                                <xsl:variable name="education-count" select="position()"/>
+                                <xsl:variable name="inequality-count" select="position()"/>
                                 
                                 <!-- KR this is making the bars of the graph -->
-                                <line x1="0" x2="{$xspacer*$theme-occurrence-count}"
-                                    y1="{$yspacer*$theme-sequence}" y2="{$yspacer*$theme-sequence}"
+                                <line x1="0" x2="{$xspacer*$education-count}"
+                                    y1="{$yspacer*$chapnum}" y2="{$yspacer*$chapnum}"
                                     stroke-width="10" stroke="purple"/>   <!-- KR not sure if this is the correct format -->
-                                <line x1="0" x2="{$xspacer*$theme-occurrence-count}"
-                                    y1="{$yspacer*$theme-sequence+15}" y2="{$yspacer*$theme-sequence+15}"
+                                <line x1="0" x2="{$xspacer*$inequality-count}"
+                                    y1="{$yspacer*$chapnum+15}" y2="{$yspacer*$chapnum+15}"
                                     stroke-width="10" stroke="yellow"/>
                                 
                                 <!--Kr this will label each bar with name and attribute-->
-                                <text x="-10" y="{$yspacer*$theme-sequence}" text-anchor="end">
-                                    <xsl:value-of select="$theme-sequence"/><xsl:text> : </xsl:text>
-                                    <xsl:apply-templates select="string()"/> </text>
+                                <text x="-10" y="{$yspacer*$education-count}" text-anchor="end">
+                                    <xsl:value-of select="$chapnum"/><xsl:text> : </xsl:text>
+                                     </text>
+                                <text x="-10" y="{$yspacer*$inequality-count}" text-anchor="end">
+                                    <xsl:value-of select="$chapnum"/><xsl:text> : </xsl:text>
+                                </text>
                                 
                                 <!-- KR this will place the count after each bar -->
-                                <text x="{$xspacer*$theme-occurrence-count+10}" y="{$yspacer*$theme-sequence}" text-anchor="right">
-                                    <xsl:value-of select="$theme-occurrence-count"/></text>
-                            </xsl:for-each-group>
+                                <text x="{$xspacer*$education-count+10}" y="{$yspacer*$chapnum}" text-anchor="right">
+                                    <xsl:value-of select="$education-count"/></text>
+                                <text x="{$xspacer*$inequality-count+10}" y="{$yspacer*$chapnum}" text-anchor="right">
+                                    <xsl:value-of select="$inequality-count"/></text>
+                                
                             </xsl:for-each>
-                            <line x1="0" y1="0" x2="0" y2="{count(.//chapter)*$yspacer}" stroke="black" stroke-width="3"/>
+                            <line x1="0" y1="0" x2="0" y2="{count(.//chapter)*$yspacer}" stroke="black" stroke-width="2"/>
                             <text x1="0" y1="0" x2="0" y2="{count(.//chapter*$yspacer)}"> </text>
                         </g>
                     </svg>
