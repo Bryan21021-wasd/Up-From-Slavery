@@ -17,12 +17,12 @@
         <xsl:result-document method="xhtml" indent="yes" href="keiraJill_output.html">
             
             <html>
-                <head><title> Up From SLavery </title></head>
+                <head><title> Up From Slavery </title></head>
                 <body>
-                    <ol>
-                        <xsl:apply-templates select="//chapList" mode="toc"/>
-                    </ol> <!-- KR This should be making a table of contents of the chapters -->
-                    <xsl:apply-templates select="//chapList"/>
+                    <ul>
+                        <li><xsl:apply-templates select="//chapter" mode="toc"/></li>
+                    </ul> <!-- KR This should be making a table of contents of the chapters -->
+                    <!--<xsl:apply-templates select="//chapList"/>-->
                     
                 </body>
                 
@@ -43,7 +43,7 @@
     </xsl:template>
     
     <xsl:template match="chapter" mode="toc">
-        <li><a href="#{count(preceding::chapter)-2}"><xsl:apply-templates select="title" mode="toc"/></a></li>
+        <li><a href="#{count(preceding::chapter)-2}"><xsl:apply-templates select="title [1]" mode="toc"/></a></li>
     </xsl:template> <!-- This is meant to list the chapter title with the corresponding chapters in the list -->
     
     <xsl:template match="title"><xsl:text>Chapter </xsl:text>
@@ -62,7 +62,7 @@
         <p><xsl:apply-templates/></p>
     </xsl:template>
     <xsl:template match="title">
-        <h2><xsl:apply-templates/></h2>
+        <h2 id="#{count(preceding::chapter)-2}"><xsl:apply-templates/></h2>
     </xsl:template>
     <!--To connect the css to the html and let the properties show up.-->
     <xsl:template match="person">
