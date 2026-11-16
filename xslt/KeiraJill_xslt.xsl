@@ -27,7 +27,7 @@
                 </body>
                 
                 <head><title>Up From Slavery</title>
-                    <link rel="stylesheet" type="text/css" href="exercise-e-JLG.css"/></head>
+                    <link rel="stylesheet" type="text/css" href="JillianGrgic/exercise-e-JLG.css"/></head>
                 <body>
                     <xsl:apply-templates select=".//chapter"/>
                     <xsl:apply-templates select=".//p"/>
