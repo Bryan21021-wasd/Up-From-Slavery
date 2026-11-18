@@ -41,7 +41,7 @@ CONTENTS
 
 UP FROM SLAVERY:
 
-<chapter>Preface</chapter>
+<chapter>Preface
 
 <p>
 This volume is the outgrowth of a series of articles, dealing with
@@ -62,9 +62,9 @@ on board trains, or at hotels or railroad stations while I have been
 waiting for trains, or during the moments that I could spare from my
 work while at Tuskegee. Without the painstaking and generous assistance
 of Mr. Max Bennett Thrasher I could not have succeeded in any
-satisfactory degree.</p>
+satisfactory degree.</p></chapter>
 
-<chapter>Introduction</chapter>
+<chapter>Introduction
 
 <p>
 The details of Mr. Washington’s early life, as frankly set down in “Up
@@ -330,11 +330,9 @@ achievement to his credit than this; and it is an achievement of moral
 earnestness of the strong character of a man who has done a great
 national service.</p>
 
-<p>Walter H. Page.</p>
+<p>Walter H. Page.</p></chapter>
 
-<chapter>UP FROM SLAVERY</chapter>
-
-<chapter n="I">Chapter I.
+<chapter n="I" num="1">Chapter I.
 <title titleName="A Slave Among Slaves">A Slave Among Slaves</title>
 
 <p>
@@ -771,7 +769,7 @@ began to wander from the slave quarters back to the “big house” to have
 a whispered conversation with their former owners as to the future.</p>
 
 </chapter>
-<chapter n="II">Chapter II.
+<chapter n="II" num="2">Chapter II.
 <title titleName="Boyhood Days">Boyhood Days</title>
 
 <p>
@@ -1149,7 +1147,7 @@ call attention to myself as an individual, but to the race to which I
 am proud to belong.</p>
 
 </chapter>
-<chapter n="III">Chapter III.
+<chapter n="III" num="3">Chapter III.
 <title titleName="The Struggle For An Education">The Struggle For An Education</title>
 
 <p>
@@ -1587,7 +1585,7 @@ far distant when the whole South will appreciate this service in a way
 that it has not yet been able to do.</p>
 
 </chapter>
-<chapter n="IV">Chapter IV.
+<chapter n="IV" num="4">Chapter IV.
 <title titleName="Helping Others">Helping Others</title>
 
 <p>
@@ -1943,7 +1941,7 @@ almost forgotten by both races. There are few places in the South now
 where public sentiment would permit such organizations to exist.</project></p>
 
 </chapter>
-<chapter n="V">Chapter V.
+<chapter n="V" num="5">Chapter V.
 <title titleName="The Reconstruction Period">The Reconstruction Period</title>
 
 <p>
@@ -2182,7 +2180,7 @@ most thorough training in the latest and best methods of laundrying and
 other kindred occupations.</p>
 
 </chapter>
-<chapter n="VI">Chapter VI.
+<chapter n="VI" num="6">Chapter VI.
 <title titleName="Black Race And Red Race">Black Race And Red Race</title>
 
 <p>
@@ -2476,7 +2474,7 @@ students, now numbers between three and four hundred, and is one of the
 permanent and most important features of the institution.</p>
 
 </chapter>
-<chapter n="VII">Chapter VII.
+<chapter n="VII" num="7">Chapter VII.
 <title titleName="Early Days At Tuskegee">Early Days At Tuskegee</title>
 
 <p>
@@ -2726,7 +2724,7 @@ by the work of the <place state="Alabama" school="Tuskegee">Tuskegee</place> sch
 as well.</p>
 
 </chapter>
-<chapter n="VIII">Chapter VIII.
+<chapter n="VIII" num="8">Chapter VIII.
 <title titleName="Teaching School In A Stable And A Hen-House">Teaching School In A Stable And A Hen-House</title>
 
 <p>
@@ -3052,7 +3050,7 @@ many gifts for the benefit of the institution, but never any, I think,
 that touched me so deeply as this one.</p>
 
 </chapter>
-<chapter n="IX">Chapter IX.
+<chapter n="IX" num="9">Chapter IX.
 <title titleName="Anxious Days And Sleepless Nights">Anxious Days And Sleepless Nights</title>
 
 <p>
@@ -3361,7 +3359,7 @@ interest and ambition. She passed away, however, before she had an
 opportunity of seeing what the school was designed to be.</p>
 
 </chapter>
-<chapter n="X">Chapter X.
+<chapter n="X" num="10">Chapter X.
 <title titleName="A Harder Task Than Making Bricks Without Straw">A Harder Task Than Making Bricks Without Straw</title>
 
 <p>
@@ -3687,7 +3685,7 @@ we did, and built ourselves up year by year, by a slow and natural
 process of growth.</p>
 
 </chapter>
-<chapter n="XI">Chapter XI.
+<chapter n="XI" num="11">Chapter XI.
 <title titleName="Making Their Beds Before They Could Lie On Them">Making Their Beds Before They Could Lie On Them</title>
 
 <p>
@@ -3969,7 +3967,7 @@ the chapel in the evening and their dress is inspected, as it is every
 night, not one button is found to be missing.</p>
 
 </chapter>
-<chapter n="XII">Chapter XII.
+<chapter n="XII" num="12">Chapter XII.
 <title titleName="Raising Money">Raising Money</title>
 
 <p>
@@ -4381,7 +4379,7 @@ education has assumed the importance that it has, and been placed on
 its present footing.</p>
 
 </chapter>
-<chapter n="XIII">Chapter XIII.
+<chapter n="XIII" num="13">Chapter XIII.
 <title titleName="Two Thousand Miles For A Five-Minute Speech">Two Thousand Miles For A Five-Minute Speech</title>
 
 <p><project theme="education">
@@ -4818,7 +4816,7 @@ to go into the building, but walked back and forth in the grounds
 outside until the opening exercises were over.</p>
 
 </chapter>
-<chapter n="XIV">Chapter XIV.
+<chapter n="XIV" num="14">Chapter XIV.
 <title titleName="The Atlanta Exposition Address">The Atlanta Exposition Address</title>
 
 <p>
@@ -5277,7 +5275,7 @@ whatever tests are required, they should be made to apply with equal
 and exact justice to both races.</p>
 
 </chapter>
-<chapter n="XV">Chapter XV.
+<chapter n="XV" num="15">Chapter XV.
 <title titleName="The Secret Of Success In Public Speaking">The Secret Of Success In Public Speaking</title>
 
 <p>
@@ -5920,7 +5918,7 @@ I suppose I would care for games now if I had had any time in my youth
 to give to them, but that was not possible.</p>
 
 </chapter>
-<chapter n="XVI">Chapter XVI.
+<chapter n="XVI" num="16">Chapter XVI.
 <title titleName="Europe">Europe</title>
 
 <p>
@@ -6474,7 +6472,7 @@ not able to accept.</p>
 
 
 </chapter>
-<chapter n="XVII">Chapter XVII.
+<chapter n="XVII" num="17">Chapter XVII.
 <title titleName="Last Words">Last Words</title>
 
 <p>
