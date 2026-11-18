@@ -26,11 +26,12 @@
                             <xsl:for-each select=".//chapter">
                                 <xsl:variable name="pers-relation" select=".//person/@relation"/>
                                 <xsl:variable name="chapter" select="@n"/>
-                                <xsl:variable name="chapNum" select="count(preceding::chapter)+1"/>
+                                <xsl:variable name="chapNum" select="count(preceding::chapter)-2"/>
                                 <xsl:for-each-group select=".//person" group-by="@relation">
                                     <xsl:variable name="pers-frequency" select="count(current-group())"/>
                                     <circle cx="{$chapNum*$xspacer}" cy="{$pers-frequency*$yspacer}" r="5" fill="red"/>
                                     <text x="{$chapNum*$xspacer}" y="320"><xsl:apply-templates select="$chapter"/></text>
+                                    <text x="0" y="{$chapNum*$yspacer}"><xsl:apply-templates select="$chapNum"/></text>
                                 </xsl:for-each-group>
                             </xsl:for-each>
                             <line x1="40" y1="300" x2="40" y2="0" stroke="blue" stroke-width="1"/>
