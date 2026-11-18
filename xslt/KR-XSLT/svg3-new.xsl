@@ -23,11 +23,13 @@
                     <svg viewBox="0 0 1000 650">
                         <g transform="translate(250,10)">
                             <xsl:for-each select=".//chapter">
-                                <xsl:variable name="chapnum" select="count(preceding::chapter)+1"/>
+                                <xsl:variable name="chapnum" select="count(preceding::chapter)-2"/>
+                               
+                                
                             
                                 <!-- local variables=only operating in current group -->
-                                <xsl:variable name="education-count" select="position()"/>
-                                <xsl:variable name="inequality-count" select="position()"/>
+                                <xsl:variable name="education-count" select="count(.//project[@theme='education'])"/>
+                                <xsl:variable name="inequality-count" select="count(.//project[@theme='inequality'])"/>
                                 
                                 <!-- KR this is making the bars of the graph -->
                                 <line x1="0" x2="{$xspacer*$education-count}"
@@ -38,22 +40,22 @@
                                     stroke-width="10" stroke="yellow"/>
                                 
                                 <!--Kr this will label each bar with name and attribute-->
-                                <text x="-10" y="{$yspacer*$education-count}" text-anchor="end">
-                                    <xsl:value-of select="$chapnum"/><xsl:text> : </xsl:text>
+                                <text x="-10" y="{$yspacer*$chapnum}" text-anchor="end">
+                                    <xsl:value-of select="$chapnum"/><xsl:text> ed: </xsl:text>
                                      </text>
-                                <text x="-10" y="{$yspacer*$inequality-count}" text-anchor="end">
-                                    <xsl:value-of select="$chapnum"/><xsl:text> : </xsl:text>
+                                <text x="-10" y="{$yspacer*$chapnum+15}" text-anchor="end">
+                                    <xsl:value-of select="$chapnum"/><xsl:text> in: </xsl:text>
                                 </text>
                                 
                                 <!-- KR this will place the count after each bar -->
-                                <text x="{$xspacer*$education-count+10}" y="{$yspacer*$chapnum}" text-anchor="right">
+                                <text x="{$xspacer*$education-count+10}" y="{$yspacer*$chapnum+5}" text-anchor="right">
                                     <xsl:value-of select="$education-count"/></text>
-                                <text x="{$xspacer*$inequality-count+10}" y="{$yspacer*$chapnum}" text-anchor="right">
+                                <text x="{$xspacer*$inequality-count+10}" y="{$yspacer*$chapnum+20}" text-anchor="right">
                                     <xsl:value-of select="$inequality-count"/></text>
                                 
                             </xsl:for-each>
                             <line x1="0" y1="0" x2="0" y2="{count(.//chapter)*$yspacer}" stroke="black" stroke-width="2"/>
-                            <text x1="0" y1="0" x2="0" y2="{count(.//chapter*$yspacer)}"> </text>
+                            <!--text x1="0" y1="0" x2="0" y2="{count(.//chapter*$yspacer)}"> </text-->
                         </g>
                     </svg>
                     
