@@ -11,7 +11,7 @@
     <xsl:variable name="UFS" select="document('../../xml/Up-From-Slavery.xml')"/>
     
     <xsl:variable name="xspacer" select="15"/>
-    <xsl:variable name="yspacer" select="30"/>
+    <xsl:variable name="yspacer" select="40"/>
     
     <xsl:template match="$UFS">
         <xsl:result-document method="xhtml" indent="yes" href="KR-svg3-output.html">
@@ -20,12 +20,14 @@
                 <head><title>Project Themes</title></head>
                 <body>
                     <h1>Project Themes Mentioned in Each Chapter</h1> <!-- KR goal is to create a bar graph that lists theme occurances in each chapter -->
-                    <svg viewBox="0 0 1000 650">
-                        <g transform="translate(250,10)">
-                            <xsl:for-each select=".//chapter">
-                                <xsl:variable name="chapnum" select="count(preceding::chapter)-2"/>
-                               
-                                
+                    <svg viewBox="0 0 1000 1000">
+                        <g transform="translate(150,10)">
+                            <g transform="translate(600,5)"> 
+                                <text>Key</text>
+                            </g>
+                            <xsl:for-each select=".//chapter[@num]">
+                                <xsl:variable name="chapnum" select="count(preceding::chapter[@num])+1"/>
+                                                                                                                            
                             
                                 <!-- local variables=only operating in current group -->
                                 <xsl:variable name="education-count" select="count(.//project[@theme='education'])"/>
@@ -34,17 +36,14 @@
                                 <!-- KR this is making the bars of the graph -->
                                 <line x1="0" x2="{$xspacer*$education-count}"
                                     y1="{$yspacer*$chapnum}" y2="{$yspacer*$chapnum}"
-                                    stroke-width="10" stroke="purple"/>   <!-- KR not sure if this is the correct format -->
+                                    stroke-width="10" stroke="purple"/>
                                 <line x1="0" x2="{$xspacer*$inequality-count}"
-                                    y1="{$yspacer*$chapnum+15}" y2="{$yspacer*$chapnum+15}"
+                                    y1="{$yspacer*$chapnum+10}" y2="{$yspacer*$chapnum+10}"
                                     stroke-width="10" stroke="yellow"/>
                                 
-                                <!--Kr this will label each bar with name and attribute-->
-                                <text x="-10" y="{$yspacer*$chapnum}" text-anchor="end">
-                                    <xsl:value-of select="$chapnum"/><xsl:text> ed: </xsl:text>
-                                     </text>
-                                <text x="-10" y="{$yspacer*$chapnum+15}" text-anchor="end">
-                                    <xsl:value-of select="$chapnum"/><xsl:text> in: </xsl:text>
+                                <!--Kr this is labeling chapter num on side of axis-->          
+                                <text x="-12" y="{$yspacer*$chapnum+12}" text-anchor="end">
+                                    <xsl:value-of select="$chapnum"/>
                                 </text>
                                 
                                 <!-- KR this will place the count after each bar -->
