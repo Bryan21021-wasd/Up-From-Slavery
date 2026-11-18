@@ -14,13 +14,13 @@
         
         
         
-        <xsl:result-document method="xhtml" indent="yes" href="keiraJill_output.html">
+        <xsl:result-document method="xhtml" indent="yes" href="readingview.html">
             
             <html>
-                <head><title> Up From Slavery </title></head>
+                <head><title>Up From Slavery</title></head>
                 <body>
                     <ul>
-                        <li><xsl:apply-templates select="//chapter" mode="toc"/></li>
+                        <li><xsl:apply-templates select=".//chapter" mode="toc"/></li>
                     </ul> <!-- KR This should be making a table of contents of the chapters -->
                     <!--<xsl:apply-templates select="//chapList"/>-->
                     
@@ -38,18 +38,19 @@
     </xsl:template>
     
     <xsl:template match="chapter">
-        <h2 id="{count(preceding::chapter)-2}">Chapter <xsl:apply-templates select="@number"/> (<xsl:apply-templates select="count(preceding::chapter)+1"/>)</h2>
+        <h2 id="#{@num}">Chapter <xsl:apply-templates select="@n"/> (<xsl:apply-templates select="@num"/>)</h2>
         <p><xsl:apply-templates/></p> <!-- KR This is meant to create a numbered list of the chapters -->
     </xsl:template>
     
     <xsl:template match="chapter" mode="toc">
-        <li><a href="#{count(preceding::chapter)-2}"><xsl:apply-templates select="title [1]" mode="toc"/></a></li>
+        <li><a href="#{@num}"><xsl:apply-templates select="title [1]" mode="toc"/> <xsl:apply-templates select="@num"/></a></li>
     </xsl:template> <!-- This is meant to list the chapter title with the corresponding chapters in the list -->
     
-    <xsl:template match="title"><xsl:text>Chapter </xsl:text>
-        <h2><xsl:apply-templates select="../@n"/></h2> 
+    <xsl:template match="chapter"><xsl:text>Chapter </xsl:text>
+        <h2><xsl:apply-templates select="../@num"/></h2> 
         <xsl:apply-templates/><br/> <!-- attempt to create a link that brings you to the text of each chapter -->
     </xsl:template>
+    
     <xsl:template match="title" mode="toc">
         <xsl:apply-templates/>
     </xsl:template>
@@ -58,13 +59,16 @@
     <xsl:template match="chapter">
         <p><xsl:apply-templates/></p>
     </xsl:template>
+    
     <xsl:template match="p">
         <p><xsl:apply-templates/></p>
     </xsl:template>
+    
     <xsl:template match="title">
         <h2 id="#{count(preceding::chapter)-2}"><xsl:apply-templates/></h2>
     </xsl:template>
     <!--To connect the css to the html and let the properties show up.-->
+    
     <xsl:template match="person">
         <span class="person"><xsl:apply-templates/></span>
     </xsl:template>
@@ -72,6 +76,7 @@
     <xsl:template match="project">
         <span class="project"><xsl:apply-templates/></span>
     </xsl:template>
+    
     <xsl:template match="HistRef">
         <span class="HistRef"><xsl:apply-templates/></span>
     </xsl:template>
