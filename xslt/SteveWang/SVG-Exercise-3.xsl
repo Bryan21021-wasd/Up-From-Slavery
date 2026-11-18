@@ -22,20 +22,22 @@
                 <body>
                     <h1>Persons in each chapter of Up From Slavery, by frequency</h1>
                     <svg viewBox="0 0 1000 1000">
-                        <g transform="translate(50,50)">
+                        <g transform="translate(50,400)">
+                            <!--<text x="0" y="{*$yspacer}"><xsl:apply-templates select="$"/></text>-->
                             <xsl:for-each select=".//chapter">
                                 <xsl:variable name="pers-relation" select=".//person/@relation"/>
                                 <xsl:variable name="chapter" select="@n"/>
-                                <xsl:variable name="chapNum" select="count(preceding::chapter)-2"/>
+                                <xsl:variable name="chapNum" select="@num"/>
                                 <xsl:for-each-group select=".//person" group-by="@relation">
+                                    <xsl:sort select="count(current-group())" order="ascending"/>
                                     <xsl:variable name="pers-frequency" select="count(current-group())"/>
-                                    <circle cx="{$chapNum*$xspacer}" cy="{$pers-frequency*$yspacer}" r="5" fill="red"/>
+                                    <circle cx="{$chapNum*$xspacer}" cy="{-$pers-frequency*$yspacer}" r="5" fill="red"/>
                                     <text x="{$chapNum*$xspacer}" y="320"><xsl:apply-templates select="$chapter"/></text>
-                                    <text x="0" y="{$chapNum*$yspacer}"><xsl:apply-templates select="$chapNum"/></text>
+                                    
                                 </xsl:for-each-group>
                             </xsl:for-each>
-                            <line x1="40" y1="300" x2="40" y2="0" stroke="blue" stroke-width="1"/>
-                            <line x1="40" y1="300" x2="800" y2="300" stroke="blue" stroke-width="1"/>
+                            <line x1="40" y1="0" x2="40" y2="-400" stroke="blue" stroke-width="1"/>
+                            <line x1="40" y1="0" x2="800" y2="0" stroke="blue" stroke-width="1"/>
                         </g>
                     </svg>
                 </body>
