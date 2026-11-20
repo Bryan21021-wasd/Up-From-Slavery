@@ -31,13 +31,27 @@
                                 <xsl:for-each-group select=".//person" group-by="@relation">
                                     <xsl:sort select="count(current-group())" order="ascending"/>
                                     <xsl:variable name="pers-frequency" select="count(current-group())"/>
+                                    <xsl:if test="@relation='mother'">
                                     <circle cx="{$chapNum*$xspacer}" cy="{-$pers-frequency*$yspacer}" r="5" fill="red"/>
-                                    <text x="{$chapNum*$xspacer}" y="320"><xsl:apply-templates select="$chapter"/></text>
+                                    </xsl:if>
+                                    <xsl:if test="@relation='brother'">
+                                        <circle cx="{$chapNum*$xspacer}" cy="{-$pers-frequency*$yspacer}" r="5" fill="yellow"/>
+                                    </xsl:if>
+                                    <xsl:if test="@relation='sister'">
+                                        <circle cx="{$chapNum*$xspacer}" cy="{-$pers-frequency*$yspacer}" r="5" fill="green"/>
+                                    </xsl:if>
+                                    <text x="{$chapNum*$xspacer}" y="20"><xsl:apply-templates select="$chapter"/></text>
                                     
                                 </xsl:for-each-group>
+                                <text x="650" y="-380">- mother</text>
+                                <circle cx="640" cy="-385" r="5" fill="red"/>
+                                <text x="650" y="-360">- brother</text>
+                                <circle cx="640" cy="-365" r="5" fill="yellow"/>
+                                <text x="650" y="-340">- sister</text>
+                                <circle cx="640" cy="-345" r="5" fill="green"/>
                             </xsl:for-each>
-                            <line x1="40" y1="0" x2="40" y2="-400" stroke="blue" stroke-width="1"/>
-                            <line x1="40" y1="0" x2="800" y2="0" stroke="blue" stroke-width="1"/>
+                            <line x1="0" y1="0" x2="0" y2="-400" stroke="blue" stroke-width="1"/>
+                            <line x1="0" y1="0" x2="800" y2="0" stroke="blue" stroke-width="1"/>
                         </g>
                     </svg>
                 </body>

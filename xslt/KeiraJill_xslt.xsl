@@ -22,12 +22,12 @@
                     <ul>
                         <li><xsl:apply-templates select=".//chapter" mode="toc"/></li>
                     </ul> <!-- KR This should be making a table of contents of the chapters -->
-                    <!--<xsl:apply-templates select="//chapList"/>-->
+                    
                     
                 </body>
                 
                 <head><title>Up From Slavery</title>
-                    <link rel="stylesheet" type="text/css" href="JillianGrgic/exercise-e-JLG.css"/></head>
+                    <link rel="stylesheet" type="text/css" href="../xslt/JillianGrgic/exercise-e-JLG.css"/></head>
                 <body>
                     <xsl:apply-templates select=".//chapter"/>
                     <xsl:apply-templates select=".//p"/>
@@ -43,7 +43,7 @@
     </xsl:template>
     
     <xsl:template match="chapter" mode="toc">
-        <li><a href="#{@num}"><xsl:apply-templates select="title [1]" mode="toc"/> <xsl:apply-templates select="@num"/></a></li>
+        <li><a href="#{@num}">Chapter <xsl:apply-templates select="@n"/> (<xsl:apply-templates select="@num"/>): <xsl:apply-templates select="title [1]" mode="toc"/> </a></li>
     </xsl:template> <!-- This is meant to list the chapter title with the corresponding chapters in the list -->
     
     <xsl:template match="chapter"><xsl:text>Chapter </xsl:text>
@@ -65,7 +65,7 @@
     </xsl:template>
     
     <xsl:template match="title">
-        <h2 id="#{count(preceding::chapter)-2}"><xsl:apply-templates/></h2>
+        <h2 id="#{@num}"><xsl:apply-templates/></h2>
     </xsl:template>
     <!--To connect the css to the html and let the properties show up.-->
     
