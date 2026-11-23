@@ -17,8 +17,8 @@
     <xsl:variable name="HistRef_Lincoln" select="//HistRef[@name='Lincoln']=>count()"/>
     <xsl:template match="$DocMatch">
         <xsl:result-document method="xml" indent="yes" href="../Results/BC-SVG-3-results.svg">
-            <svg viewBox="0 0 1000 1000"> <!-- BC - Makes the svg viewable on most screens fully, and will be scrollable if necessary. -->
-                <g transform="translate(50,50)">
+            <svg viewBox="0 0 1500 1500"> <!-- BC - Makes the svg viewable on most screens fully, and will be scrollable if necessary. -->
+                <g transform="translate(500,100)">
                     <line x1="0" x2="{$xspacer*$HistRef_War}" y1="{$yspacer*10}" y2="{$yspacer*10}" stroke="blue" stroke-width="15"/>
                     <line x1="0" x2="{$xspacer*$HistRef_Lincoln}" y1="{$yspacer*$HistRef_Lincoln}" y2="{$yspacer*$HistRef_Lincoln}" stroke="red" stroke-width="15"/>
                     <line x1="0" x2="{$xspacer*$HistRef_EmanProc}" y1="{$yspacer*$HistRef_EmanProc}" y2="{$yspacer*$HistRef_EmanProc}" stroke="yellow" stroke-width="15"/>
