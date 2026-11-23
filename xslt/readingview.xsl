@@ -58,7 +58,7 @@
 
            
     <xsl:template match="chapter">
-        <p><xsl:apply-templates/></p>
+        <div id="{@num}"><xsl:apply-templates/></div>
     </xsl:template>
     
     <xsl:template match="p">
@@ -66,7 +66,7 @@
     </xsl:template>
     
     <xsl:template match="title">
-        <h2 id="{@num}"><xsl:apply-templates/></h2>
+        <h2><xsl:apply-templates/></h2>
     </xsl:template>
 <!--    Not sure if this is the one that's supposed to have the id, does not link it in the html-->
     <!--To connect the css to the html and let the properties show up.-->
